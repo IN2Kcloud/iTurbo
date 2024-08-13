@@ -1,0 +1,905 @@
+{
+    "brand": "Renault",
+    "models": [
+        {
+            "model": "Avantime 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "F4R760 / F4R761  16v",
+            "power": "165HP",
+            "year": "02-03",
+            "turboModel": "TD04",
+            "oemPartNo": "8200396687",
+            "baseCode": "49377-07313"
+        },
+        {
+            "model": "Avantime dCi",
+            "engine": "2.2L D",
+            "engineCode": "G9T700/G9T702 Euro 3",
+            "power": "150HP",
+            "year": "01-04",
+            "turboModel": "GT18",
+            "oemPartNo": "8200683860",
+            "baseCode": "718089-5008S"
+        },
+        {
+            "model": "Clio TCE",
+            "engine": "1.5L D",
+            "engineCode": "D4F",
+            "power": "100HP",
+            "year": "03-05",
+            "turboModel": "TD02",
+            "oemPartNo": "8200526830",
+            "baseCode": "49173-07621"
+        },
+        {
+            "model": "Clio Van dCi",
+            "engine": "1.5L D",
+            "engineCode": "K9K766",
+            "power": "86HP",
+            "year": "01-05",
+            "turboModel": "KP35",
+            "oemPartNo": "7701476880",
+            "baseCode": "5435-970-0029"
+        },
+        {
+            "model": "Clio dCi",
+            "engine": "1.5L D",
+            "engineCode": "K9K700/K9K704/K9K710",
+            "power": "65HP",
+            "year": "05-08",
+            "turboModel": "KP35",
+            "oemPartNo": "8200578317",
+            "baseCode": "5435-970-0000"
+        },
+        {
+            "model": "Clio dCi",
+            "engine": "1.5L D",
+            "engineCode": "K9K702/K9K706",
+            "power": "80HP",
+            "year": "05-08",
+            "turboModel": "KP35",
+            "oemPartNo": "8200578338",
+            "baseCode": "5435-970-0002"
+        },
+        {
+            "model": "Clio dCi",
+            "engine": "1.5L D",
+            "engineCode": "K9K766",
+            "power": "86HP",
+            "year": "05-",
+            "turboModel": "KP35",
+            "oemPartNo": "7701476880",
+            "baseCode": "5435-970-0029"
+        },
+        {
+            "model": "Clio dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q Euro 3",
+            "power": "105HP",
+            "year": "01-",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683853",
+            "baseCode": "738123-5004S"
+        },
+        {
+            "model": "Clio dTi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q710/716/722/734",
+            "power": "97HP",
+            "year": "00-01",
+            "turboModel": "K03",
+            "oemPartNo": "7701471634",
+            "baseCode": "5303-970-0014"
+        },
+        {
+            "model": "Espace",
+            "engine": "2.2L D",
+            "engineCode": "G8T716",
+            "power": "115HP",
+            "year": "",
+            "turboModel": "VNT25",
+            "oemPartNo": "6025110523",
+            "baseCode": "454096-5001S"
+        },
+        {
+            "model": "Espace",
+            "engine": "2.2L D",
+            "engineCode": "G9T 600 Euro 4(Manual)",
+            "power": "150HP",
+            "year": "02-07",
+            "turboModel": "GT18",
+            "oemPartNo": "8200683862A",
+            "baseCode": "727271-5010S"
+        },
+        {
+            "model": "Espace",
+            "engine": "2.2L D",
+            "engineCode": "G9T 605 Euro 4(Automatic)",
+            "power": "140HP",
+            "year": "07-07",
+            "turboModel": "GT18",
+            "oemPartNo": "8200683864A",
+            "baseCode": "727271-5011S"
+        },
+        {
+            "model": "Espace 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "F4R-794/-795/-796/-797",
+            "power": "163HP",
+            "year": "03-06",
+            "turboModel": "TD04",
+            "oemPartNo": "8200396687",
+            "baseCode": "49377-07313"
+        },
+        {
+            "model": "Espace 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "F4R794 / F4R795",
+            "power": "170HP",
+            "year": "03-09",
+            "turboModel": "TD04",
+            "oemPartNo": "8200396687",
+            "baseCode": "49377-07313"
+        },
+        {
+            "model": "Espace DT",
+            "engine": "2.2L D",
+            "engineCode": "G8T714",
+            "power": "113HP",
+            "year": "97-03",
+            "turboModel": "GT17",
+            "oemPartNo": "7700101141",
+            "baseCode": "454164-5004S"
+        },
+        {
+            "model": "Espace dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q680/820/826 Euro 2",
+            "power": "120HP",
+            "year": "03-07",
+            "turboModel": "GT17",
+            "oemPartNo": "8200683855",
+            "baseCode": "708639-5010S"
+        },
+        {
+            "model": "Espace dCi",
+            "engine": "2.0L D",
+            "engineCode": "M9R740/760/761 Euro 4",
+            "power": "150HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "8201051043A",
+            "baseCode": "765015-5006S"
+        },
+        {
+            "model": "Espace dCi",
+            "engine": "2.0L D",
+            "engineCode": "M9R760/M9R761 Euro 4",
+            "power": "175HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "8201051044A",
+            "baseCode": "765016-5005S"
+        },
+        {
+            "model": "Espace dCi",
+            "engine": "2.2L D",
+            "engineCode": "G9T642/G9T742/G9T743",
+            "power": "150HP",
+            "year": "06-07",
+            "turboModel": "GT18",
+            "oemPartNo": "8200683860",
+            "baseCode": "718089-5008S"
+        },
+        {
+            "model": "Espace dCi",
+            "engine": "2.2L D",
+            "engineCode": "G9T710",
+            "power": "130HP",
+            "year": "00-03",
+            "turboModel": "GT15",
+            "oemPartNo": "8200178919",
+            "baseCode": "725071-5002S"
+        },
+        {
+            "model": "Espace dCi",
+            "engine": "3.0L D",
+            "engineCode": "P9X701 Euro 3",
+            "power": "177HP",
+            "year": "03-06",
+            "turboModel": "GT25",
+            "oemPartNo": "8972409267",
+            "baseCode": "714306-5006S"
+        },
+        {
+            "model": "Espace dTi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q710/716/722/734",
+            "power": "97HP",
+            "year": "00-05",
+            "turboModel": "K03",
+            "oemPartNo": "8200107826",
+            "baseCode": "5303-970-0014"
+        },
+        {
+            "model": "Espace dTi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q730 ECO",
+            "power": "90HP",
+            "year": "98-00",
+            "turboModel": "GT15",
+            "oemPartNo": "7700107795",
+            "baseCode": "700830-5001S"
+        },
+        {
+            "model": "Grand Scenic dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q803/F9Q814 Euro 4",
+            "power": "130HP",
+            "year": "05-09",
+            "turboModel": "GT17",
+            "oemPartNo": "8200901185A",
+            "baseCode": "755507-5009S"
+        },
+        {
+            "model": "Kangoo Express dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q780 Euro 3",
+            "power": "80HP",
+            "year": "03-08",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683853",
+            "baseCode": "738123-5004S"
+        },
+        {
+            "model": "Kangoo Express dTi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q790/F8Q682",
+            "power": "80HP",
+            "year": "00-02",
+            "turboModel": "K03",
+            "oemPartNo": "7701471634",
+            "baseCode": "5303-970-0014"
+        },
+        {
+            "model": "Kangoo dCi",
+            "engine": "1.5L D",
+            "engineCode": "K9K700",
+            "power": "65HP",
+            "year": "02-03",
+            "turboModel": "KP35",
+            "oemPartNo": "8200578317",
+            "baseCode": "5435-970-0000"
+        },
+        {
+            "model": "Kangoo dCi",
+            "engine": "1.5L D",
+            "engineCode": "K9K702",
+            "power": "80HP",
+            "year": "03-05",
+            "turboModel": "KP35",
+            "oemPartNo": "8200578338",
+            "baseCode": "5435-970-0002"
+        },
+        {
+            "model": "Kangoo dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q780 Euro 3",
+            "power": "80HP",
+            "year": "02-05",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683853",
+            "baseCode": "738123-5004S"
+        },
+        {
+            "model": "Kangoo dTi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q790/F8Q682",
+            "power": "80HP",
+            "year": "01-01",
+            "turboModel": "K03",
+            "oemPartNo": "7701471634",
+            "baseCode": "5303-970-0014"
+        },
+        {
+            "model": "Koleos dCi",
+            "engine": "2.0L D",
+            "engineCode": "M1Dk  Euro 4",
+            "power": "150HP",
+            "year": "08-",
+            "turboModel": "GT15",
+            "oemPartNo": "8200673417D",
+            "baseCode": "774833-5002S"
+        },
+        {
+            "model": "Laguna",
+            "engine": "2.0L D",
+            "engineCode": "-",
+            "power": "175HP",
+            "year": "07-",
+            "turboModel": "GT15",
+            "oemPartNo": "8200646108",
+            "baseCode": "770116-5001S"
+        },
+        {
+            "model": "Laguna",
+            "engine": "2.0L D",
+            "engineCode": "M9R760 Euro 4",
+            "power": "175HP",
+            "year": "05-07",
+            "turboModel": "GT17",
+            "oemPartNo": "8201051044A",
+            "baseCode": "765016-5005S"
+        },
+        {
+            "model": "Laguna",
+            "engine": "2.0L P",
+            "engineCode": "F4R-760/-761/-794/-795",
+            "power": "165HP",
+            "year": "02-05",
+            "turboModel": "TD04",
+            "oemPartNo": "8200396687",
+            "baseCode": "49377-07313"
+        },
+        {
+            "model": "Laguna",
+            "engine": "2.2L D",
+            "engineCode": "G8T 760",
+            "power": "115HP",
+            "year": "96-00",
+            "turboModel": "GT17",
+            "oemPartNo": "7700101141",
+            "baseCode": "454164-5004S"
+        },
+        {
+            "model": "Laguna II",
+            "engine": "2.2L D",
+            "engineCode": "G9T 600 Euro 4",
+            "power": "150HP",
+            "year": "02-05",
+            "turboModel": "GT18",
+            "oemPartNo": "8200683862A",
+            "baseCode": "727271-5010S"
+        },
+        {
+            "model": "Laguna II",
+            "engine": "2.2L D",
+            "engineCode": "G9T 605 Euro 4(Auto)",
+            "power": "140HP",
+            "year": "06-07",
+            "turboModel": "GT18",
+            "oemPartNo": "8200683864A",
+            "baseCode": "727271-5011S"
+        },
+        {
+            "model": "Laguna III",
+            "engine": "2.0L D",
+            "engineCode": "M9Ra Euro 4 Euro 4",
+            "power": "150HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "8201051043A",
+            "baseCode": "765015-5006S"
+        },
+        {
+            "model": "Laguna III",
+            "engine": "2.2L D",
+            "engineCode": "V6 24v",
+            "power": "235HP",
+            "year": "09-",
+            "turboModel": "TD04",
+            "oemPartNo": "8200810991",
+            "baseCode": "49189-07600"
+        },
+        {
+            "model": "Laguna dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q",
+            "power": "105HP",
+            "year": "00-",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683854",
+            "baseCode": "751768-5004S"
+        },
+        {
+            "model": "Laguna dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q-650/-670/-674 Euro 2",
+            "power": "120HP",
+            "year": "01-04",
+            "turboModel": "GT17",
+            "oemPartNo": "8200683855",
+            "baseCode": "708639-5010S"
+        },
+        {
+            "model": "Laguna dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q758 Euro 4",
+            "power": "130HP",
+            "year": "04-07",
+            "turboModel": "GT17",
+            "oemPartNo": "8200901185A",
+            "baseCode": "755507-5009S"
+        },
+        {
+            "model": "Laguna dCi",
+            "engine": "2.0L D",
+            "engineCode": "M9Ra Euro 4",
+            "power": "141HP",
+            "year": "05-07",
+            "turboModel": "GT17",
+            "oemPartNo": "8200473786C",
+            "baseCode": "759171-5003S"
+        },
+        {
+            "model": "Laguna dCi",
+            "engine": "2.2L D",
+            "engineCode": "G9T 702 Euro 2",
+            "power": "150HP",
+            "year": "06-",
+            "turboModel": "GT18",
+            "oemPartNo": "8200683860",
+            "baseCode": "718089-5008S"
+        },
+        {
+            "model": "Laguna dTi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q710/F9Q716/F9Q717",
+            "power": "100HP",
+            "year": "98-01",
+            "turboModel": "K03",
+            "oemPartNo": "8200107826",
+            "baseCode": "5303-970-0014"
+        },
+        {
+            "model": "Laguna dTi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q730 ECO",
+            "power": "90HP",
+            "year": "98-05",
+            "turboModel": "GT15",
+            "oemPartNo": "7700107795",
+            "baseCode": "700830-5001S"
+        },
+        {
+            "model": "Mascott",
+            "engine": "2.8L D",
+            "engineCode": "8140.43B.4000",
+            "power": "125HP",
+            "year": "99-",
+            "turboModel": "GT20",
+            "oemPartNo": "504071573",
+            "baseCode": "751578-5002S"
+        },
+        {
+            "model": "Mascott",
+            "engine": "2.8L D",
+            "engineCode": "8140.43K.4000",
+            "power": "140HP",
+            "year": "00-",
+            "turboModel": "GT22",
+            "oemPartNo": "500379251",
+            "baseCode": "751758-5001S"
+        },
+        {
+            "model": "Mascott DXi",
+            "engine": "3.0L D",
+            "engineCode": "ZD30CTi (160DXi) Euro 3",
+            "power": "160HP",
+            "year": "05-",
+            "turboModel": "GT23",
+            "oemPartNo": "14411DC00B",
+            "baseCode": "726372-5013S"
+        },
+        {
+            "model": "Master",
+            "engine": "2.2L D",
+            "engineCode": "G9T 722",
+            "power": "90HP",
+            "year": "00-03",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683861",
+            "baseCode": "720244-5004S"
+        },
+        {
+            "model": "Master",
+            "engine": "2.5L D",
+            "engineCode": "G9U Euro 4",
+            "power": "143HP",
+            "year": "08-",
+            "turboModel": "GT17",
+            "oemPartNo": "8200870469",
+            "baseCode": "782097-5001S"
+        },
+        {
+            "model": "Master",
+            "engine": "2.5L D",
+            "engineCode": "G9U730",
+            "power": "131HP",
+            "year": "03-06",
+            "turboModel": "GT20",
+            "oemPartNo": "8200683859",
+            "baseCode": "714652-5006S"
+        },
+        {
+            "model": "Master",
+            "engine": "2.8L D",
+            "engineCode": "S9W700/S9W702",
+            "power": "115HP",
+            "year": "98-03",
+            "turboModel": "GT17",
+            "oemPartNo": "7701044612",
+            "baseCode": "49135-05010"
+        },
+        {
+            "model": "Master TC",
+            "engine": "2.8L D",
+            "engineCode": "8140",
+            "power": "",
+            "year": "",
+            "turboModel": "TF035",
+            "oemPartNo": "99455591",
+            "baseCode": "49135-05030"
+        },
+        {
+            "model": "Master dCi",
+            "engine": "2.5L D",
+            "engineCode": "G9U Euro 4",
+            "power": "120HP",
+            "year": "06-",
+            "turboModel": "GT15",
+            "oemPartNo": "8200879731",
+            "baseCode": "757349-5004S"
+        },
+        {
+            "model": "Master dCi",
+            "engine": "2.5L D",
+            "engineCode": "G9U720",
+            "power": "113HP",
+            "year": "06-",
+            "turboModel": "K03",
+            "oemPartNo": "8200715889",
+            "baseCode": "5303-970-0055"
+        },
+        {
+            "model": "Modus",
+            "engine": "1.5L D",
+            "engineCode": "D4F 16v",
+            "power": "99HP",
+            "year": "04-07",
+            "turboModel": "TD02",
+            "oemPartNo": "8200526830",
+            "baseCode": "49173-07621"
+        },
+        {
+            "model": "Megane II 2.0i Sport",
+            "engine": "2.0L P",
+            "engineCode": "F4R.774 16v",
+            "power": "222HP",
+            "year": "04-09",
+            "turboModel": "TD04",
+            "oemPartNo": "8200396689",
+            "baseCode": "49377-07313"
+        },
+        {
+            "model": "Megane II dCi",
+            "engine": "1.5L D",
+            "engineCode": "K9K 8v Euro 4",
+            "power": "106HP",
+            "year": "05-09",
+            "turboModel": "BV39",
+            "oemPartNo": "8200625683",
+            "baseCode": "5439-970-0070"
+        },
+        {
+            "model": "Megane II dCi",
+            "engine": "1.5L D",
+            "engineCode": "K9K728/K9K729 8v",
+            "power": "100HP",
+            "year": "04-05",
+            "turboModel": "BV39",
+            "oemPartNo": "8200578315",
+            "baseCode": "5439-970-0027"
+        },
+        {
+            "model": "Megane II dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q-710/-716/-722/-734",
+            "power": "96HP",
+            "year": "00-01",
+            "turboModel": "K03",
+            "oemPartNo": "8200107826",
+            "baseCode": "5303-970-0014"
+        },
+        {
+            "model": "Megane II dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q800/F9Q812 Euro 2",
+            "power": "120HP",
+            "year": "02-05",
+            "turboModel": "GT17",
+            "oemPartNo": "8200683855",
+            "baseCode": "708639-5010S"
+        },
+        {
+            "model": "Megane II dCi",
+            "engine": "2.0L D",
+            "engineCode": "M9Ra 16v Euro 4",
+            "power": "150HP",
+            "year": "06-09",
+            "turboModel": "GT17",
+            "oemPartNo": "8201051043A",
+            "baseCode": "765015-5006S"
+        },
+        {
+            "model": "Megane II dCi Sport",
+            "engine": "2.0L D",
+            "engineCode": "M9RB Euro 4",
+            "power": "175HP",
+            "year": "07-09",
+            "turboModel": "GT17",
+            "oemPartNo": "8201051044A",
+            "baseCode": "765016-5005S"
+        },
+        {
+            "model": "Megane III dCi",
+            "engine": "2.0L D",
+            "engineCode": "M9Rk2 16v Euro 5",
+            "power": "175HP",
+            "year": "09-",
+            "turboModel": "GT15",
+            "oemPartNo": "8200907199D",
+            "baseCode": "785437-5002S"
+        },
+        {
+            "model": "Megane dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q Euro 3",
+            "power": "105HP",
+            "year": "00-02",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683853",
+            "baseCode": "738123-5004S"
+        },
+        {
+            "model": "Megane dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q Euro 3",
+            "power": "105HP",
+            "year": "00-02",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683854",
+            "baseCode": "751768-5004S"
+        },
+        {
+            "model": "Megane dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q803/F9Q804 Euro 4",
+            "power": "130HP",
+            "year": "05-09",
+            "turboModel": "GT17",
+            "oemPartNo": "8200901185A",
+            "baseCode": "755507-5009S"
+        },
+        {
+            "model": "Megane dTi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q730 ECO 8v",
+            "power": "80HP",
+            "year": "00-02",
+            "turboModel": "GT15",
+            "oemPartNo": "7700108030",
+            "baseCode": "700830-5003S"
+        },
+        {
+            "model": "Scenic",
+            "engine": "2.0L D",
+            "engineCode": "M9RB",
+            "power": "175HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "8201051044A",
+            "baseCode": "765016-5005S"
+        },
+        {
+            "model": "Scenic II",
+            "engine": "2.0L D",
+            "engineCode": "M9Ra Euro 4",
+            "power": "150HP",
+            "year": "06-09",
+            "turboModel": "GT17",
+            "oemPartNo": "8201051043A",
+            "baseCode": "765015-5006S"
+        },
+        {
+            "model": "Scenic III dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q 816/818",
+            "power": "130HP",
+            "year": "09-",
+            "turboModel": "GT15",
+            "oemPartNo": "8200901189A",
+            "baseCode": "763980-5007S"
+        },
+        {
+            "model": "Scenic dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q Euro 3(Pressure Act.)",
+            "power": "105HP",
+            "year": "00-03",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683853",
+            "baseCode": "738123-5004S"
+        },
+        {
+            "model": "Scenic dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q Euro 3(Vacuum Act.)",
+            "power": "105HP",
+            "year": "00-03",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683854",
+            "baseCode": "751768-5004S"
+        },
+        {
+            "model": "Scenic dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q803/F9Q814 Euro 4",
+            "power": "130HP",
+            "year": "05-09",
+            "turboModel": "GT17",
+            "oemPartNo": "8200901185A",
+            "baseCode": "755507-5009S"
+        },
+        {
+            "model": "Scenic dCi",
+            "engine": "2.0L D",
+            "engineCode": "M9Rk2 Euro 5",
+            "power": "170HP",
+            "year": "09-",
+            "turboModel": "GT15",
+            "oemPartNo": "8200907199D",
+            "baseCode": "785437-5002S"
+        },
+        {
+            "model": "Scenic dTi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q730 ECO",
+            "power": "80HP",
+            "year": "00-03",
+            "turboModel": "GT15",
+            "oemPartNo": "7700108030",
+            "baseCode": "700830-5003S"
+        },
+        {
+            "model": "Trafic",
+            "engine": "2.0L D",
+            "engineCode": "M1D VU  16v Euro 4",
+            "power": "120HP",
+            "year": "01-08",
+            "turboModel": "GT15",
+            "oemPartNo": "820091077A",
+            "baseCode": "762785-5004S"
+        },
+        {
+            "model": "Trafic",
+            "engine": "2.2L D",
+            "engineCode": "G9T722",
+            "power": "88HP",
+            "year": "06-",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683861",
+            "baseCode": "720244-5004S"
+        },
+        {
+            "model": "Trafic dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q Euro 3(Pressure Act.)",
+            "power": "105HP",
+            "year": "01-06",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683853",
+            "baseCode": "738123-5004S"
+        },
+        {
+            "model": "Trafic dCi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q Euro 3(Vacuum Act.)",
+            "power": "105HP",
+            "year": "01-06",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683854",
+            "baseCode": "751768-5004S"
+        },
+        {
+            "model": "Trafic dCi",
+            "engine": "2.5L D",
+            "engineCode": "G9U630/G9U632 Euro 4",
+            "power": "150HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "8200870469",
+            "baseCode": "782097-5001S"
+        },
+        {
+            "model": "Trafic dCi",
+            "engine": "2.5L D",
+            "engineCode": "G9U730",
+            "power": "135HP",
+            "year": "03-06",
+            "turboModel": "GT20",
+            "oemPartNo": "8200683859",
+            "baseCode": "714652-5006S"
+        },
+        {
+            "model": "Twingo TCE",
+            "engine": "1.1L P",
+            "engineCode": "D4F780 16v",
+            "power": "100HP",
+            "year": "07-",
+            "turboModel": "TD02",
+            "oemPartNo": "8200526830",
+            "baseCode": "49173-07621"
+        },
+        {
+            "model": "Vel Satis",
+            "engine": "2.0L D",
+            "engineCode": "M9RB Euro 4",
+            "power": "174HP",
+            "year": "06-06",
+            "turboModel": "GT17",
+            "oemPartNo": "8201051044A",
+            "baseCode": "765016-5005S"
+        },
+        {
+            "model": "Vel Satis",
+            "engine": "2.2L D",
+            "engineCode": "G9T600 Euro 4 (Manual)",
+            "power": "150HP",
+            "year": "06-06",
+            "turboModel": "GT18",
+            "oemPartNo": "8200683862A",
+            "baseCode": "727271-5010S"
+        },
+        {
+            "model": "Vel Satis",
+            "engine": "2.2L D",
+            "engineCode": "G9T605 Euro 4 (Auto)",
+            "power": "140HP",
+            "year": "06-06",
+            "turboModel": "GT18",
+            "oemPartNo": "8200683864A",
+            "baseCode": "727271-5011S"
+        },
+        {
+            "model": "Vel Satis 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "F4R.762 - F4R.767 16v",
+            "power": "165HP",
+            "year": "02-05",
+            "turboModel": "TD04",
+            "oemPartNo": "8200396689",
+            "baseCode": "49377-07313"
+        },
+        {
+            "model": "Vel Satis dCi",
+            "engine": "2.2L D",
+            "engineCode": "G9T700/702/703 Euro 3",
+            "power": "150HP",
+            "year": "02-06",
+            "turboModel": "GT18",
+            "oemPartNo": "8200683860",
+            "baseCode": "718089-5008S"
+        },
+        {
+            "model": "Vel Satis dCi",
+            "engine": "3.0L D",
+            "engineCode": "P9X701 Euro 3",
+            "power": "180HP",
+            "year": "02-06",
+            "turboModel": "GT25",
+            "oemPartNo": "8972409267",
+            "baseCode": "714306-5006S"
+        }
+    ]
+}

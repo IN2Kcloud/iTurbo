@@ -1,0 +1,165 @@
+{
+    "brand": "Kia",
+    "models": [
+        {
+            "model": "Carens D",
+            "engine": "2.0L D",
+            "engineCode": "16v Euro 4",
+            "power": "138HP",
+            "year": "06-",
+            "turboModel": "GT16",
+            "oemPartNo": "2823127460",
+            "baseCode": "757886-5008S"
+        },
+        {
+            "model": "Cee'd CRDi",
+            "engine": "2.0L D",
+            "engineCode": "D4EA",
+            "power": "138HP",
+            "year": "08-10",
+            "turboModel": "GT16",
+            "oemPartNo": "2823127480",
+            "baseCode": "757886-5008S"
+        },
+        {
+            "model": "Cee'd SW CRDi",
+            "engine": "1.6L D",
+            "engineCode": "D4FB",
+            "power": "113HP",
+            "year": "06-",
+            "turboModel": "GT15",
+            "oemPartNo": "282012A400",
+            "baseCode": "740611-5002S"
+        },
+        {
+            "model": "Cerato CRDi",
+            "engine": "1.5L D",
+            "engineCode": "D4FA 16v Euro 3",
+            "power": "101HP",
+            "year": "05-07",
+            "turboModel": "GT15",
+            "oemPartNo": "282012A110",
+            "baseCode": "740611-5003S"
+        },
+        {
+            "model": "Magentis CRDi",
+            "engine": "2.0L D",
+            "engineCode": "D4DA Euro 4",
+            "power": "140HP",
+            "year": "06-10",
+            "turboModel": "GT16",
+            "oemPartNo": "2823127470",
+            "baseCode": "757886-5008S"
+        },
+        {
+            "model": "Magentis CRDi",
+            "engine": "2.0L D",
+            "engineCode": "D4EA",
+            "power": "138HP",
+            "year": "06-09",
+            "turboModel": "GT16",
+            "oemPartNo": "2823127450",
+            "baseCode": "757886-5004S"
+        },
+        {
+            "model": "Picanto CRDi",
+            "engine": "1.1L D",
+            "engineCode": "12v Euro 4",
+            "power": "75HP",
+            "year": "04-",
+            "turboModel": "GT15",
+            "oemPartNo": "282012A000",
+            "baseCode": "734598-5003S"
+        },
+        {
+            "model": "Pro Cee'd CRDi",
+            "engine": "2.0L D",
+            "engineCode": "D4EA",
+            "power": "138HP",
+            "year": "08-10",
+            "turboModel": "GT16",
+            "oemPartNo": "2823127480",
+            "baseCode": "757886-5008S"
+        },
+        {
+            "model": "Rio CRDi",
+            "engine": "1.5L D",
+            "engineCode": "D4FA Euro 4",
+            "power": "109HP",
+            "year": "05-",
+            "turboModel": "GT15",
+            "oemPartNo": "282012A400",
+            "baseCode": "740611-5002S"
+        },
+        {
+            "model": "Sedona CRDi",
+            "engine": "2.9L D",
+            "engineCode": "J Euro 4",
+            "power": "182HP",
+            "year": "06-10",
+            "turboModel": "K04",
+            "oemPartNo": "282004X900",
+            "baseCode": "5304-970-0084"
+        },
+        {
+            "model": "Sedona CRDi",
+            "engine": "2.9L D",
+            "engineCode": "J3",
+            "power": "126HP",
+            "year": "99-01",
+            "turboModel": "RHF5",
+            "oemPartNo": "282004X300",
+            "baseCode": "VR15"
+        },
+        {
+            "model": "Sedona CRDi",
+            "engine": "2.9L D",
+            "engineCode": "KJ 16v",
+            "power": "143HP",
+            "year": "01-06",
+            "turboModel": "RHF4",
+            "oemPartNo": "0K55113701",
+            "baseCode": "VR13"
+        },
+        {
+            "model": "Sorento CRDi",
+            "engine": "2.5L D",
+            "engineCode": "A-engine Euro 3",
+            "power": "163HP",
+            "year": "05-",
+            "turboModel": "BV43",
+            "oemPartNo": "282004A421",
+            "baseCode": "5303-970-0097"
+        },
+        {
+            "model": "Sorento CRDi",
+            "engine": "2.5L D",
+            "engineCode": "D4CB",
+            "power": "140HP",
+            "year": "03-07",
+            "turboModel": "GT17",
+            "oemPartNo": "282004A101",
+            "baseCode": "733952-5001S"
+        },
+        {
+            "model": "Sorento CRDi",
+            "engine": "2.5L D",
+            "engineCode": "D4CB A-engineEuro 4",
+            "power": "170HP",
+            "year": "06-",
+            "turboModel": "BV43",
+            "oemPartNo": "282004A470",
+            "baseCode": "5303-970-0144"
+        },
+        {
+            "model": "Sportage CRDi",
+            "engine": "2.0L D",
+            "engineCode": "D4EA-V Euro 4",
+            "power": "138HP",
+            "year": "06-",
+            "turboModel": "GT16",
+            "oemPartNo": "2823127400",
+            "baseCode": "757886-5003S"
+        }
+    ]
+}

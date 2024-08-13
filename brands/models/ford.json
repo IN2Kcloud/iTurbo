@@ -1,0 +1,585 @@
+{
+    "brand": "Ford",
+    "models": [
+        {
+            "model": "C-Max TDCi",
+            "engine": "1.6L D",
+            "engineCode": "DV6 TED4",
+            "power": "114HP",
+            "year": "05-07",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "C-Max TDCi",
+            "engine": "1.6L D",
+            "engineCode": "DV6 UTED4",
+            "power": "89HP",
+            "year": "05-07",
+            "turboModel": "TD025",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "C-Max TDCi",
+            "engine": "2.0L D",
+            "engineCode": "DW10 BTED 4S",
+            "power": "141HP",
+            "year": "03-07",
+            "turboModel": "GT17",
+            "oemPartNo": "9662464980",
+            "baseCode": "760774-5003S"
+        },
+        {
+            "model": "Escort RS",
+            "engine": "1.6L P",
+            "engineCode": "LNA",
+            "power": "132HP",
+            "year": "84-91",
+            "turboModel": "TB03",
+            "oemPartNo": "V85SF6K690AA",
+            "baseCode": "466644-5001S"
+        },
+        {
+            "model": "Escort RS Cosworth",
+            "engine": "2.0L P",
+            "engineCode": "YBT N5E/F",
+            "power": "225HP",
+            "year": "92-96",
+            "turboModel": "TB34",
+            "oemPartNo": "YB1195D",
+            "baseCode": "452059-5001S"
+        },
+        {
+            "model": "Escort TD",
+            "engine": "1.8L D",
+            "engineCode": "RFK",
+            "power": "89HP",
+            "year": "93-96",
+            "turboModel": "TB02",
+            "oemPartNo": "91FF6K682AC",
+            "baseCode": "452014-5006S"
+        },
+        {
+            "model": "Escort TDi",
+            "engine": "1.8L D",
+            "engineCode": "Endura",
+            "power": "89HP",
+            "year": "96-00",
+            "turboModel": "GT15",
+            "oemPartNo": "96FF6K682AD",
+            "baseCode": "452084-5011S"
+        },
+        {
+            "model": "Fiesta TDCi",
+            "engine": "1.4L D",
+            "engineCode": "DV4 TD",
+            "power": "67HP",
+            "year": "02-",
+            "turboModel": "KP35",
+            "oemPartNo": "2S6Q6K682AD",
+            "baseCode": "5435-970-0009"
+        },
+        {
+            "model": "Fiesta TDCi",
+            "engine": "1.6L D",
+            "engineCode": "DV6U TED4",
+            "power": "88HP",
+            "year": "05-",
+            "turboModel": "TD025",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "Focus C-Max TDCi",
+            "engine": "1.6L D",
+            "engineCode": "DV6 TED4",
+            "power": "114HP",
+            "year": "05-07",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "Focus C-Max TDCi",
+            "engine": "1.6L D",
+            "engineCode": "DV6 UTED4",
+            "power": "89HP",
+            "year": "05-07",
+            "turboModel": "TD025",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "Focus C-Max TDCi",
+            "engine": "2.0L D",
+            "engineCode": "DW10 BTED 4S",
+            "power": "141HP",
+            "year": "03-07",
+            "turboModel": "GT17",
+            "oemPartNo": "9662464980",
+            "baseCode": "760774-5003S"
+        },
+        {
+            "model": "Focus ST",
+            "engine": "2.5L P",
+            "engineCode": "RNC 2P25-LT",
+            "power": "222HP",
+            "year": "05-",
+            "turboModel": "K04",
+            "oemPartNo": "6G9N6K682AA",
+            "baseCode": "5304-970-0033"
+        },
+        {
+            "model": "Focus TDCi",
+            "engine": "1.6L D",
+            "engineCode": "DV6 TED4",
+            "power": "109HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "Focus TDCi",
+            "engine": "1.8L D",
+            "engineCode": "Duratorq Lynx",
+            "power": "114HP",
+            "year": "05-10",
+            "turboModel": "GT17",
+            "oemPartNo": "4M5Q6K682AG",
+            "baseCode": "742110-5007S"
+        },
+        {
+            "model": "Focus TDCi",
+            "engine": "1.8L D",
+            "engineCode": "Duratorq Lynx Euro 4",
+            "power": "114HP",
+            "year": "05-10",
+            "turboModel": "GT17",
+            "oemPartNo": "7G9Q6K682BD",
+            "baseCode": "763647-5021S"
+        },
+        {
+            "model": "Focus TDCi",
+            "engine": "2.0L D",
+            "engineCode": "DW10B TED4S Euro 4",
+            "power": "137HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "9662464980",
+            "baseCode": "760774-5003S"
+        },
+        {
+            "model": "Focus TDdi",
+            "engine": "1.8L D",
+            "engineCode": "Duratorq",
+            "power": "89HP",
+            "year": "98-05",
+            "turboModel": "GT15",
+            "oemPartNo": "XS4Q6K682BB",
+            "baseCode": "452244-5005S"
+        },
+        {
+            "model": "Fusion TDCI",
+            "engine": "1.4L D",
+            "engineCode": "DV4TD 8HX",
+            "power": "",
+            "year": "02-",
+            "turboModel": "KP35",
+            "oemPartNo": "2S6Q6K682AB",
+            "baseCode": "5435-970-0009"
+        },
+        {
+            "model": "Galaxy",
+            "engine": "1.9L D",
+            "engineCode": "1Z/AHU/ANU",
+            "power": "89HP",
+            "year": "95-97",
+            "turboModel": "GT15",
+            "oemPartNo": "",
+            "baseCode": "454083-5002S"
+        },
+        {
+            "model": "Galaxy TDCi",
+            "engine": "1.9L D",
+            "engineCode": "DW10 BTED4S Euro 4",
+            "power": "137HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "9662464980",
+            "baseCode": "760774-5003S"
+        },
+        {
+            "model": "Galaxy TDI",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "88HP",
+            "year": "95-00",
+            "turboModel": "K03",
+            "oemPartNo": "95VW6K682AB",
+            "baseCode": "5303-970-0006"
+        },
+        {
+            "model": "Galaxy TDI",
+            "engine": "1.9L D",
+            "engineCode": "AFN",
+            "power": "109HP",
+            "year": "03-",
+            "turboModel": "GT17",
+            "oemPartNo": "028145702PV500",
+            "baseCode": "701855-5005S"
+        },
+        {
+            "model": "Galaxy TDI",
+            "engine": "1.9L D",
+            "engineCode": "ASZ / BTB 19PPD",
+            "power": "129/147HP",
+            "year": "03-",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014R",
+            "baseCode": "5439-970-0047"
+        },
+        {
+            "model": "Galaxy TDI",
+            "engine": "1.9L D",
+            "engineCode": "AUY PD UI",
+            "power": "114HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253014E",
+            "baseCode": "713673-5006S"
+        },
+        {
+            "model": "Kuga TDCi",
+            "engine": "2.0L D",
+            "engineCode": "DW10 BTED4 Duratorq",
+            "power": "134HP",
+            "year": "08-",
+            "turboModel": "GT17",
+            "oemPartNo": "8V4Q6K682AA",
+            "baseCode": "765993-5004S"
+        },
+        {
+            "model": "Kuga TDCi",
+            "engine": "2.0L D",
+            "engineCode": "DW10 BTED4S Duratorq",
+            "power": "139HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "9662464980",
+            "baseCode": "760774-5003S"
+        },
+        {
+            "model": "Mondeo DI",
+            "engine": "2.0L D",
+            "engineCode": "Duratorq",
+            "power": "114HP",
+            "year": "00-02",
+            "turboModel": "GT17",
+            "oemPartNo": "1S7Q6K682BH",
+            "baseCode": "704226-5007S"
+        },
+        {
+            "model": "Mondeo TD",
+            "engine": "1.8L D",
+            "engineCode": "Endura",
+            "power": "87HP",
+            "year": "93-00",
+            "turboModel": "GT15",
+            "oemPartNo": "97FF6K682AE",
+            "baseCode": "452124-5006S"
+        },
+        {
+            "model": "Mondeo TDCi",
+            "engine": "1.8L D",
+            "engineCode": "Duratorq Lynx",
+            "power": "124HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "7G9Q6K682BD",
+            "baseCode": "763647-5021S"
+        },
+        {
+            "model": "Mondeo TDCi",
+            "engine": "2.0L D",
+            "engineCode": "DW10 BTED",
+            "power": "139HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "9662464980",
+            "baseCode": "760774-5003S"
+        },
+        {
+            "model": "Mondeo TDCi",
+            "engine": "2.0L D",
+            "engineCode": "Duratorq Puma",
+            "power": "129HP",
+            "year": "01-07",
+            "turboModel": "GT17",
+            "oemPartNo": "3S7Q6K682AF",
+            "baseCode": "714467-5014S"
+        },
+        {
+            "model": "Mondeo TDCi",
+            "engine": "2.0L D",
+            "engineCode": "Duratorq Puma",
+            "power": "129HP",
+            "year": "01-07",
+            "turboModel": "GT17",
+            "oemPartNo": "4S7Q6K682EN",
+            "baseCode": "728680-5020S"
+        },
+        {
+            "model": "Mondeo TDCi",
+            "engine": "2.2L D",
+            "engineCode": "Duratorq Puma",
+            "power": "153HP",
+            "year": "04-07",
+            "turboModel": "GT17",
+            "oemPartNo": "6S7Q6K682AG",
+            "baseCode": "758226-5014S"
+        },
+        {
+            "model": "Mondeo TDCi",
+            "engine": "2.2L D",
+            "engineCode": "Duratorq Puma Euro 3",
+            "power": "153HP",
+            "year": "04-07",
+            "turboModel": "GT17",
+            "oemPartNo": "5S7Q6K682AE",
+            "baseCode": "752233-5007S"
+        },
+        {
+            "model": "Ranger",
+            "engine": "2.5L D",
+            "engineCode": "HS 2.5",
+            "power": "",
+            "year": "04-06",
+            "turboModel": "RHF5",
+            "oemPartNo": "XN349G348AB",
+            "baseCode": "VJ33"
+        },
+        {
+            "model": "Ranger",
+            "engine": "2.8L D",
+            "engineCode": "HS 2.8 HT",
+            "power": "127HP",
+            "year": "02-",
+            "turboModel": "GT22",
+            "oemPartNo": "EX79517",
+            "baseCode": "724652-5001S"
+        },
+        {
+            "model": "S-Max",
+            "engine": "2.5L P",
+            "engineCode": "RNC 2P25-LT",
+            "power": "217HP",
+            "year": "06-",
+            "turboModel": "K04",
+            "oemPartNo": "6G9N6K682AA",
+            "baseCode": "5304-970-0033"
+        },
+        {
+            "model": "S-Max TDCi",
+            "engine": "1.8L D",
+            "engineCode": "Duratorq Lynx Euro 4",
+            "power": "123HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "7G9Q6K682BD",
+            "baseCode": "763647-5021S"
+        },
+        {
+            "model": "Transit",
+            "engine": "2.5L D",
+            "engineCode": "-",
+            "power": "85/100HP",
+            "year": "96-",
+            "turboModel": "K04",
+            "oemPartNo": "974F6K682AG",
+            "baseCode": "5304-970-0008"
+        },
+        {
+            "model": "Transit",
+            "engine": "2.5L D",
+            "engineCode": "-",
+            "power": "98HP",
+            "year": "94-",
+            "turboModel": "K04",
+            "oemPartNo": "954F6K682AD",
+            "baseCode": "5304-970-0006"
+        },
+        {
+            "model": "Transit Connect TDCi",
+            "engine": "1.8L D",
+            "engineCode": "Duratorq",
+            "power": "89HP",
+            "year": "06-",
+            "turboModel": "GT15",
+            "oemPartNo": "7TIQ6K682AB",
+            "baseCode": "802419-5008S"
+        },
+        {
+            "model": "Transit Connect TDCi",
+            "engine": "1.8L D",
+            "engineCode": "Duratorq Lynx",
+            "power": "109HP",
+            "year": "06-",
+            "turboModel": "GT20",
+            "oemPartNo": "6G9Q6K682AC",
+            "baseCode": "758532-5019S"
+        },
+        {
+            "model": "Transit FT 190",
+            "engine": "2.5L D",
+            "engineCode": "-",
+            "power": "99HP",
+            "year": "94-01",
+            "turboModel": "K04",
+            "oemPartNo": "914F6K682AG",
+            "baseCode": "5304-970-0001"
+        },
+        {
+            "model": "Transit TDCi",
+            "engine": "2.0L D",
+            "engineCode": "-",
+            "power": "124HP",
+            "year": "01-06",
+            "turboModel": "GT20",
+            "oemPartNo": "3S7Q6K682AF",
+            "baseCode": "714467-5014S"
+        },
+        {
+            "model": "Transit TDCi",
+            "engine": "2.2L D",
+            "engineCode": "Puma",
+            "power": "85/110/140HP",
+            "year": "08-",
+            "turboModel": "GT20",
+            "oemPartNo": "8C1Q6K682BB",
+            "baseCode": "767933-5015S"
+        },
+        {
+            "model": "Transit TDCi",
+            "engine": "2.2L D",
+            "engineCode": "Puma",
+            "power": "130HP",
+            "year": "06-08",
+            "turboModel": "GT17",
+            "oemPartNo": "6C1Q6K682BC",
+            "baseCode": "753519-5009S"
+        },
+        {
+            "model": "Transit TDCi",
+            "engine": "2.2L D",
+            "engineCode": "Puma",
+            "power": "85/110/115HP",
+            "year": "06-08",
+            "turboModel": "TD03",
+            "oemPartNo": "6C1Q6K682CE",
+            "baseCode": "49131-05312"
+        },
+        {
+            "model": "Transit TDCi",
+            "engine": "2.4L D",
+            "engineCode": "Duratorq",
+            "power": "134HP",
+            "year": "04-06",
+            "turboModel": "TD04",
+            "oemPartNo": "4C1Q6K682BE",
+            "baseCode": "49377-00510"
+        },
+        {
+            "model": "Transit TDCi",
+            "engine": "2.4L D",
+            "engineCode": "Duratorq TDCi",
+            "power": "100/115HP",
+            "year": "09-",
+            "turboModel": "GT20",
+            "oemPartNo": "6C1Q6K682EL",
+            "baseCode": "752610-5032S"
+        },
+        {
+            "model": "Transit TDCi",
+            "engine": "2.4L D",
+            "engineCode": "Duratorq TDCi",
+            "power": "139HP",
+            "year": "06-",
+            "turboModel": "GT20",
+            "oemPartNo": "6C1Q6K682EL",
+            "baseCode": "752610-5032S"
+        },
+        {
+            "model": "Transit TDCi",
+            "engine": "2.4L D",
+            "engineCode": "Puma",
+            "power": "118HP",
+            "year": "02-",
+            "turboModel": "TF035",
+            "oemPartNo": "3V1Q6K682BA",
+            "baseCode": "49135-06115"
+        },
+        {
+            "model": "Transit TDCi",
+            "engine": "2.4L D",
+            "engineCode": "Puma",
+            "power": "74HP",
+            "year": "00-01",
+            "turboModel": "TF035",
+            "oemPartNo": "YC1Q6K682CA",
+            "baseCode": "49135-06020"
+        },
+        {
+            "model": "Transit TDCi",
+            "engine": "2.4L D",
+            "engineCode": "Puma",
+            "power": "100/115/120HP",
+            "year": "06-",
+            "turboModel": "TD03",
+            "oemPartNo": "6C1Q6K682DE",
+            "baseCode": "49131-05403"
+        },
+        {
+            "model": "Transit TDCi 200",
+            "engine": "3.2L D",
+            "engineCode": "DPF",
+            "power": "198HP",
+            "year": "07-",
+            "turboModel": "GT22",
+            "oemPartNo": "8C166K682AB",
+            "baseCode": "779366-5001S"
+        },
+        {
+            "model": "Transit TDdi",
+            "engine": "2.0L D",
+            "engineCode": "-",
+            "power": "85/100HP",
+            "year": "02-06",
+            "turboModel": "GT20",
+            "oemPartNo": "2C1Q6K682BE",
+            "baseCode": "802419-5005S"
+        },
+        {
+            "model": "Transit TDdi",
+            "engine": "2.0L D",
+            "engineCode": "-",
+            "power": "99HP",
+            "year": "00-03",
+            "turboModel": "GT20",
+            "oemPartNo": "1C1Q6K682DB",
+            "baseCode": "802419-5004S"
+        },
+        {
+            "model": "Transit TDdi",
+            "engine": "2.4L D",
+            "engineCode": "Duratorq",
+            "power": "90/120HP",
+            "year": "00-06",
+            "turboModel": "TF035",
+            "oemPartNo": "3C1Q6K6B2EA",
+            "baseCode": "49135-06017"
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "brand": "Nissan",
+    "models": [
+        {
+            "model": "Almera Di",
+            "engine": "2.2L D",
+            "engineCode": "YD22DDT",
+            "power": "110HP",
+            "year": "00-03",
+            "turboModel": "GT15",
+            "oemPartNo": "144115M310",
+            "baseCode": "705306-5006S"
+        },
+        {
+            "model": "Almera Tino dCi",
+            "engine": "2.2L D",
+            "engineCode": "YD22DDT",
+            "power": "112HP",
+            "year": "03-05",
+            "turboModel": "GT15",
+            "oemPartNo": "14411BN800",
+            "baseCode": "452274-5006S"
+        },
+        {
+            "model": "Almera dCi",
+            "engine": "2.2L D",
+            "engineCode": "YD22DDT",
+            "power": "112HP",
+            "year": "03-05",
+            "turboModel": "GT15",
+            "oemPartNo": "14411BN800",
+            "baseCode": "452274-5006S"
+        },
+        {
+            "model": "Almera dCi",
+            "engine": "2.2L D",
+            "engineCode": "YD22DDTi",
+            "power": "136HP",
+            "year": "03-05",
+            "turboModel": "GT18",
+            "oemPartNo": "14411AW40A",
+            "baseCode": "727477-5007S"
+        },
+        {
+            "model": "Micra",
+            "engine": "1.5L D",
+            "engineCode": "K9K",
+            "power": "82HP",
+            "year": "03-06",
+            "turboModel": "KP35",
+            "oemPartNo": "14411BN700",
+            "baseCode": "5435-970-0002"
+        },
+        {
+            "model": "Micra",
+            "engine": "1.5L D",
+            "engineCode": "K9K",
+            "power": "65HP",
+            "year": "03-06",
+            "turboModel": "KP35",
+            "oemPartNo": "14411BN701",
+            "baseCode": "5435-970-0000"
+        },
+        {
+            "model": "Pathfinder",
+            "engine": "2.7L D",
+            "engineCode": "TD27Ti Euro 3",
+            "power": "117HP",
+            "year": "01-05",
+            "turboModel": "GT20",
+            "oemPartNo": "144117F411",
+            "baseCode": "722687-5001S"
+        },
+        {
+            "model": "Pathfinder",
+            "engine": "3.0L D",
+            "engineCode": "123 ZD30ETi",
+            "power": "168HP",
+            "year": "99-04",
+            "turboModel": "GT20",
+            "oemPartNo": "144112W20A",
+            "baseCode": "726442-5004S"
+        },
+        {
+            "model": "Pathfinder dCi",
+            "engine": "2.5L D",
+            "engineCode": "YD25DDTi",
+            "power": "174HP",
+            "year": "05-06",
+            "turboModel": "GT20",
+            "oemPartNo": "14411EB300",
+            "baseCode": "751243-5002S"
+        },
+        {
+            "model": "Patrol",
+            "engine": "3.0L D",
+            "engineCode": "ZD30ETi",
+            "power": "156HP",
+            "year": "00-09",
+            "turboModel": "GT20",
+            "oemPartNo": "144112X90A",
+            "baseCode": "724639-5006S"
+        },
+        {
+            "model": "Patrol TD",
+            "engine": "2.8L D",
+            "engineCode": "RD28ETi Euro 2",
+            "power": "105HP",
+            "year": "04-",
+            "turboModel": "GT17",
+            "oemPartNo": "14411VB301",
+            "baseCode": "701196-5007S"
+        },
+        {
+            "model": "Primera dCi",
+            "engine": "2.2L D",
+            "engineCode": "YD22DDTI",
+            "power": "138HP",
+            "year": "03-05",
+            "turboModel": "GT18",
+            "oemPartNo": "14411AW40A",
+            "baseCode": "727477-5007S"
+        },
+        {
+            "model": "Qashqai dCi",
+            "engine": "2.0L D",
+            "engineCode": "M1Dk Euro 4",
+            "power": "171HP",
+            "year": "09-",
+            "turboModel": "GTA15",
+            "oemPartNo": "",
+            "baseCode": "774833-5002S"
+        },
+        {
+            "model": "Qashqai dCi",
+            "engine": "2.0L D",
+            "engineCode": "M9RK",
+            "power": "148/171HP",
+            "year": "07-",
+            "turboModel": "GTA15",
+            "oemPartNo": "1441100K0F",
+            "baseCode": "773087-5003S"
+        },
+        {
+            "model": "Terrano II TD /TDIC",
+            "engine": "2.7L D",
+            "engineCode": "TD27T",
+            "power": "100HP",
+            "year": "93-07",
+            "turboModel": "TB25",
+            "oemPartNo": "14411G2401",
+            "baseCode": "452047-5001S"
+        },
+        {
+            "model": "Terrano II TDIC",
+            "engine": "2.7L D",
+            "engineCode": "TD27T Intercooled",
+            "power": "123HP",
+            "year": "96-07",
+            "turboModel": "TB25",
+            "oemPartNo": "144117F400",
+            "baseCode": "452162-5001S"
+        },
+        {
+            "model": "X-Trail",
+            "engine": "2.0L P",
+            "engineCode": "SR20VET",
+            "power": "276HP",
+            "year": "04-",
+            "turboModel": "GT25",
+            "oemPartNo": "144118H601",
+            "baseCode": "715643-5002S"
+        },
+        {
+            "model": "X-Trail Di",
+            "engine": "2.2L D",
+            "engineCode": "-",
+            "power": "",
+            "year": "01-03",
+            "turboModel": "RHF4",
+            "oemPartNo": "14411VK500",
+            "baseCode": "VN3"
+        },
+        {
+            "model": "X-Trail Di",
+            "engine": "2.2L D",
+            "engineCode": "-",
+            "power": "",
+            "year": "01-03",
+            "turboModel": "RHF4",
+            "oemPartNo": "144118H800",
+            "baseCode": "VN2"
+        },
+        {
+            "model": "X-Trail dCi",
+            "engine": "2.0L D",
+            "engineCode": "M9RK",
+            "power": "171HP",
+            "year": "07-",
+            "turboModel": "GTA15",
+            "oemPartNo": "8200740282E",
+            "baseCode": "773087-5003S"
+        },
+        {
+            "model": "X-Trail dCi",
+            "engine": "2.2L D",
+            "engineCode": "YD1 Euro 4",
+            "power": "140HP",
+            "year": "05-",
+            "turboModel": "GT18",
+            "oemPartNo": "14411ES60A",
+            "baseCode": "750441-5005S"
+        },
+        {
+            "model": "X-Trail dCi",
+            "engine": "2.2L D",
+            "engineCode": "YD22DDTi",
+            "power": "136HP",
+            "year": "03-07",
+            "turboModel": "GT18",
+            "oemPartNo": "14411AW40AEP",
+            "baseCode": "727477-5007S"
+        }
+    ]
+}

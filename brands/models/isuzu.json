@@ -1,0 +1,95 @@
+{
+    "brand": "Isuzu",
+    "models": [
+        {
+            "model": "Rodeo Pickup TD",
+            "engine": "2.5L D",
+            "engineCode": "4JA1T (L)/ 4JAI-TC",
+            "power": "100HP",
+            "year": "03-",
+            "turboModel": "RHF4",
+            "oemPartNo": "8973295881",
+            "baseCode": "VIDX"
+        },
+        {
+            "model": "Rodeo Pickup TD",
+            "engine": "3.0L D",
+            "engineCode": "4JH1-TC",
+            "power": "130HP",
+            "year": "03-",
+            "turboModel": "RHF5",
+            "oemPartNo": "8973544234",
+            "baseCode": "VIEK"
+        },
+        {
+            "model": "Trooper TD",
+            "engine": "2.8L D",
+            "engineCode": "4JB1T",
+            "power": "97HP",
+            "year": "88-91",
+            "turboModel": "RHB5",
+            "oemPartNo": "8944739540",
+            "baseCode": "VI58"
+        },
+        {
+            "model": "Trooper TD",
+            "engine": "2.8L D",
+            "engineCode": "4JB1T",
+            "power": "97HP",
+            "year": "88-91",
+            "turboModel": "RHB5",
+            "oemPartNo": "8970192920",
+            "baseCode": "VI86"
+        },
+        {
+            "model": "Trooper TD",
+            "engine": "3.0L D",
+            "engineCode": "4JX1",
+            "power": "159HP",
+            "year": "98-05",
+            "turboModel": "RHF5",
+            "oemPartNo": "8972503642",
+            "baseCode": "VICF"
+        },
+        {
+            "model": "Trooper TD",
+            "engine": "3.0L D",
+            "engineCode": "4JX1TC",
+            "power": "",
+            "year": "99-04",
+            "turboModel": "RHF5",
+            "oemPartNo": "8972572000",
+            "baseCode": "VIDF"
+        },
+        {
+            "model": "Trooper TD",
+            "engine": "3.1L D",
+            "engineCode": "4JB1TC",
+            "power": "113HP",
+            "year": "91-94",
+            "turboModel": "RHB5",
+            "oemPartNo": "8970385180",
+            "baseCode": "VI95"
+        },
+        {
+            "model": "Trooper TD",
+            "engine": "3.1L D",
+            "engineCode": "4JG2TC",
+            "power": "114HP",
+            "year": "92-99",
+            "turboModel": "RHF5",
+            "oemPartNo": "8971480762",
+            "baseCode": "VICC"
+        },
+        {
+            "model": "Trooper TD",
+            "engine": "3.1L D",
+            "engineCode": "4JG2TC",
+            "power": "114HP",
+            "year": "92-99",
+            "turboModel": "RHF5",
+            "oemPartNo": "8971228842",
+            "baseCode": "VIBB"
+        }
+    ]
+}

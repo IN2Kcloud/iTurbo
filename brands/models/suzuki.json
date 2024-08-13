@@ -1,0 +1,55 @@
+{
+    "brand": "Suzuki",
+    "models": [
+        {
+            "model": "Grand Vitara DDiS",
+            "engine": "1.9L D",
+            "engineCode": "F9Q B2264 8v Euro 4",
+            "power": "130HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "8200781610",
+            "baseCode": "760680-5005S"
+        },
+        {
+            "model": "Grand Vitara DDiS",
+            "engine": "1.9L D",
+            "engineCode": "F9Q B2264-266 8v",
+            "power": "130HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "8200735758",
+            "baseCode": "761618-5003S"
+        },
+        {
+            "model": "Grand Vitara Hdi",
+            "engine": "2.0L D",
+            "engineCode": "DW10 ATED 16v",
+            "power": "109HP",
+            "year": "00-05",
+            "turboModel": "GT15",
+            "oemPartNo": "ZY34027402",
+            "baseCode": "734204-5001S"
+        },
+        {
+            "model": "Grand Vitara TD",
+            "engine": "2.0L D",
+            "engineCode": "DW10 ATED RHW/RHZ 8v",
+            "power": "109HP",
+            "year": "00-05",
+            "turboModel": "K03",
+            "oemPartNo": "ZY34027010",
+            "baseCode": "5303-970-0051"
+        },
+        {
+            "model": "Grand Vitara TDi",
+            "engine": "2.0L D",
+            "engineCode": "RF-Turbo",
+            "power": "87HP",
+            "year": "00-05",
+            "turboModel": "HT10",
+            "oemPartNo": "",
+            "baseCode": "1047115"
+        }
+    ]
+}

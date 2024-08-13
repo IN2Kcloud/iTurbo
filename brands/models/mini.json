@@ -1,0 +1,55 @@
+{
+    "brand": "Mini",
+    "models": [
+        {
+            "model": "Cooper D",
+            "engine": "1.6L D",
+            "engineCode": "DV6 TED4 Euro 4",
+            "power": "107HP",
+            "year": "07-",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "Cooper JCWC",
+            "engine": "1.6L P",
+            "engineCode": "EP6 HP",
+            "power": "206HP",
+            "year": "08-",
+            "turboModel": "K03",
+            "oemPartNo": "7575653",
+            "baseCode": "5303-970-0146"
+        },
+        {
+            "model": "Cooper S",
+            "engine": "1.6L P",
+            "engineCode": "EP6 CDTS",
+            "power": "181HP",
+            "year": "09-",
+            "turboModel": "K03",
+            "oemPartNo": "7595678",
+            "baseCode": "5303-970-0163"
+        },
+        {
+            "model": "Cooper S",
+            "engine": "1.6L P",
+            "engineCode": "EP6 DTS",
+            "power": "172HP",
+            "year": "06-09",
+            "turboModel": "K03",
+            "oemPartNo": "756542401",
+            "baseCode": "5303-970-0163"
+        },
+        {
+            "model": "One D",
+            "engine": "1.4L D",
+            "engineCode": "469F 16v",
+            "power": "88HP",
+            "year": "03-06",
+            "turboModel": "GT14",
+            "oemPartNo": "17201-5N020",
+            "baseCode": "755925-5001S"
+        }
+    ]
+}

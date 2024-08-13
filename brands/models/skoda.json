@@ -1,0 +1,205 @@
+{
+    "brand": "Skoda",
+    "models": [
+        {
+            "model": "Fabia",
+            "engine": "1.9L D",
+            "engineCode": "AXR Euro 4",
+            "power": "101HP",
+            "year": "04-07",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014B",
+            "baseCode": "5439-970-0019"
+        },
+        {
+            "model": "Fabia TDi",
+            "engine": "1.4L D",
+            "engineCode": "AMF",
+            "power": "75HP",
+            "year": "03-07",
+            "turboModel": "GT15",
+            "oemPartNo": "045253019L",
+            "baseCode": "733783-5008S"
+        },
+        {
+            "model": "Fabia TDi",
+            "engine": "1.9L D",
+            "engineCode": "ASZ/BLT",
+            "power": "130HP",
+            "year": "00-07",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014C",
+            "baseCode": "5439-970-0023"
+        },
+        {
+            "model": "Fabia TDi",
+            "engine": "1.9L D",
+            "engineCode": "ATD",
+            "power": "100HP",
+            "year": "00-02",
+            "turboModel": "KP39",
+            "oemPartNo": "038253019P",
+            "baseCode": "5439-970-0003"
+        },
+        {
+            "model": "Fabia TDi",
+            "engine": "1.9L D",
+            "engineCode": "ATD Euro 3",
+            "power": "100HP",
+            "year": "02-08",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014A",
+            "baseCode": "5439-970-0017"
+        },
+        {
+            "model": "Fabia TDi",
+            "engine": "1.9L D",
+            "engineCode": "BLS/BLW 8v Euro 4",
+            "power": "105HP",
+            "year": "07-",
+            "turboModel": "GT16",
+            "oemPartNo": "03G253014F",
+            "baseCode": "751851-5003S"
+        },
+        {
+            "model": "Fabia TDi",
+            "engine": "1.9L D",
+            "engineCode": "BLS/BLW 8v Euro 4",
+            "power": "105HP",
+            "year": "07-",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014G",
+            "baseCode": "5439-970-0022"
+        },
+        {
+            "model": "Fabia VRS TDi",
+            "engine": "1.9L D",
+            "engineCode": "ASZ/BLT",
+            "power": "130HP",
+            "year": "03-07",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014C",
+            "baseCode": "5439-970-0023"
+        },
+        {
+            "model": "Octavia",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "115HP",
+            "year": "01-05",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253016K",
+            "baseCode": "768329-5003S"
+        },
+        {
+            "model": "Octavia",
+            "engine": "1.9L D",
+            "engineCode": "BJB/BKC/BXE",
+            "power": "103HP",
+            "year": "04-",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014G",
+            "baseCode": "5439-970-0022"
+        },
+        {
+            "model": "Octavia GLX",
+            "engine": "1.9L D",
+            "engineCode": "AGR/ALH Euro 2",
+            "power": "90HP",
+            "year": "98-00",
+            "turboModel": "GT15",
+            "oemPartNo": "038145701A",
+            "baseCode": "454159-5002S"
+        },
+        {
+            "model": "Octavia SLX TDi",
+            "engine": "1.9L D",
+            "engineCode": "ASV",
+            "power": "115HP",
+            "year": "97-",
+            "turboModel": "GT17",
+            "oemPartNo": "038253019D",
+            "baseCode": "454232-5011S"
+        },
+        {
+            "model": "Octavia TDi",
+            "engine": "1.9L D",
+            "engineCode": "AGR/ALH",
+            "power": "90HP",
+            "year": "98-00",
+            "turboModel": "K03",
+            "oemPartNo": "038145701D",
+            "baseCode": "5303-970-0015"
+        },
+        {
+            "model": "Octavia TDi",
+            "engine": "1.9L D",
+            "engineCode": "ATD",
+            "power": "100HP",
+            "year": "01-03",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014A",
+            "baseCode": "5439-970-0017"
+        },
+        {
+            "model": "Octavia TDi",
+            "engine": "1.9L D",
+            "engineCode": "AXR",
+            "power": "101HP",
+            "year": "01-03",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014D",
+            "baseCode": "5439-970-0018"
+        },
+        {
+            "model": "Octavia VRS",
+            "engine": "1.8L P",
+            "engineCode": "AUQ",
+            "power": "180HP",
+            "year": "01-05",
+            "turboModel": "K03",
+            "oemPartNo": "06A145713F",
+            "baseCode": "5303-970-0052"
+        },
+        {
+            "model": "Superb TDi",
+            "engine": "1.9L D",
+            "engineCode": "AVB",
+            "power": "100HP",
+            "year": "02-06",
+            "turboModel": "GT17",
+            "oemPartNo": "038145702L",
+            "baseCode": "454231-5013S"
+        },
+        {
+            "model": "Superb TDi",
+            "engine": "1.9L D",
+            "engineCode": "AVF/AWX",
+            "power": "130HP",
+            "year": "02-07",
+            "turboModel": "GT17",
+            "oemPartNo": "038145702N",
+            "baseCode": "717858-5009S"
+        },
+        {
+            "model": "Superb TDi",
+            "engine": "2.5L D",
+            "engineCode": "AYM V6",
+            "power": "155HP",
+            "year": "03-08",
+            "turboModel": "GT20",
+            "oemPartNo": "059145702D",
+            "baseCode": "454135-5009S"
+        },
+        {
+            "model": "Superb TDi",
+            "engine": "2.5L D",
+            "engineCode": "AYM V6 Euro 3",
+            "power": "114/132HP",
+            "year": "02-",
+            "turboModel": "GT20",
+            "oemPartNo": "059145701K",
+            "baseCode": "454135-5010S"
+        }
+    ]
+}

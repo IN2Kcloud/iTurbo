@@ -1,0 +1,185 @@
+{
+    "brand": "Hyundai",
+    "models": [
+        {
+            "model": "Elantra CRDi",
+            "engine": "1.6L D",
+            "engineCode": "Euro 4",
+            "power": "116HP",
+            "year": "06-07",
+            "turboModel": "GT15",
+            "oemPartNo": "M28211-2A510A",
+            "baseCode": "740611-5005S"
+        },
+        {
+            "model": "Elantra TD",
+            "engine": "2.0L D",
+            "engineCode": "D4EA 16v",
+            "power": "113HP",
+            "year": "01-06",
+            "turboModel": "TD02",
+            "oemPartNo": "28231-27000",
+            "baseCode": "49173-02412"
+        },
+        {
+            "model": "Getz CRTD",
+            "engine": "1.5L D",
+            "engineCode": "D4F4 16v Euro 4",
+            "power": "109HP",
+            "year": "05-09",
+            "turboModel": "GT15",
+            "oemPartNo": "28201-2A400",
+            "baseCode": "740611-5002S"
+        },
+        {
+            "model": "Getz CRTD",
+            "engine": "1.5L D",
+            "engineCode": "D4FA-L 16v Euro 3",
+            "power": "87HP",
+            "year": "05-09",
+            "turboModel": "GT15",
+            "oemPartNo": "28201-2A110",
+            "baseCode": "740611-5003S"
+        },
+        {
+            "model": "H-100",
+            "engine": "2.5L D",
+            "engineCode": "4D56T",
+            "power": "78HP",
+            "year": "",
+            "turboModel": "GT17",
+            "oemPartNo": "28200-4B151",
+            "baseCode": "700273-5001S"
+        },
+        {
+            "model": "H-100",
+            "engine": "2.5L D",
+            "engineCode": "A-engine",
+            "power": "120HP",
+            "year": "03-",
+            "turboModel": "GT17",
+            "oemPartNo": "28200-4A350",
+            "baseCode": "732340-5001S"
+        },
+        {
+            "model": "H-100 TCi",
+            "engine": "2.5L D",
+            "engineCode": "4D56 Euro 3",
+            "power": "100HP",
+            "year": "03-",
+            "turboModel": "GT17",
+            "oemPartNo": "28200-42700",
+            "baseCode": "715924-5004S"
+        },
+        {
+            "model": "H-100 TCi",
+            "engine": "2.5L D",
+            "engineCode": "4D56 Euro 3",
+            "power": "100HP",
+            "year": "01-",
+            "turboModel": "GT17",
+            "oemPartNo": "28200-42600",
+            "baseCode": "715843-5001S"
+        },
+        {
+            "model": "Matrix",
+            "engine": "1.5L D",
+            "engineCode": "Euro 4",
+            "power": "116HP",
+            "year": "05-",
+            "turboModel": "GT15",
+            "oemPartNo": "28201-A120",
+            "baseCode": "782403-5001S"
+        },
+        {
+            "model": "Santa Fe",
+            "engine": "2.0L D",
+            "engineCode": "16v Euro 4",
+            "power": "139HP",
+            "year": "07-",
+            "turboModel": "GT16",
+            "oemPartNo": "28231-27860",
+            "baseCode": "757886-5006S"
+        },
+        {
+            "model": "Santa Fe TD",
+            "engine": "2.0L D",
+            "engineCode": "D4EA 16v",
+            "power": "113HP",
+            "year": "",
+            "turboModel": "TD02",
+            "oemPartNo": "28231-27000",
+            "baseCode": "49173-02412"
+        },
+        {
+            "model": "Sonata CRTD",
+            "engine": "2.0L D",
+            "engineCode": "D4DA 16v",
+            "power": "140HP",
+            "year": "09-",
+            "turboModel": "GT16",
+            "oemPartNo": "28231-27470",
+            "baseCode": "757886-5008S"
+        },
+        {
+            "model": "Sonata CRTD",
+            "engine": "2.0L D",
+            "engineCode": "D4EA 16v",
+            "power": "138HP",
+            "year": "06-10",
+            "turboModel": "GT16",
+            "oemPartNo": "28231-27450",
+            "baseCode": "757886-5004S"
+        },
+        {
+            "model": "Starex TCi",
+            "engine": "2.5L D",
+            "engineCode": "4D56 HP",
+            "power": "",
+            "year": "",
+            "turboModel": "TF035",
+            "oemPartNo": "28200-4A210",
+            "baseCode": "49135-04031"
+        },
+        {
+            "model": "Starex TDi",
+            "engine": "2.5L D",
+            "engineCode": "4D56 A-1",
+            "power": "",
+            "year": "",
+            "turboModel": "TF035",
+            "oemPartNo": "28200-4A201",
+            "baseCode": "49135-04121"
+        },
+        {
+            "model": "Starex TDi",
+            "engine": "2.5L D",
+            "engineCode": "4D56 A-1 Euro 3",
+            "power": "99HP",
+            "year": "",
+            "turboModel": "TF035",
+            "oemPartNo": "28200-42650",
+            "baseCode": "49135-04302"
+        },
+        {
+            "model": "Terracan TCi",
+            "engine": "2.5L D",
+            "engineCode": "4D56 HP",
+            "power": "",
+            "year": "",
+            "turboModel": "TF035",
+            "oemPartNo": "28200-4A210",
+            "baseCode": "49135-04031"
+        },
+        {
+            "model": "Tucson CRDi",
+            "engine": "2.0L D",
+            "engineCode": "D4EA-V Euro 4",
+            "power": "138HP",
+            "year": "06-09",
+            "turboModel": "GT16",
+            "oemPartNo": "28231-27400",
+            "baseCode": "757886-5003S"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "brand": "Ssangyong",
+    "models": [
+        {
+            "model": "Rexton TDi",
+            "engine": "2.7L D",
+            "engineCode": "D27DT",
+            "power": "188HP",
+            "year": "06-",
+            "turboModel": "TD04",
+            "oemPartNo": "A6650900980",
+            "baseCode": "49189-07121"
+        },
+        {
+            "model": "Rexton Xdi",
+            "engine": "2.7L D",
+            "engineCode": "Y220 Euro 4DPF",
+            "power": "165HP",
+            "year": "05-",
+            "turboModel": "GT20",
+            "oemPartNo": "A6650901880",
+            "baseCode": "754382-5003S"
+        },
+        {
+            "model": "Rodius",
+            "engine": "2.7L D",
+            "engineCode": "Y220 Euro 4DPF",
+            "power": "165HP",
+            "year": "05-",
+            "turboModel": "GT20",
+            "oemPartNo": "A6650901880",
+            "baseCode": "754382-5003S"
+        }
+    ]
+}

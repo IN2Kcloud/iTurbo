@@ -1,0 +1,115 @@
+{
+    "brand": "Mazda",
+    "models": [
+        {
+            "model": "2",
+            "engine": "1.4L D",
+            "engineCode": "DV4 TD 8HX",
+            "power": "67HP",
+            "year": "03-09",
+            "turboModel": "KP35",
+            "oemPartNo": "9648759980",
+            "baseCode": "5435-970-0009"
+        },
+        {
+            "model": "3",
+            "engine": "1.6L D",
+            "engineCode": "DV6 TED4",
+            "power": "107HP",
+            "year": "04-",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "323 TD",
+            "engine": "2.0L D",
+            "engineCode": "RF",
+            "power": "99HP",
+            "year": "99-00",
+            "turboModel": "RHF3",
+            "oemPartNo": "RF2B13700",
+            "baseCode": "VJ27"
+        },
+        {
+            "model": "6",
+            "engine": "2.0L D",
+            "engineCode": "-",
+            "power": "141HP",
+            "year": "",
+            "turboModel": "RHF4",
+            "oemPartNo": "RF7J13700D",
+            "baseCode": "VJ36"
+        },
+        {
+            "model": "6",
+            "engine": "2.0L D",
+            "engineCode": "-",
+            "power": "143HP",
+            "year": "06-",
+            "turboModel": "RHV4",
+            "oemPartNo": "03051M",
+            "baseCode": "VJ38"
+        },
+        {
+            "model": "6",
+            "engine": "2.0L D",
+            "engineCode": "-",
+            "power": "143HP",
+            "year": "",
+            "turboModel": "RHF4",
+            "oemPartNo": "RF5C13700A",
+            "baseCode": "VJ32"
+        },
+        {
+            "model": "6",
+            "engine": "2.0L D",
+            "engineCode": "MZRCD",
+            "power": "134HP",
+            "year": "",
+            "turboModel": "RHF4",
+            "oemPartNo": "RF5C13700",
+            "baseCode": "VJ30"
+        },
+        {
+            "model": "626",
+            "engine": "2.0L D",
+            "engineCode": "RF",
+            "power": "99HP",
+            "year": "98-02",
+            "turboModel": "RHF3",
+            "oemPartNo": "RF2B13700",
+            "baseCode": "VJ27"
+        },
+        {
+            "model": "Bongo",
+            "engine": "2.5L D",
+            "engineCode": "-",
+            "power": "76HP",
+            "year": "95-02",
+            "turboModel": "RHF5",
+            "oemPartNo": "",
+            "baseCode": "VJ24"
+        },
+        {
+            "model": "Premacy",
+            "engine": "2.0L D",
+            "engineCode": "MZRCD",
+            "power": "134HP",
+            "year": "02-04",
+            "turboModel": "RHF4",
+            "oemPartNo": "RF5C13700",
+            "baseCode": "VJ30"
+        },
+        {
+            "model": "Premacy",
+            "engine": "2.0L D",
+            "engineCode": "RF",
+            "power": "99HP",
+            "year": "99-04",
+            "turboModel": "RHF3",
+            "oemPartNo": "RF2B13700",
+            "baseCode": "VJ27"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "brand": "Rover",
+    "models": [
+        {
+            "model": "200/400 Series TCI",
+            "engine": "2.0L D",
+            "engineCode": "20T2R",
+            "power": "84HP",
+            "year": "95-99",
+            "turboModel": "GT15",
+            "oemPartNo": "ERR6106",
+            "baseCode": "452151-5004S"
+        },
+        {
+            "model": "200/400 Series TCI",
+            "engine": "2.0L D",
+            "engineCode": "L Series",
+            "power": "104HP",
+            "year": "94-99",
+            "turboModel": "GT15",
+            "oemPartNo": "PMF100500",
+            "baseCode": "452283-5003S"
+        },
+        {
+            "model": "200/400 Series TD",
+            "engine": "2.0L D",
+            "engineCode": "20T2N",
+            "power": "105HP",
+            "year": "95-99",
+            "turboModel": "GT15",
+            "oemPartNo": "PMF100440",
+            "baseCode": "452098-5004S"
+        },
+        {
+            "model": "600 Series TCI",
+            "engine": "2.0L D",
+            "engineCode": "L Series",
+            "power": "104HP",
+            "year": "94-99",
+            "turboModel": "GT15",
+            "oemPartNo": "PMF100500",
+            "baseCode": "452283-5003S"
+        },
+        {
+            "model": "600 Series TD",
+            "engine": "2.0L D",
+            "engineCode": "20T2N",
+            "power": "105HP",
+            "year": "94-99",
+            "turboModel": "GT15",
+            "oemPartNo": "PMF100440",
+            "baseCode": "452098-5004S"
+        },
+        {
+            "model": "75",
+            "engine": "2.0L D",
+            "engineCode": "L Series",
+            "power": "136HP",
+            "year": "02-05",
+            "turboModel": "GT15",
+            "oemPartNo": "PMF000040",
+            "baseCode": "452239-5009S"
+        },
+        {
+            "model": "75 1.8T",
+            "engine": "1.8L P",
+            "engineCode": "K16 KSeries 16v",
+            "power": "150HP",
+            "year": "02-05",
+            "turboModel": "GT20",
+            "oemPartNo": "PMF000090",
+            "baseCode": "765472-5001S"
+        },
+        {
+            "model": "75 CDT",
+            "engine": "2.0L D",
+            "engineCode": "M47R 16v",
+            "power": "114HP",
+            "year": "99-05",
+            "turboModel": "TD02",
+            "oemPartNo": "2248060",
+            "baseCode": "49173-06100"
+        },
+        {
+            "model": "75 TCI",
+            "engine": "2.0L D",
+            "engineCode": "L Series",
+            "power": "103HP",
+            "year": "94-99",
+            "turboModel": "GT15",
+            "oemPartNo": "PMF100500",
+            "baseCode": "452283-5003S"
+        },
+        {
+            "model": "MG ZT",
+            "engine": "1.8L P",
+            "engineCode": "18K4F KSeries 16v",
+            "power": "160HP",
+            "year": "02-07",
+            "turboModel": "GT20",
+            "oemPartNo": "PMF000090",
+            "baseCode": "765472-5001S"
+        }
+    ]
+}

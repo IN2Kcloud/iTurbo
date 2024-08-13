@@ -1,0 +1,485 @@
+{
+    "brand": "Fiat",
+    "models": [
+        {
+            "model": "Brava JTD",
+            "engine": "1.9L D",
+            "engineCode": "M724.19 8v Euro 3",
+            "power": "105HP",
+            "year": "00-02",
+            "turboModel": "GT14",
+            "oemPartNo": "55191595",
+            "baseCode": "708847-5002S"
+        },
+        {
+            "model": "Brava TD",
+            "engine": "1.9L D",
+            "engineCode": "M.720.KT.19.T",
+            "power": "105HP",
+            "year": "98-00",
+            "turboModel": "GT15",
+            "oemPartNo": "46480117",
+            "baseCode": "701796-5001S"
+        },
+        {
+            "model": "Bravo",
+            "engine": "1.4L D",
+            "engineCode": "-",
+            "power": "120HP",
+            "year": "07-",
+            "turboModel": "RHF3",
+            "oemPartNo": "55212917",
+            "baseCode": "VL37"
+        },
+        {
+            "model": "Bravo",
+            "engine": "1.9L D",
+            "engineCode": "M.720.KT.19.T",
+            "power": "105HP",
+            "year": "99-00",
+            "turboModel": "GT15",
+            "oemPartNo": "46480117",
+            "baseCode": "701796-5001S"
+        },
+        {
+            "model": "Bravo JTD",
+            "engine": "1.6L D",
+            "engineCode": "16v Euro 5 Multijet",
+            "power": "120HP",
+            "year": "08-",
+            "turboModel": "GTB14",
+            "oemPartNo": "55209153",
+            "baseCode": "766924-5001S"
+        },
+        {
+            "model": "Bravo JTD",
+            "engine": "1.9L D",
+            "engineCode": "M724.19 8v Euro 3",
+            "power": "105HP",
+            "year": "00-02",
+            "turboModel": "GT14",
+            "oemPartNo": "55191595",
+            "baseCode": "708847-5002S"
+        },
+        {
+            "model": "Bravo JTD",
+            "engine": "2.0L D",
+            "engineCode": "16v Euro 4",
+            "power": "165HP",
+            "year": "08-",
+            "turboModel": "GTB15",
+            "oemPartNo": "55223264",
+            "baseCode": "788290-5001S"
+        },
+        {
+            "model": "Coupe 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "175A3.000 20v",
+            "power": "220HP",
+            "year": "96-01",
+            "turboModel": "TB28",
+            "oemPartNo": "46419629",
+            "baseCode": "454154-5001S"
+        },
+        {
+            "model": "Croma JTD",
+            "engine": "2.4L D",
+            "engineCode": "20v Euro 4 Multijet",
+            "power": "197HP",
+            "year": "05-07",
+            "turboModel": "GT20",
+            "oemPartNo": "55208456",
+            "baseCode": "767878-5001S"
+        },
+        {
+            "model": "Doblo",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "",
+            "year": "01-",
+            "turboModel": "RHF",
+            "oemPartNo": "71783881",
+            "baseCode": "VL35"
+        },
+        {
+            "model": "Doblo JTD",
+            "engine": "1.2L D",
+            "engineCode": "Multijet",
+            "power": "68HP",
+            "year": "03-",
+            "turboModel": "KP35",
+            "oemPartNo": "73501343",
+            "baseCode": "5435-970-0005"
+        },
+        {
+            "model": "Doblo JTD",
+            "engine": "1.9L D",
+            "engineCode": "223A7 / 223B1Euro 3",
+            "power": "105HP",
+            "year": "04-",
+            "turboModel": "GT14",
+            "oemPartNo": "55191595",
+            "baseCode": "708847-5002S"
+        },
+        {
+            "model": "Ducato",
+            "engine": "3.0L D",
+            "engineCode": "F1C Multijet",
+            "power": "160HP",
+            "year": "06-",
+            "turboModel": "TD04",
+            "oemPartNo": "504110697",
+            "baseCode": "49189-02950"
+        },
+        {
+            "model": "Ducato JTD",
+            "engine": "2.0L D",
+            "engineCode": "DW10UTD",
+            "power": "84HP",
+            "year": "02-06",
+            "turboModel": "K03",
+            "oemPartNo": "9636473280",
+            "baseCode": "5303-970-0061"
+        },
+        {
+            "model": "Ducato JTD",
+            "engine": "2.3L D",
+            "engineCode": "F1A Euro 3",
+            "power": "110HP",
+            "year": "02-06",
+            "turboModel": "K03",
+            "oemPartNo": "504070186",
+            "baseCode": "5303-970-0090"
+        },
+        {
+            "model": "Ducato JTD",
+            "engine": "2.3L D",
+            "engineCode": "F1A Euro 3",
+            "power": "110HP",
+            "year": "02-06",
+            "turboModel": "K03",
+            "oemPartNo": "504014915",
+            "baseCode": "5303-970-0067"
+        },
+        {
+            "model": "Ducato JTD",
+            "engine": "2.8L D",
+            "engineCode": "8140.43.2200 Euro 3",
+            "power": "127HP",
+            "year": "02-06",
+            "turboModel": "K03",
+            "oemPartNo": "500364493",
+            "baseCode": "5303-970-0081"
+        },
+        {
+            "model": "Ducato JTD",
+            "engine": "2.8L D",
+            "engineCode": "8140.43K.4000",
+            "power": "127HP",
+            "year": "02-06",
+            "turboModel": "GT22",
+            "oemPartNo": "504084355",
+            "baseCode": "750510-5001S"
+        },
+        {
+            "model": "Ducato JTD",
+            "engine": "2.8L D",
+            "engineCode": "Euro 3",
+            "power": "125HP",
+            "year": "00-02",
+            "turboModel": "TD04",
+            "oemPartNo": "500344801",
+            "baseCode": "49377-07052"
+        },
+        {
+            "model": "Grande Punto",
+            "engine": "1.4L D",
+            "engineCode": "-",
+            "power": "120HP",
+            "year": "07-",
+            "turboModel": "RHF3",
+            "oemPartNo": "55212917",
+            "baseCode": "VL37"
+        },
+        {
+            "model": "Grande Punto JTD",
+            "engine": "1.6L D",
+            "engineCode": "16v Euro 5 Multijet",
+            "power": "120HP",
+            "year": "09-",
+            "turboModel": "GT14",
+            "oemPartNo": "55209153",
+            "baseCode": "766924-5001S"
+        },
+        {
+            "model": "Grande Punto JTD",
+            "engine": "1.9L D",
+            "engineCode": "939A1.000 8v Euro 4",
+            "power": "120HP",
+            "year": "06-08",
+            "turboModel": "GT17",
+            "oemPartNo": "55205475",
+            "baseCode": "767837-5001S"
+        },
+        {
+            "model": "Grande Punto S JTD",
+            "engine": "1.3L D",
+            "engineCode": "SJTD",
+            "power": "90HP",
+            "year": "06-",
+            "turboModel": "BV35",
+            "oemPartNo": "93189317",
+            "baseCode": "5435-970-0014"
+        },
+        {
+            "model": "Grande Punto S JTD",
+            "engine": "1.3L D",
+            "engineCode": "SJTD",
+            "power": "70HP",
+            "year": "06-",
+            "turboModel": "KP35",
+            "oemPartNo": "55202638",
+            "baseCode": "5435-970-0019"
+        },
+        {
+            "model": "Grande Punto S JTD",
+            "engine": "1.3L D",
+            "engineCode": "SJTD",
+            "power": "70HP",
+            "year": "06-",
+            "turboModel": "KP35",
+            "oemPartNo": "55202637",
+            "baseCode": "5435-970-0018"
+        },
+        {
+            "model": "Marea JTD",
+            "engine": "1.9L D",
+            "engineCode": "M724.19.X Euro 3",
+            "power": "107HP",
+            "year": "00-03",
+            "turboModel": "GT17",
+            "oemPartNo": "46779032",
+            "baseCode": "712766-5002S"
+        },
+        {
+            "model": "Multipla",
+            "engine": "1.9L D",
+            "engineCode": "182B4.000",
+            "power": "105HP",
+            "year": "99-00",
+            "turboModel": "GT15",
+            "oemPartNo": "46480117",
+            "baseCode": "701796-5001S"
+        },
+        {
+            "model": "Multipla JTD",
+            "engine": "1.9L D",
+            "engineCode": "186A9.000 8v Euro 4",
+            "power": "120HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "55214061",
+            "baseCode": "777251-5001S"
+        },
+        {
+            "model": "Multipla JTD",
+            "engine": "1.9L D",
+            "engineCode": "M724.19.X / 186A8.000 8v",
+            "power": "110/115HP",
+            "year": "00-04",
+            "turboModel": "GT17",
+            "oemPartNo": "55191596",
+            "baseCode": "712766-5002S"
+        },
+        {
+            "model": "Panda JTD",
+            "engine": "1.2L D",
+            "engineCode": "-",
+            "power": "68HP",
+            "year": "03-",
+            "turboModel": "KP35",
+            "oemPartNo": "73501343",
+            "baseCode": "5435-970-0005"
+        },
+        {
+            "model": "Panda JTD",
+            "engine": "1.3L D",
+            "engineCode": "SJTD",
+            "power": "",
+            "year": "01-",
+            "turboModel": "KP35",
+            "oemPartNo": "55202637",
+            "baseCode": "5435-970-0018"
+        },
+        {
+            "model": "Punto GT",
+            "engine": "1.4L P",
+            "engineCode": "176B6.000",
+            "power": "126HP",
+            "year": "95-00",
+            "turboModel": "RHB52",
+            "oemPartNo": "176B6.000",
+            "baseCode": "VL7"
+        },
+        {
+            "model": "Punto JTD",
+            "engine": "1.2L D",
+            "engineCode": "Multijet",
+            "power": "68HP",
+            "year": "03-06",
+            "turboModel": "KP35",
+            "oemPartNo": "73501343",
+            "baseCode": "5435-970-0005"
+        },
+        {
+            "model": "Punto JTD",
+            "engine": "1.3L D",
+            "engineCode": "SJTD",
+            "power": "70HP",
+            "year": "03-",
+            "turboModel": "KP35",
+            "oemPartNo": "73501344",
+            "baseCode": "5435-970-0006"
+        },
+        {
+            "model": "Punto JTD",
+            "engine": "1.9L D",
+            "engineCode": "188A7.000",
+            "power": "110HP",
+            "year": "00-04",
+            "turboModel": "GT17",
+            "oemPartNo": "55191596",
+            "baseCode": "712766-5002S"
+        },
+        {
+            "model": "Punto TD",
+            "engine": "1.7L D",
+            "engineCode": "176B7.000",
+            "power": "72HP",
+            "year": "94-99",
+            "turboModel": "TB02",
+            "oemPartNo": "46424102",
+            "baseCode": "466856-5003S"
+        },
+        {
+            "model": "Scudo",
+            "engine": "2.0L D",
+            "engineCode": "DW10UTED4 Multijet",
+            "power": "120HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "9661306080",
+            "baseCode": "764609-5001S"
+        },
+        {
+            "model": "Scudo JTD",
+            "engine": "2.0L D",
+            "engineCode": "DW10ATED RHZ8v",
+            "power": "110HP",
+            "year": "00-06",
+            "turboModel": "GT15",
+            "oemPartNo": "9644384180",
+            "baseCode": "713667-5003S"
+        },
+        {
+            "model": "Stilo JTD",
+            "engine": "1.9L D",
+            "engineCode": "16v Euro 4",
+            "power": "150HP",
+            "year": "06-07",
+            "turboModel": "GT17",
+            "oemPartNo": "55214063",
+            "baseCode": "777250-5001S"
+        },
+        {
+            "model": "Stilo JTD",
+            "engine": "1.9L D",
+            "engineCode": "M724.19 16v",
+            "power": "150HP",
+            "year": "06-07",
+            "turboModel": "GT17",
+            "oemPartNo": "55191934",
+            "baseCode": "716665-5002S"
+        },
+        {
+            "model": "Stilo JTD",
+            "engine": "1.9L D",
+            "engineCode": "M724.19 16v",
+            "power": "140HP",
+            "year": "00-06",
+            "turboModel": "GT17",
+            "oemPartNo": "55191934",
+            "baseCode": "716665-5002S"
+        },
+        {
+            "model": "Stilo JTD",
+            "engine": "1.9L D",
+            "engineCode": "M724.19.X 8v",
+            "power": "115HP",
+            "year": "01-06",
+            "turboModel": "GT17",
+            "oemPartNo": "55191596",
+            "baseCode": "712766-5002S"
+        },
+        {
+            "model": "Stilo JTD",
+            "engine": "1.9L D",
+            "engineCode": "M737AT.19Z 8v Euro 4",
+            "power": "120HP",
+            "year": "06-07",
+            "turboModel": "GT17",
+            "oemPartNo": "55214061",
+            "baseCode": "777251-5001S"
+        },
+        {
+            "model": "Ulysse JTD",
+            "engine": "2.0L D",
+            "engineCode": "DW 10ATED 2S",
+            "power": "109HP",
+            "year": "00-03",
+            "turboModel": "GT15",
+            "oemPartNo": "9634521180",
+            "baseCode": "706978-5001S"
+        },
+        {
+            "model": "Ulysse JTD",
+            "engine": "2.0L D",
+            "engineCode": "RHW/RHZ/DW10ATED",
+            "power": "136HP",
+            "year": "03-06",
+            "turboModel": "GT17",
+            "oemPartNo": "9682778880",
+            "baseCode": "760220-5003S"
+        },
+        {
+            "model": "Ulysse JTD",
+            "engine": "2.0L D",
+            "engineCode": "RHW/RHZ/DW10ATED",
+            "power": "109HP",
+            "year": "00-03",
+            "turboModel": "GT15",
+            "oemPartNo": "9644384280",
+            "baseCode": "713667-5003S"
+        },
+        {
+            "model": "Ulysse JTD",
+            "engine": "2.2L D",
+            "engineCode": "4HW",
+            "power": "128HP",
+            "year": "98-03",
+            "turboModel": "GT15",
+            "oemPartNo": "9631536380",
+            "baseCode": "701072-5001S"
+        },
+        {
+            "model": "Ulysse TD",
+            "engine": "1.9L D",
+            "engineCode": "D8B",
+            "power": "92HP",
+            "year": "95-00",
+            "turboModel": "TB02",
+            "oemPartNo": "9623320880",
+            "baseCode": "454086-5001S"
+        }
+    ]
+}

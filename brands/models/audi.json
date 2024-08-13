@@ -1,0 +1,935 @@
+{
+    "brand": "Audi",
+    "models": [
+        {
+            "model": "80 TD",
+            "engine": "1.9L D",
+            "engineCode": "AAZ 8v",
+            "power": "75HP",
+            "year": "94-95",
+            "turboModel": "K03",
+            "oemPartNo": "028145701R",
+            "baseCode": "5303-970-0003"
+        },
+        {
+            "model": "80 TDi",
+            "engine": "1.9L D",
+            "engineCode": "IZ 8v",
+            "power": "90HP",
+            "year": "92-95",
+            "turboModel": "TB02",
+            "oemPartNo": "028145703D",
+            "baseCode": "454001-5001S"
+        },
+        {
+            "model": "80 TDi B4",
+            "engine": "1.9L D",
+            "engineCode": "IZ Euro 2",
+            "power": "90HP",
+            "year": "93-95",
+            "turboModel": "GT15",
+            "oemPartNo": "028145701T",
+            "baseCode": "454082-5002S"
+        },
+        {
+            "model": "A2 TDi",
+            "engine": "1.4L D",
+            "engineCode": "-",
+            "power": "",
+            "year": "04-",
+            "turboModel": "GT15",
+            "oemPartNo": "045253019F",
+            "baseCode": "742989-5002S"
+        },
+        {
+            "model": "A2 TDi",
+            "engine": "1.4L D",
+            "engineCode": "-",
+            "power": "75HP",
+            "year": "01-04",
+            "turboModel": "GT15",
+            "oemPartNo": "045145701J",
+            "baseCode": "701729-5010S"
+        },
+        {
+            "model": "A2 TDi",
+            "engine": "1.4L D",
+            "engineCode": "ATL",
+            "power": "88HP",
+            "year": "04-06",
+            "turboModel": "BV39",
+            "oemPartNo": "045253019A",
+            "baseCode": "5439-970-0015"
+        },
+        {
+            "model": "A3",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "105HP",
+            "year": "04-09",
+            "turboModel": "BV39",
+            "oemPartNo": "03G253019J",
+            "baseCode": "5439-970-0048"
+        },
+        {
+            "model": "A3 1.8T",
+            "engine": "1.8L P",
+            "engineCode": "AJQ/APP/ARU/AUQ",
+            "power": "180HP",
+            "year": "96-03",
+            "turboModel": "K03",
+            "oemPartNo": "06A145704B",
+            "baseCode": "5303-970-0035"
+        },
+        {
+            "model": "A3 1.8T Quattro",
+            "engine": "1.8L P",
+            "engineCode": "ARY",
+            "power": "180HP",
+            "year": "99-02",
+            "turboModel": "K03",
+            "oemPartNo": "06A145713F",
+            "baseCode": "5303-970-0052"
+        },
+        {
+            "model": "A3 TDi",
+            "engine": "1.9L D",
+            "engineCode": "AGR/ALH 8v",
+            "power": "90HP",
+            "year": "96-01",
+            "turboModel": "K03",
+            "oemPartNo": "038145701D",
+            "baseCode": "5303-970-0015"
+        },
+        {
+            "model": "A3 TDi",
+            "engine": "1.9L D",
+            "engineCode": "AGR/ALH Euro 2",
+            "power": "90HP",
+            "year": "96-01",
+            "turboModel": "GT15",
+            "oemPartNo": "038145701A",
+            "baseCode": "454159-5002S"
+        },
+        {
+            "model": "A3 TDi",
+            "engine": "1.9L D",
+            "engineCode": "AHF",
+            "power": "110/115HP",
+            "year": "97-00",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253016K",
+            "baseCode": "768329-5003S"
+        },
+        {
+            "model": "A3 TDi",
+            "engine": "1.9L D",
+            "engineCode": "ARL",
+            "power": "150HP",
+            "year": "01-03",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253016R",
+            "baseCode": "721021-5006S"
+        },
+        {
+            "model": "A3 TDi",
+            "engine": "1.9L D",
+            "engineCode": "ASV",
+            "power": "115HP",
+            "year": "00-03",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253014E",
+            "baseCode": "713673-5006S"
+        },
+        {
+            "model": "A3 TDi",
+            "engine": "1.9L D",
+            "engineCode": "ASZ",
+            "power": "130HP",
+            "year": "00-03",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253016Q",
+            "baseCode": "720855-5006S"
+        },
+        {
+            "model": "A3 TDi",
+            "engine": "1.9L D",
+            "engineCode": "ASZ",
+            "power": "130HP",
+            "year": "00-03",
+            "turboModel": "GT17",
+            "oemPartNo": "038253019F",
+            "baseCode": "712078-5001S"
+        },
+        {
+            "model": "A3 TDi",
+            "engine": "1.9L D",
+            "engineCode": "ATD",
+            "power": "100HP",
+            "year": "01-03",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014A",
+            "baseCode": "5439-970-0017"
+        },
+        {
+            "model": "A3 TDi",
+            "engine": "1.9L D",
+            "engineCode": "AXR",
+            "power": "100HP",
+            "year": "01-03",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014D",
+            "baseCode": "5439-970-0018"
+        },
+        {
+            "model": "A3 TDi",
+            "engine": "1.9L D",
+            "engineCode": "BKC/BJB/BXE/BLS Euro 4",
+            "power": "105HP",
+            "year": "03-09",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014G",
+            "baseCode": "5439-970-0022"
+        },
+        {
+            "model": "A3 TDi R4",
+            "engine": "1.9L D",
+            "engineCode": "BKC/BJB/BXE/BLS Euro 4",
+            "power": "105HP",
+            "year": "03-09",
+            "turboModel": "GT16",
+            "oemPartNo": "03G253014F",
+            "baseCode": "751851-5003S"
+        },
+        {
+            "model": "A3 TFSI",
+            "engine": "1.4L P",
+            "engineCode": "-",
+            "power": "122HP",
+            "year": "08-",
+            "turboModel": "TD02",
+            "oemPartNo": "03C145701J",
+            "baseCode": "49373-01005"
+        },
+        {
+            "model": "A4 1.8T",
+            "engine": "1.8L P",
+            "engineCode": "AEB/ANB/APU/AWT 20v",
+            "power": "150HP",
+            "year": "95-99",
+            "turboModel": "K03",
+            "oemPartNo": "058145703L",
+            "baseCode": "5303-970-0005"
+        },
+        {
+            "model": "A4 1.8T Quattro",
+            "engine": "1.8L P",
+            "engineCode": "BEX 20v",
+            "power": "190HP",
+            "year": "02-",
+            "turboModel": "K03",
+            "oemPartNo": "06B145703B",
+            "baseCode": "5303-970-0073"
+        },
+        {
+            "model": "A4 2.0i TFSI / Quattro",
+            "engine": "2.0L P",
+            "engineCode": "BGB/BWE",
+            "power": "200HP",
+            "year": "05-08",
+            "turboModel": "K03",
+            "oemPartNo": "06D145701F",
+            "baseCode": "5303-970-0106"
+        },
+        {
+            "model": "A4 2.0i TFSI / Quattro",
+            "engine": "2.0L P",
+            "engineCode": "BGB/BWE",
+            "power": "200HP",
+            "year": "05-08",
+            "turboModel": "K03",
+            "oemPartNo": "06D145701J",
+            "baseCode": "5303-970-0106"
+        },
+        {
+            "model": "A4 2.0i TFSI / Quattro",
+            "engine": "2.0L P",
+            "engineCode": "BGB/BWE",
+            "power": "200HP",
+            "year": "05-08",
+            "turboModel": "K03",
+            "oemPartNo": "06F145701H",
+            "baseCode": "5303-970-0105"
+        },
+        {
+            "model": "A4 2.0i TFSI / Quattro",
+            "engine": "2.0L P",
+            "engineCode": "BGB/BWE",
+            "power": "200HP",
+            "year": "05-08",
+            "turboModel": "K03",
+            "oemPartNo": "06F145701F",
+            "baseCode": "5303-970-0105"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "1.9L D",
+            "engineCode": "AFF",
+            "power": "75HP",
+            "year": "95-01",
+            "turboModel": "K03",
+            "oemPartNo": "028145701R",
+            "baseCode": "5303-970-0003"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "1.9L D",
+            "engineCode": "AFN/AVG",
+            "power": "110HP",
+            "year": "95-01",
+            "turboModel": "GT17",
+            "oemPartNo": "028145702C",
+            "baseCode": "454158-5003S"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "1.9L D",
+            "engineCode": "ASV",
+            "power": "110HP",
+            "year": "00-01",
+            "turboModel": "GT17",
+            "oemPartNo": "028145702NV500",
+            "baseCode": "701854-5004S"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "1.9L D",
+            "engineCode": "AVF/AWX",
+            "power": "130HP",
+            "year": "00-04",
+            "turboModel": "GT17",
+            "oemPartNo": "038145702N",
+            "baseCode": "717858-5009S"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "1.9L D",
+            "engineCode": "BKE/BRB DPF Euro 4",
+            "power": "115HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "035145702K",
+            "baseCode": "761437-5005S"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "1.9L D",
+            "engineCode": "BKE/BRB Euro 4",
+            "power": "115HP",
+            "year": "99-03",
+            "turboModel": "GT17",
+            "oemPartNo": "038145702L",
+            "baseCode": "454231-5013S"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "1.9L D",
+            "engineCode": "IZ/AHH/AHU Euro 2",
+            "power": "90HP",
+            "year": "95-01",
+            "turboModel": "GT15",
+            "oemPartNo": "028145702",
+            "baseCode": "454097-5002S"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "2.0L D",
+            "engineCode": "BLB",
+            "power": "140HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "038145702N",
+            "baseCode": "717858-5009S"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "2.0L D",
+            "engineCode": "BLB/BRE DPF",
+            "power": "140HP",
+            "year": "04-08",
+            "turboModel": "GT17",
+            "oemPartNo": "03G145702K",
+            "baseCode": "758219-5003S"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "2.0L D",
+            "engineCode": "BRD",
+            "power": "170HP",
+            "year": "07-",
+            "turboModel": "BV43",
+            "oemPartNo": "03G145702H",
+            "baseCode": "5303-970-0109"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "2.0L D",
+            "engineCode": "BRD CR PL48DPF",
+            "power": "170HP",
+            "year": "08-",
+            "turboModel": "BV43",
+            "oemPartNo": "03L145702N",
+            "baseCode": "5303-970-0189"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "2.0L D",
+            "engineCode": "CAGA CR PL48 DPF",
+            "power": "143HP",
+            "year": "08-",
+            "turboModel": "BV43",
+            "oemPartNo": "03L145702M",
+            "baseCode": "5303-970-0190"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "2.5L D",
+            "engineCode": "AFB/AKN/AYM V6 24v",
+            "power": "150HP",
+            "year": "98-01",
+            "turboModel": "GT20",
+            "oemPartNo": "059145702D",
+            "baseCode": "454135-5009S"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "2.5L D",
+            "engineCode": "AYM V6",
+            "power": "179HP",
+            "year": "03-",
+            "turboModel": "GT20",
+            "oemPartNo": "059145701S",
+            "baseCode": "454135-5010S"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "2.7L D",
+            "engineCode": "BPP V6Euro 4",
+            "power": "180HP",
+            "year": "06-08",
+            "turboModel": "GT17",
+            "oemPartNo": "059145721F",
+            "baseCode": "769701-5003S"
+        },
+        {
+            "model": "A4 TDi",
+            "engine": "2.7L D",
+            "engineCode": "CAMA V6",
+            "power": "190HP",
+            "year": "08-",
+            "turboModel": "GT17",
+            "oemPartNo": "059145721G",
+            "baseCode": "777159-5003S"
+        },
+        {
+            "model": "A4 TDi Quattro",
+            "engine": "2.5L D",
+            "engineCode": "AFB/AKN/AYM V6 24v",
+            "power": "150HP",
+            "year": "98-01",
+            "turboModel": "GT20",
+            "oemPartNo": "059145702D",
+            "baseCode": "454135-5009S"
+        },
+        {
+            "model": "A4 TDi Quattro",
+            "engine": "3.0L D",
+            "engineCode": "ASB/BKN/BKS/BMK",
+            "power": "230HP",
+            "year": "06-10",
+            "turboModel": "BV50",
+            "oemPartNo": "059145715F",
+            "baseCode": "5304-970-0054"
+        },
+        {
+            "model": "A5 TDi",
+            "engine": "2.7L D",
+            "engineCode": "CAMA B8 CO2 V6",
+            "power": "190HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "059145721G",
+            "baseCode": "777159-5003S"
+        },
+        {
+            "model": "A6 1.8i Turbo / Quattro",
+            "engine": "1.8L P",
+            "engineCode": "AEB/ANB/APU/AWT",
+            "power": "150HP",
+            "year": "98-05",
+            "turboModel": "K03",
+            "oemPartNo": "058145703L",
+            "baseCode": "5303-970-0005"
+        },
+        {
+            "model": "A6 2.7i Quattro",
+            "engine": "2.7L P",
+            "engineCode": "AJK/AZA (Left)",
+            "power": "230HP",
+            "year": "99-01",
+            "turboModel": "K03",
+            "oemPartNo": "078145703L",
+            "baseCode": "5303-970-0016"
+        },
+        {
+            "model": "A6 2.7i Quattro",
+            "engine": "2.7L P",
+            "engineCode": "AJK/AZA (Right)",
+            "power": "230HP",
+            "year": "99-01",
+            "turboModel": "K03",
+            "oemPartNo": "078145704L",
+            "baseCode": "5303-970-0017"
+        },
+        {
+            "model": "A6 2.7i Quattro",
+            "engine": "2.7L P",
+            "engineCode": "ARE (Left)",
+            "power": "250HP",
+            "year": "01-03",
+            "turboModel": "K03",
+            "oemPartNo": "078145703T",
+            "baseCode": "5303-970-0069"
+        },
+        {
+            "model": "A6 2.7i Quattro",
+            "engine": "2.7L P",
+            "engineCode": "ARE (Left)",
+            "power": "250HP",
+            "year": "01-03",
+            "turboModel": "K03",
+            "oemPartNo": "078145703S",
+            "baseCode": "5303-970-0016"
+        },
+        {
+            "model": "A6 2.7i Quattro",
+            "engine": "2.7L P",
+            "engineCode": "ARE (Right)",
+            "power": "250HP",
+            "year": "01-03",
+            "turboModel": "K03",
+            "oemPartNo": "078145704S",
+            "baseCode": "5303-970-0017"
+        },
+        {
+            "model": "A6 TDi",
+            "engine": "1.9L D",
+            "engineCode": "AFN/AVG",
+            "power": "110HP",
+            "year": "97-97",
+            "turboModel": "GT17",
+            "oemPartNo": "028145702C",
+            "baseCode": "454158-5003S"
+        },
+        {
+            "model": "A6 TDi",
+            "engine": "1.9L D",
+            "engineCode": "AJM Euro 4",
+            "power": "115HP",
+            "year": "00-01",
+            "turboModel": "GT17",
+            "oemPartNo": "038145702L",
+            "baseCode": "454231-5013S"
+        },
+        {
+            "model": "A6 TDi",
+            "engine": "1.9L D",
+            "engineCode": "ASV",
+            "power": "119HP",
+            "year": "00-01",
+            "turboModel": "GT17",
+            "oemPartNo": "028145702N",
+            "baseCode": "701854-5004S"
+        },
+        {
+            "model": "A6 TDi",
+            "engine": "1.9L D",
+            "engineCode": "AVF/AWX 8v",
+            "power": "130HP",
+            "year": "01-05",
+            "turboModel": "GT17",
+            "oemPartNo": "038145702N",
+            "baseCode": "717858-5009S"
+        },
+        {
+            "model": "A6 TDi",
+            "engine": "2.0L D",
+            "engineCode": "BLB/BRE 4v/Cyl DPF",
+            "power": "140HP",
+            "year": "04-08",
+            "turboModel": "GT17",
+            "oemPartNo": "03G145702K",
+            "baseCode": "758219-5003S"
+        },
+        {
+            "model": "A6 TDi",
+            "engine": "2.5L D",
+            "engineCode": "AFB/AKN/AYM",
+            "power": "150HP",
+            "year": "97-01",
+            "turboModel": "GT20",
+            "oemPartNo": "059145702D",
+            "baseCode": "454135-5009S"
+        },
+        {
+            "model": "A6 TDi",
+            "engine": "2.5L D",
+            "engineCode": "AKE/BAU/BDH/AYM",
+            "power": "180HP",
+            "year": "99-05",
+            "turboModel": "GT20",
+            "oemPartNo": "059145701K",
+            "baseCode": "454135-5010S"
+        },
+        {
+            "model": "A6 TDi",
+            "engine": "2.7L D",
+            "engineCode": "BPP V624v Euro 4",
+            "power": "179HP",
+            "year": "05-08",
+            "turboModel": "GT17",
+            "oemPartNo": "059145721F",
+            "baseCode": "769701-5003S"
+        },
+        {
+            "model": "A6 TDi",
+            "engine": "2.7L D",
+            "engineCode": "V6 24v Euro 4",
+            "power": "190HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "059145721D",
+            "baseCode": "777162-5001S"
+        },
+        {
+            "model": "A6 TDi Quattro",
+            "engine": "2.7L D",
+            "engineCode": "BPP V6",
+            "power": "179HP",
+            "year": "05-08",
+            "turboModel": "BV50",
+            "oemPartNo": "059145715E",
+            "baseCode": "5304-970-0055"
+        },
+        {
+            "model": "A8 TDi",
+            "engine": "4.2L D",
+            "engineCode": "BVN (Left)",
+            "power": "326HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "57145874",
+            "baseCode": "765312-5002S"
+        },
+        {
+            "model": "A8 TDi",
+            "engine": "4.2L D",
+            "engineCode": "BVN (Right)",
+            "power": "326HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "057145721N",
+            "baseCode": "765313-5002S"
+        },
+        {
+            "model": "A8 TDi Quattro",
+            "engine": "3.0L D",
+            "engineCode": "ASB/BKN/BKS/BMK",
+            "power": "230HP",
+            "year": "04-10",
+            "turboModel": "BV50",
+            "oemPartNo": "059145715F",
+            "baseCode": "5304-970-0054"
+        },
+        {
+            "model": "A8 TDi Quattro",
+            "engine": "4.0L D",
+            "engineCode": "ASE (Left)",
+            "power": "275HP",
+            "year": "03-05",
+            "turboModel": "GT17",
+            "oemPartNo": "057145721J",
+            "baseCode": "750718-5004S"
+        },
+        {
+            "model": "A8 TDi Quattro",
+            "engine": "4.0L D",
+            "engineCode": "ASE (Right)",
+            "power": "275HP",
+            "year": "03-05",
+            "turboModel": "GT17",
+            "oemPartNo": "057145722J",
+            "baseCode": "750720-5003S"
+        },
+        {
+            "model": "Allroad TDi Quattro",
+            "engine": "2.5L D",
+            "engineCode": "AKE/BAU/AYM V6",
+            "power": "180HP",
+            "year": "00-06",
+            "turboModel": "GT20",
+            "oemPartNo": "059145701S",
+            "baseCode": "454135-5010S"
+        },
+        {
+            "model": "Allroad TDi Quattro",
+            "engine": "2.7L D",
+            "engineCode": "(Left)",
+            "power": "230HP",
+            "year": "00-06",
+            "turboModel": "K03",
+            "oemPartNo": "078145703L",
+            "baseCode": "5303-970-0016"
+        },
+        {
+            "model": "Allroad TDi Quattro",
+            "engine": "2.7L D",
+            "engineCode": "(Right)",
+            "power": "230HP",
+            "year": "00-06",
+            "turboModel": "K03",
+            "oemPartNo": "078145704L",
+            "baseCode": "5303-970-0017"
+        },
+        {
+            "model": "Allroad TDi Quattro",
+            "engine": "2.7L D",
+            "engineCode": "ARE/BES (Left)",
+            "power": "250HP",
+            "year": "00-06",
+            "turboModel": "K03",
+            "oemPartNo": "078145703T",
+            "baseCode": "5303-970-0069"
+        },
+        {
+            "model": "Allroad TDi Quattro",
+            "engine": "2.7L D",
+            "engineCode": "ARE/BES (Left)",
+            "power": "250HP",
+            "year": "00-06",
+            "turboModel": "K03",
+            "oemPartNo": "078145703S",
+            "baseCode": "5303-970-0016"
+        },
+        {
+            "model": "Allroad TDi Quattro",
+            "engine": "2.7L D",
+            "engineCode": "ARE/BES (Right)",
+            "power": "250HP",
+            "year": "00-06",
+            "turboModel": "K03",
+            "oemPartNo": "078145704S",
+            "baseCode": "5303-970-0017"
+        },
+        {
+            "model": "Q7 TDi",
+            "engine": "3.0L D",
+            "engineCode": "ASB/BKN/BKS/BMK",
+            "power": "230HP",
+            "year": "05-09",
+            "turboModel": "BV50",
+            "oemPartNo": "059145715F",
+            "baseCode": "5304-970-0054"
+        },
+        {
+            "model": "Q7 TDi Quattro",
+            "engine": "3.0L D",
+            "engineCode": "CASA V6 Euro 5",
+            "power": "240HP",
+            "year": "06-",
+            "turboModel": "GT22",
+            "oemPartNo": "059145722R",
+            "baseCode": "776470-5003S"
+        },
+        {
+            "model": "Q7 TDi Quattro",
+            "engine": "4.1L D",
+            "engineCode": "BTR V8 32v (Left)",
+            "power": "326HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "057145721Q",
+            "baseCode": "763493-5005S"
+        },
+        {
+            "model": "Q7 TDi Quattro",
+            "engine": "4.1L D",
+            "engineCode": "BTR V8 32v (Right)",
+            "power": "326HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "057145722Q",
+            "baseCode": "763492-5005S"
+        },
+        {
+            "model": "RS4 2.7i Turbo Quattro",
+            "engine": "2.7L P",
+            "engineCode": "ASJ/AZR (Left)",
+            "power": "381HP",
+            "year": "00-01",
+            "turboModel": "K04",
+            "oemPartNo": "078145703M",
+            "baseCode": "5304-970-0025"
+        },
+        {
+            "model": "RS4 2.7i Turbo Quattro",
+            "engine": "2.7L P",
+            "engineCode": "ASJ/AZR (Right)",
+            "power": "381HP",
+            "year": "00-01",
+            "turboModel": "K04",
+            "oemPartNo": "078145704M",
+            "baseCode": "5304-970-0026"
+        },
+        {
+            "model": "RS6 4.2i Turbo Quattro",
+            "engine": "4.2L P",
+            "engineCode": "BCY (Left)",
+            "power": "443HP",
+            "year": "02-04",
+            "turboModel": "K04",
+            "oemPartNo": "077145703P",
+            "baseCode": "5304-970-0028"
+        },
+        {
+            "model": "S3 1.8i TFSI Quattro",
+            "engine": "1.8L P",
+            "engineCode": "AMK/APY 20v",
+            "power": "210HP",
+            "year": "00-01",
+            "turboModel": "K04",
+            "oemPartNo": "06A145704Q",
+            "baseCode": "5304-970-0023"
+        },
+        {
+            "model": "S3 1.8i TFSI Quattro",
+            "engine": "1.8L P",
+            "engineCode": "AMK/APY 20v",
+            "power": "210HP",
+            "year": "99-00",
+            "turboModel": "K04",
+            "oemPartNo": "06A145704P",
+            "baseCode": "5304-970-0022"
+        },
+        {
+            "model": "S3 1.8i TFSI Quattro",
+            "engine": "1.8L P",
+            "engineCode": "AMK/APY 20v",
+            "power": "210HP",
+            "year": "99-99",
+            "turboModel": "K04",
+            "oemPartNo": "06A145704M",
+            "baseCode": "5304-970-0020"
+        },
+        {
+            "model": "S3 2.0i TFSI Quattro",
+            "engine": "2.0L P",
+            "engineCode": "BHZ 16v",
+            "power": "265HP",
+            "year": "06-08",
+            "turboModel": "K04",
+            "oemPartNo": "06F145702C",
+            "baseCode": "5304-970-0064"
+        },
+        {
+            "model": "S4 2.7i Turbo Quattro",
+            "engine": "2.7L P",
+            "engineCode": "AGB/AZB (Left)",
+            "power": "265HP",
+            "year": "97-01",
+            "turboModel": "K03",
+            "oemPartNo": "078145703L",
+            "baseCode": "5303-970-0016"
+        },
+        {
+            "model": "S4 2.7i Turbo Quattro",
+            "engine": "2.7L P",
+            "engineCode": "AGB/AZB (Right)",
+            "power": "265HP",
+            "year": "97-01",
+            "turboModel": "K03",
+            "oemPartNo": "078145704L",
+            "baseCode": "5303-970-0017"
+        },
+        {
+            "model": "TT 1.8i Quattro",
+            "engine": "1.8L P",
+            "engineCode": "AJQ/ARY",
+            "power": "180HP",
+            "year": "99-06",
+            "turboModel": "K03",
+            "oemPartNo": "06A145704B",
+            "baseCode": "5303-970-0035"
+        },
+        {
+            "model": "TT 1.8i Quattro",
+            "engine": "1.8L P",
+            "engineCode": "APX/BAM 20v",
+            "power": "225HP",
+            "year": "99-06",
+            "turboModel": "K04",
+            "oemPartNo": "06A145704Q",
+            "baseCode": "5304-970-0023"
+        },
+        {
+            "model": "TT 1.8i Quattro",
+            "engine": "1.8L P",
+            "engineCode": "APX/BAM 20v",
+            "power": "225HP",
+            "year": "99-06",
+            "turboModel": "K04",
+            "oemPartNo": "06A145704M",
+            "baseCode": "5304-970-0020"
+        },
+        {
+            "model": "TT 1.8i Quattro",
+            "engine": "1.8L P",
+            "engineCode": "APX/BAM 20v",
+            "power": "225HP",
+            "year": "99-06",
+            "turboModel": "K04",
+            "oemPartNo": "06A145704P",
+            "baseCode": "5304-970-0022"
+        },
+        {
+            "model": "TT 1.8i Turbo",
+            "engine": "1.8L P",
+            "engineCode": "AUQ",
+            "power": "180HP",
+            "year": "04-06",
+            "turboModel": "K03",
+            "oemPartNo": "06A145713D",
+            "baseCode": "5303-970-0052"
+        },
+        {
+            "model": "TT RS",
+            "engine": "2.5L P",
+            "engineCode": "-",
+            "power": "354HP",
+            "year": "09-",
+            "turboModel": "B03",
+            "oemPartNo": "07K145701B",
+            "baseCode": "1855-970-0000"
+        },
+        {
+            "model": "TTS 2.0i TFSI Quattro",
+            "engine": "2.0L P",
+            "engineCode": "CDLA 16v",
+            "power": "268HP",
+            "year": "08-",
+            "turboModel": "K04",
+            "oemPartNo": "06F145702C",
+            "baseCode": "5304-970-0064"
+        }
+    ]
+}

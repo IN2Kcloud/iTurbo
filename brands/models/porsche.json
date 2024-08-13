@@ -1,0 +1,105 @@
+{
+    "brand": "Porsche",
+    "models": [
+        {
+            "model": "911 GT2  (993)",
+            "engine": "3.6L P",
+            "engineCode": "M64/60 (Left)",
+            "power": "448HP",
+            "year": "95-99",
+            "turboModel": "K24",
+            "oemPartNo": "99312301385",
+            "baseCode": "5324-970-7003"
+        },
+        {
+            "model": "911 GT2  (997)",
+            "engine": "3.6L P",
+            "engineCode": "997 Top (Left)",
+            "power": "523HP",
+            "year": "07-",
+            "turboModel": "BV50",
+            "oemPartNo": "99712307773",
+            "baseCode": "5304-970-0081"
+        },
+        {
+            "model": "911 GT2  (997)",
+            "engine": "3.6L P",
+            "engineCode": "997 Top (Right)",
+            "power": "523HP",
+            "year": "07-",
+            "turboModel": "BV50",
+            "oemPartNo": "99712307873",
+            "baseCode": "5304-970-0080"
+        },
+        {
+            "model": "911 Turbo  (964)",
+            "engine": "3.3L P",
+            "engineCode": "930",
+            "power": "320HP",
+            "year": "90-93",
+            "turboModel": "K27",
+            "oemPartNo": "93012301305",
+            "baseCode": "5327-970-7200"
+        },
+        {
+            "model": "911 Turbo  (993)",
+            "engine": "3.6L P",
+            "engineCode": "M64/60 (Left)",
+            "power": "408HP",
+            "year": "95-98",
+            "turboModel": "K16",
+            "oemPartNo": "99312301352",
+            "baseCode": "5316-970-6736"
+        },
+        {
+            "model": "911 Turbo  (993)",
+            "engine": "3.6L P",
+            "engineCode": "M64/60 (Right)",
+            "power": "408HP",
+            "year": "95-98",
+            "turboModel": "K16",
+            "oemPartNo": "99312301452",
+            "baseCode": "5316-970-6735"
+        },
+        {
+            "model": "944 Turbo  (951)",
+            "engine": "2.5L P",
+            "engineCode": "-",
+            "power": "250HP",
+            "year": "88-92",
+            "turboModel": "K26",
+            "oemPartNo": "95112313103",
+            "baseCode": "5326-970-7042"
+        },
+        {
+            "model": "Cayenne 4.5i",
+            "engine": "4.5L P",
+            "engineCode": "(Left)",
+            "power": "450HP",
+            "year": "03-06",
+            "turboModel": "RHF5",
+            "oemPartNo": "94812301656",
+            "baseCode": "VVQ1"
+        },
+        {
+            "model": "Cayenne 4.5i",
+            "engine": "4.5L P",
+            "engineCode": "(Right)",
+            "power": "450HP",
+            "year": "03-06",
+            "turboModel": "RHF5",
+            "oemPartNo": "94812301556",
+            "baseCode": "VVQ2"
+        },
+        {
+            "model": "Cayenne 4.8i",
+            "engine": "4.8L P",
+            "engineCode": "M48/50 V8(Left)",
+            "power": "500HP",
+            "year": "07-",
+            "turboModel": "TD04",
+            "oemPartNo": "948123025052",
+            "baseCode": "49389-00312"
+        }
+    ]
+}

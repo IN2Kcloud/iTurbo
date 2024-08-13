@@ -1,0 +1,75 @@
+{
+    "brand": "Jeep",
+    "models": [
+        {
+            "model": "Cherokee CRD",
+            "engine": "2.8L D",
+            "engineCode": "R 281 6K5 16v",
+            "power": "161HP",
+            "year": "04-07",
+            "turboModel": "GT20",
+            "oemPartNo": "35242112F",
+            "baseCode": "763360-5001S"
+        },
+        {
+            "model": "Cherokee TD",
+            "engine": "2.5L D",
+            "engineCode": "425 CLIRS8v",
+            "power": "116HP",
+            "year": "97-99",
+            "turboModel": "RHB51",
+            "oemPartNo": "35242061F",
+            "baseCode": "VA59B"
+        },
+        {
+            "model": "Cherokee TD",
+            "engine": "2.5L D",
+            "engineCode": "425 CLIRX(23B) 8v",
+            "power": "114HP",
+            "year": "95-01",
+            "turboModel": "RHB51",
+            "oemPartNo": "35242061F",
+            "baseCode": "VA59B"
+        },
+        {
+            "model": "Compass CRD",
+            "engine": "2.0L D",
+            "engineCode": "H2 PDE DPF 16v",
+            "power": "138HP",
+            "year": "07-",
+            "turboModel": "GT16",
+            "oemPartNo": "03G253019RV100",
+            "baseCode": "768652-5007S"
+        },
+        {
+            "model": "Grand Cherokee CRD",
+            "engine": "2.7L D",
+            "engineCode": "OM665WJ 20v",
+            "power": "161HP",
+            "year": "01-05",
+            "turboModel": "GT22",
+            "oemPartNo": "A6650960099",
+            "baseCode": "715568-5002S"
+        },
+        {
+            "model": "Grand Cherokee CRD",
+            "engine": "3.0L D",
+            "engineCode": "EXL (642.980) V624v Euro 4",
+            "power": "218HP",
+            "year": "05-",
+            "turboModel": "GT20",
+            "oemPartNo": "A6420901480",
+            "baseCode": "765155-5008S"
+        },
+        {
+            "model": "Patriot CRD",
+            "engine": "2.0L D",
+            "engineCode": "H2 PDE DPF 16v",
+            "power": "138HP",
+            "year": "07-",
+            "turboModel": "GT16",
+            "oemPartNo": "03G253019RV100",
+            "baseCode": "768652-5007S"
+        }
+    ]
+}

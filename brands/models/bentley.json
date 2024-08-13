@@ -1,0 +1,135 @@
+{
+    "brand": "Bentley",
+    "models": [
+        {
+            "model": "Arnage",
+            "engine": "6.7L P",
+            "engineCode": "V8",
+            "power": "450HP",
+            "year": "02-07",
+            "turboModel": "TB03",
+            "oemPartNo": "PF100646PE",
+            "baseCode": "713333-5004S"
+        },
+        {
+            "model": "Arnage",
+            "engine": "6.7L P",
+            "engineCode": "V8",
+            "power": "450HP",
+            "year": "02-07",
+            "turboModel": "TB03",
+            "oemPartNo": "PF100647PF",
+            "baseCode": "713333-5003S"
+        },
+        {
+            "model": "Arnage Green Label",
+            "engine": "4.4L P",
+            "engineCode": "P600 V8",
+            "power": "348HP",
+            "year": "98-02",
+            "turboModel": "GT17",
+            "oemPartNo": "PB20321PH",
+            "baseCode": "452238-5003S"
+        },
+        {
+            "model": "Arnage Green Label",
+            "engine": "4.4L P",
+            "engineCode": "P600 V8",
+            "power": "348HP",
+            "year": "98-02",
+            "turboModel": "GT17",
+            "oemPartNo": "PB20320PH",
+            "baseCode": "452237-5003S"
+        },
+        {
+            "model": "Continental GT Speed",
+            "engine": "6.0L P",
+            "engineCode": "W12 (Left)",
+            "power": "602HP",
+            "year": "07-",
+            "turboModel": "K16",
+            "oemPartNo": "07C145061AJ",
+            "baseCode": "5316-970-0011"
+        },
+        {
+            "model": "Continental GT Speed",
+            "engine": "6.0L P",
+            "engineCode": "W12 (Right)",
+            "power": "602HP",
+            "year": "07-",
+            "turboModel": "K16",
+            "oemPartNo": "07C145061AH",
+            "baseCode": "5316-970-0012"
+        },
+        {
+            "model": "ContinentalGT",
+            "engine": "6.0L P",
+            "engineCode": "W12 (Left)",
+            "power": "552HP",
+            "year": "07-",
+            "turboModel": "K16",
+            "oemPartNo": "07C145061AE",
+            "baseCode": "5316-970-0033"
+        },
+        {
+            "model": "ContinentalGT",
+            "engine": "6.0L P",
+            "engineCode": "W12 (Left)",
+            "power": "552HP",
+            "year": "03-07",
+            "turboModel": "K16",
+            "oemPartNo": "07C145061AJ",
+            "baseCode": "5316-970-0011"
+        },
+        {
+            "model": "ContinentalGT",
+            "engine": "6.0L P",
+            "engineCode": "W12 (Right)",
+            "power": "552HP",
+            "year": "07-",
+            "turboModel": "K16",
+            "oemPartNo": "07C145061AD",
+            "baseCode": "5316-970-0037"
+        },
+        {
+            "model": "ContinentalGT",
+            "engine": "6.0L P",
+            "engineCode": "W12 (Right)",
+            "power": "552HP",
+            "year": "03-07",
+            "turboModel": "K16",
+            "oemPartNo": "07C145061AH",
+            "baseCode": "5316-970-0012"
+        },
+        {
+            "model": "MulsanneTurbo",
+            "engine": "6.7L P",
+            "engineCode": "V8",
+            "power": "328HP",
+            "year": "86-98",
+            "turboModel": "TB41",
+            "oemPartNo": "UE70593",
+            "baseCode": "465117-5002S"
+        },
+        {
+            "model": "MulsanneTurbo",
+            "engine": "6.7L P",
+            "engineCode": "V8",
+            "power": "328HP",
+            "year": "82-86",
+            "turboModel": "TB41",
+            "oemPartNo": "UE45205",
+            "baseCode": "466060-5001S"
+        },
+        {
+            "model": "Turbo R",
+            "engine": "6.7L P",
+            "engineCode": "V8",
+            "power": "296HP",
+            "year": "85-97",
+            "turboModel": "TB41",
+            "oemPartNo": "UT11200",
+            "baseCode": "465117-5005S"
+        }
+    ]
+}

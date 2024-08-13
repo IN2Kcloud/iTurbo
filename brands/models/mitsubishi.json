@@ -1,0 +1,325 @@
+{
+    "brand": "Mitsubishi",
+    "models": [
+        {
+            "model": "Canter",
+            "engine": "2.8L D",
+            "engineCode": "4M40",
+            "power": "",
+            "year": "",
+            "turboModel": "TF035",
+            "oemPartNo": "ME190511",
+            "baseCode": "49135-03301"
+        },
+        {
+            "model": "Canter",
+            "engine": "3.0L D",
+            "engineCode": "4M42 FB",
+            "power": "",
+            "year": "",
+            "turboModel": "TF035",
+            "oemPartNo": "ME191050",
+            "baseCode": "49135-03611"
+        },
+        {
+            "model": "Canter",
+            "engine": "3.9L D",
+            "engineCode": "4D34 145PK",
+            "power": "",
+            "year": "",
+            "turboModel": "TD05",
+            "oemPartNo": "ME014880",
+            "baseCode": "49178-02350"
+        },
+        {
+            "model": "Carisma",
+            "engine": "1.9L D",
+            "engineCode": "F8Q208",
+            "power": "89HP",
+            "year": "99-02",
+            "turboModel": "TB02",
+            "oemPartNo": "7700108864",
+            "baseCode": "454112-5005S"
+        },
+        {
+            "model": "Carisma DI-D",
+            "engine": "1.9L D",
+            "engineCode": "F9Q (Pressure Actuator)",
+            "power": "100HP",
+            "year": "02-05",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683853",
+            "baseCode": "738123-5004S"
+        },
+        {
+            "model": "Carisma DI-D",
+            "engine": "1.9L D",
+            "engineCode": "F9Q (VacuumActuator)",
+            "power": "100HP",
+            "year": "02-05",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683854",
+            "baseCode": "751768-5004S"
+        },
+        {
+            "model": "Challanger",
+            "engine": "2.8L D",
+            "engineCode": "4M40",
+            "power": "",
+            "year": "",
+            "turboModel": "TF035",
+            "oemPartNo": "ME202446",
+            "baseCode": "49135-03200"
+        },
+        {
+            "model": "Challanger",
+            "engine": "2.8L D",
+            "engineCode": "4M40 W",
+            "power": "",
+            "year": "96-",
+            "turboModel": "TF035",
+            "oemPartNo": "ME202435",
+            "baseCode": "49135-03130"
+        },
+        {
+            "model": "Delica",
+            "engine": "2.8L D",
+            "engineCode": "4M40 (W-CAR)",
+            "power": "",
+            "year": "",
+            "turboModel": "TF035",
+            "oemPartNo": "ME201677",
+            "baseCode": "49135-03101"
+        },
+        {
+            "model": "Grandis DI-D",
+            "engine": "2.0L D",
+            "engineCode": "H2 PDE DPF",
+            "power": "138HP",
+            "year": "05-08",
+            "turboModel": "GT16",
+            "oemPartNo": "03G253019RV100",
+            "baseCode": "768652-5007S"
+        },
+        {
+            "model": "L200",
+            "engine": "2.5L D",
+            "engineCode": "4D5 CDI",
+            "power": "134HP",
+            "year": "06-",
+            "turboModel": "RHF4",
+            "oemPartNo": "1515A029",
+            "baseCode": "VT10"
+        },
+        {
+            "model": "L200",
+            "engine": "2.5L D",
+            "engineCode": "4D56",
+            "power": "",
+            "year": "92-96",
+            "turboModel": "TD04",
+            "oemPartNo": "MD108053",
+            "baseCode": "49177-01501"
+        },
+        {
+            "model": "L200",
+            "engine": "2.5L D",
+            "engineCode": "4D56 Euro 3",
+            "power": "",
+            "year": "02-",
+            "turboModel": "TF035",
+            "oemPartNo": "MR968080",
+            "baseCode": "49135-02652"
+        },
+        {
+            "model": "L200",
+            "engine": "2.5L D",
+            "engineCode": "4D56 PB EC",
+            "power": "",
+            "year": "93-96",
+            "turboModel": "TD04",
+            "oemPartNo": "MR355223",
+            "baseCode": "49177-01505"
+        },
+        {
+            "model": "L200",
+            "engine": "2.5L D",
+            "engineCode": "4D56 Q EC",
+            "power": "",
+            "year": "",
+            "turboModel": "TF035",
+            "oemPartNo": "MR212759",
+            "baseCode": "49135-02110"
+        },
+        {
+            "model": "L300",
+            "engine": "2.5L D",
+            "engineCode": "4D56",
+            "power": "",
+            "year": "92-96",
+            "turboModel": "TD04",
+            "oemPartNo": "MD108053",
+            "baseCode": "49177-01501"
+        },
+        {
+            "model": "L300",
+            "engine": "2.5L D",
+            "engineCode": "4D56 PB EC",
+            "power": "",
+            "year": "93-96",
+            "turboModel": "TD04",
+            "oemPartNo": "MR355223",
+            "baseCode": "49177-01505"
+        },
+        {
+            "model": "Lancer DI-D",
+            "engine": "2.0L D",
+            "engineCode": "H2 PDE DPF",
+            "power": "138HP",
+            "year": "07-",
+            "turboModel": "GT16",
+            "oemPartNo": "03G253019RV100",
+            "baseCode": "768652-5007S"
+        },
+        {
+            "model": "Lancer Evolution IX",
+            "engine": "2.0L P",
+            "engineCode": "4G63",
+            "power": "276HP",
+            "year": "05-08",
+            "turboModel": "TD05",
+            "oemPartNo": "1515A054",
+            "baseCode": "49378-01580"
+        },
+        {
+            "model": "Lancer Evolution IX",
+            "engine": "2.0L P",
+            "engineCode": "4G63",
+            "power": "276HP",
+            "year": "05-08",
+            "turboModel": "TD05",
+            "oemPartNo": "1515A059",
+            "baseCode": "49378-01571"
+        },
+        {
+            "model": "Lancer Evolution X",
+            "engine": "2.0L P",
+            "engineCode": "4B11T",
+            "power": "300HP",
+            "year": "08-",
+            "turboModel": "TD05",
+            "oemPartNo": "",
+            "baseCode": "49378-01641"
+        },
+        {
+            "model": "Outlander DI-DC",
+            "engine": "2.2L D",
+            "engineCode": "DW12 MTED6",
+            "power": "154HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "9684849580",
+            "baseCode": "769674-5006S"
+        },
+        {
+            "model": "Shogun",
+            "engine": "2.5L D",
+            "engineCode": "4D56",
+            "power": "",
+            "year": "01-",
+            "turboModel": "TF035",
+            "oemPartNo": "MR968080",
+            "baseCode": "49135-02652"
+        },
+        {
+            "model": "Shogun",
+            "engine": "2.5L D",
+            "engineCode": "4D56",
+            "power": "",
+            "year": "92-96",
+            "turboModel": "TD04",
+            "oemPartNo": "MD108053",
+            "baseCode": "49177-01501"
+        },
+        {
+            "model": "Shogun",
+            "engine": "2.5L D",
+            "engineCode": "4D56 DE",
+            "power": "",
+            "year": "",
+            "turboModel": "TD04",
+            "oemPartNo": "MD106720",
+            "baseCode": "49177-01510"
+        },
+        {
+            "model": "Shogun",
+            "engine": "2.5L D",
+            "engineCode": "4D56 PB DOM",
+            "power": "",
+            "year": "",
+            "turboModel": "TD04",
+            "oemPartNo": "MR355222",
+            "baseCode": "49177-01504"
+        },
+        {
+            "model": "Shogun",
+            "engine": "2.5L D",
+            "engineCode": "4D56 PB EC",
+            "power": "",
+            "year": "93-96",
+            "turboModel": "TD04",
+            "oemPartNo": "MR355223",
+            "baseCode": "49177-01505"
+        },
+        {
+            "model": "Shogun",
+            "engine": "2.5L D",
+            "engineCode": "4D56Q (MY91) DOM",
+            "power": "",
+            "year": "",
+            "turboModel": "TD04",
+            "oemPartNo": "MD187211",
+            "baseCode": "49177-02511"
+        },
+        {
+            "model": "Shogun",
+            "engine": "2.8L D",
+            "engineCode": "4M40 EFTA",
+            "power": "",
+            "year": "94-97",
+            "turboModel": "TD04",
+            "oemPartNo": "ME201637",
+            "baseCode": "49377-03053"
+        },
+        {
+            "model": "Shogun",
+            "engine": "2.8L D",
+            "engineCode": "4M40 Q EU",
+            "power": "",
+            "year": "98-00",
+            "turboModel": "TF035",
+            "oemPartNo": "ME202578",
+            "baseCode": "49135-03130"
+        },
+        {
+            "model": "Shogun",
+            "engine": "3.2L D",
+            "engineCode": "4M41 CK",
+            "power": "",
+            "year": "02-",
+            "turboModel": "TF035",
+            "oemPartNo": "ME191474",
+            "baseCode": "49135-03411"
+        },
+        {
+            "model": "Shogun Sport",
+            "engine": "2.5L D",
+            "engineCode": "4D56 Q EC",
+            "power": "",
+            "year": "98-01",
+            "turboModel": "TF035",
+            "oemPartNo": "MR212759",
+            "baseCode": "49135-02110"
+        }
+    ]
+}

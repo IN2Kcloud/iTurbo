@@ -1,0 +1,195 @@
+{
+    "brand": "Saab",
+    "models": [
+        {
+            "model": "9-3",
+            "engine": "2.0L P",
+            "engineCode": "B204",
+            "power": "191HP",
+            "year": "00-03",
+            "turboModel": "TB25",
+            "oemPartNo": "9185372",
+            "baseCode": "452068-5003S"
+        },
+        {
+            "model": "9-3",
+            "engine": "2.0L P",
+            "engineCode": "B204",
+            "power": "191HP",
+            "year": "99-02",
+            "turboModel": "TB25",
+            "oemPartNo": "9198318",
+            "baseCode": "452068-5003S"
+        },
+        {
+            "model": "9-3 2.0T",
+            "engine": "2.0L P",
+            "engineCode": "B207R L850",
+            "power": "210HP",
+            "year": "02-07",
+            "turboModel": "TD04",
+            "oemPartNo": "12788719",
+            "baseCode": "49377-06520"
+        },
+        {
+            "model": "9-3 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "B204L",
+            "power": "185HP",
+            "year": "98-02",
+            "turboModel": "GT17",
+            "oemPartNo": "5955703",
+            "baseCode": "452204-5005S"
+        },
+        {
+            "model": "9-3 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "B207L",
+            "power": "175HP",
+            "year": "02-",
+            "turboModel": "GT20",
+            "oemPartNo": "12755106",
+            "baseCode": "720168-5011S"
+        },
+        {
+            "model": "9-3 2.3i",
+            "engine": "2.3L P",
+            "engineCode": "B235E",
+            "power": "185HP",
+            "year": "01-09",
+            "turboModel": "GT17",
+            "oemPartNo": "5955703",
+            "baseCode": "452204-5005S"
+        },
+        {
+            "model": "9-3 2.8i",
+            "engine": "2.8L P",
+            "engineCode": "V6",
+            "power": "",
+            "year": "",
+            "turboModel": "TD04",
+            "oemPartNo": "55557012",
+            "baseCode": "49389-01710"
+        },
+        {
+            "model": "9-3 TTiD",
+            "engine": "1.9L D",
+            "engineCode": "Z19DTR DPF",
+            "power": "177HP",
+            "year": "07-",
+            "turboModel": "R2S",
+            "oemPartNo": "55215256",
+            "baseCode": "1000-970-0005"
+        },
+        {
+            "model": "9-3 TiD",
+            "engine": "2.2L D",
+            "engineCode": "D223L Y22DTR Euro 3",
+            "power": "125HP",
+            "year": "02-04",
+            "turboModel": "GT18",
+            "oemPartNo": "24445062",
+            "baseCode": "717626-5001S"
+        },
+        {
+            "model": "9-5",
+            "engine": "2.0L P",
+            "engineCode": "B205E",
+            "power": "150HP",
+            "year": "97-10",
+            "turboModel": "GT17",
+            "oemPartNo": "5955703",
+            "baseCode": "452204-5005S"
+        },
+        {
+            "model": "9-5",
+            "engine": "2.3L P",
+            "engineCode": "B235E",
+            "power": "170HP",
+            "year": "01-",
+            "turboModel": "GT17",
+            "oemPartNo": "5955703",
+            "baseCode": "452204-5005S"
+        },
+        {
+            "model": "9-5",
+            "engine": "3.0L P",
+            "engineCode": "B308E V6",
+            "power": "200HP",
+            "year": "98-03",
+            "turboModel": "GT15",
+            "oemPartNo": "90490711",
+            "baseCode": "708699-5002S"
+        },
+        {
+            "model": "9-5  3.0i",
+            "engine": "3.0L P",
+            "engineCode": "B308E V6",
+            "power": "200HP",
+            "year": "98-03",
+            "turboModel": "GT15",
+            "oemPartNo": "90490382",
+            "baseCode": "452194-5001S"
+        },
+        {
+            "model": "9-5  TiD",
+            "engine": "2.2L D",
+            "engineCode": "X22DTH Euro 3",
+            "power": "120HP",
+            "year": "02-05",
+            "turboModel": "GT18",
+            "oemPartNo": "24445062",
+            "baseCode": "717626-5001S"
+        },
+        {
+            "model": "9-5 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "B205L L850",
+            "power": "177HP",
+            "year": "02-",
+            "turboModel": "GT20",
+            "oemPartNo": "12755106",
+            "baseCode": "720168-5011S"
+        },
+        {
+            "model": "9-5 TiD",
+            "engine": "1.9L D",
+            "engineCode": "Z19DTH 16v Euro 4",
+            "power": "150HP",
+            "year": "05-10",
+            "turboModel": "GT17",
+            "oemPartNo": "55565542",
+            "baseCode": "773148-5001S"
+        },
+        {
+            "model": "900 2.0i",
+            "engine": "2.2L D",
+            "engineCode": "D223L/X22DTH HC TDI",
+            "power": "",
+            "year": "97-99",
+            "turboModel": "GT15",
+            "oemPartNo": "90573533",
+            "baseCode": "454229-5002S"
+        },
+        {
+            "model": "9000 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "B204E",
+            "power": "150HP",
+            "year": "94-98",
+            "turboModel": "TB25",
+            "oemPartNo": "9146051",
+            "baseCode": "452083-5001S"
+        },
+        {
+            "model": "9000 2.3i",
+            "engine": "2.3L P",
+            "engineCode": "B234E",
+            "power": "170HP",
+            "year": "85-98",
+            "turboModel": "TB25",
+            "oemPartNo": "9146051",
+            "baseCode": "452083-5001S"
+        }
+    ]
+}

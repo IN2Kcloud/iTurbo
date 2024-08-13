@@ -1,0 +1,195 @@
+{
+    "brand": "Toyota",
+    "models": [
+        {
+            "model": "Auris D-4D",
+            "engine": "1.4L D",
+            "engineCode": "D-4D",
+            "power": "89HP",
+            "year": "07-",
+            "turboModel": "GT12",
+            "oemPartNo": "172010N041",
+            "baseCode": "780708-5005S"
+        },
+        {
+            "model": "Avensis",
+            "engine": "2.0L D",
+            "engineCode": "CDT220",
+            "power": "109HP",
+            "year": "00-03",
+            "turboModel": "RHF4",
+            "oemPartNo": "1720127010",
+            "baseCode": "VB6"
+        },
+        {
+            "model": "Avensis D-4D",
+            "engine": "2.0L D",
+            "engineCode": "D-4D",
+            "power": "114HP",
+            "year": "03-06",
+            "turboModel": "GT17",
+            "oemPartNo": "172010G01C",
+            "baseCode": "727210-5001S"
+        },
+        {
+            "model": "Avensis TD",
+            "engine": "2.0L D",
+            "engineCode": "2C-T",
+            "power": "89HP",
+            "year": "97-01",
+            "turboModel": "CT9",
+            "oemPartNo": "1720164110",
+            "baseCode": "17201-64110"
+        },
+        {
+            "model": "Aygo",
+            "engine": "1.4L D",
+            "engineCode": "DV4 TED",
+            "power": "54HP",
+            "year": "05-",
+            "turboModel": "KP35",
+            "oemPartNo": "9661557480",
+            "baseCode": "5435-970-0021"
+        },
+        {
+            "model": "Corolla",
+            "engine": "1.4L D",
+            "engineCode": "1ND",
+            "power": "74HP",
+            "year": "04-07",
+            "turboModel": "GT14",
+            "oemPartNo": "172010N010C",
+            "baseCode": "758870-5001S"
+        },
+        {
+            "model": "Corolla",
+            "engine": "2.0L D",
+            "engineCode": "1CD-FTV",
+            "power": "72HP",
+            "year": "00-02",
+            "turboModel": "RHF4H",
+            "oemPartNo": "1720127060",
+            "baseCode": "VB11"
+        },
+        {
+            "model": "Corolla",
+            "engine": "2.0L D",
+            "engineCode": "1CD-FTV",
+            "power": "72HP",
+            "year": "95-00",
+            "turboModel": "RHF4H",
+            "oemPartNo": "1720127050",
+            "baseCode": "VB10"
+        },
+        {
+            "model": "Corolla D-4D",
+            "engine": "1.4L D",
+            "engineCode": "D-4D",
+            "power": "89HP",
+            "year": "07-",
+            "turboModel": "GT12",
+            "oemPartNo": "172010N041",
+            "baseCode": "780708-5005S"
+        },
+        {
+            "model": "Corolla D-4D",
+            "engine": "2.0L D",
+            "engineCode": "D-4D",
+            "power": "114HP",
+            "year": "03-07",
+            "turboModel": "GT17",
+            "oemPartNo": "172010G01C",
+            "baseCode": "727210-5001S"
+        },
+        {
+            "model": "Corolla Verso D-4D",
+            "engine": "2.0L D",
+            "engineCode": "D-4D",
+            "power": "114HP",
+            "year": "04-05",
+            "turboModel": "GT17",
+            "oemPartNo": "172010G01C",
+            "baseCode": "727210-5001S"
+        },
+        {
+            "model": "Hi-Ace",
+            "engine": "2.4L D",
+            "engineCode": "-",
+            "power": "",
+            "year": "94-",
+            "turboModel": "CT9",
+            "oemPartNo": "1720154090",
+            "baseCode": "17201-54090"
+        },
+        {
+            "model": "Landcruiser",
+            "engine": "3.0L D",
+            "engineCode": "-",
+            "power": "123HP",
+            "year": "93-",
+            "turboModel": "CT20",
+            "oemPartNo": "1720154060",
+            "baseCode": "17201-54060"
+        },
+        {
+            "model": "Landcruiser",
+            "engine": "4.2L D",
+            "engineCode": "1HD-FTE",
+            "power": "168HP",
+            "year": "97-02",
+            "turboModel": "CT26",
+            "oemPartNo": "1720117040",
+            "baseCode": "17201-17040"
+        },
+        {
+            "model": "Landcruiser D-4D",
+            "engine": "4.2L D",
+            "engineCode": "1HD-FTE Euro 3",
+            "power": "202HP",
+            "year": "98-08",
+            "turboModel": "GT23",
+            "oemPartNo": "1720117070B",
+            "baseCode": "802012-5001S"
+        },
+        {
+            "model": "Picnic",
+            "engine": "2.2L D",
+            "engineCode": "3C-TE CXM10",
+            "power": "86HP",
+            "year": "97-01",
+            "turboModel": "CT9",
+            "oemPartNo": "1720164170",
+            "baseCode": "17201-64170"
+        },
+        {
+            "model": "Yaris",
+            "engine": "1.4L D",
+            "engineCode": "1ND",
+            "power": "74HP",
+            "year": "02-06",
+            "turboModel": "",
+            "oemPartNo": "1720133010",
+            "baseCode": "17201-33010"
+        },
+        {
+            "model": "Yaris",
+            "engine": "1.4L D",
+            "engineCode": "1ND",
+            "power": "74HP",
+            "year": "04-09",
+            "turboModel": "GT14",
+            "oemPartNo": "172010N030B",
+            "baseCode": "766259-5001S"
+        },
+        {
+            "model": "Yaris D-4D",
+            "engine": "1.4L D",
+            "engineCode": "D-4D",
+            "power": "89HP",
+            "year": "07-",
+            "turboModel": "GT12",
+            "oemPartNo": "172010N041",
+            "baseCode": "780708-5005S"
+        }
+    ]
+}

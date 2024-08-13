@@ -1,0 +1,65 @@
+{
+    "brand": "Chrysler",
+    "models": [
+        {
+            "model": "300C CRD",
+            "engine": "3.0L D",
+            "engineCode": "EXL (642.980) Euro 4",
+            "power": "215HP",
+            "year": "05-09",
+            "turboModel": "GT20",
+            "oemPartNo": "A6420901480",
+            "baseCode": "765155-5008S"
+        },
+        {
+            "model": "Grand Voyager",
+            "engine": "2.5L D",
+            "engineCode": "425",
+            "power": "",
+            "year": "94-96",
+            "turboModel": "RHB51",
+            "oemPartNo": "35242052F",
+            "baseCode": "VA60A"
+        },
+        {
+            "model": "PT CruiserCRD",
+            "engine": "2.1L D",
+            "engineCode": "EDJ Neon",
+            "power": "121HP",
+            "year": "02-05",
+            "turboModel": "RHF4",
+            "oemPartNo": "A6640960299",
+            "baseCode": "VV12"
+        },
+        {
+            "model": "PT CruiserCRD",
+            "engine": "2.1L D",
+            "engineCode": "EDJ Neon R4 16v Euro 4",
+            "power": "149HP",
+            "year": "05-08",
+            "turboModel": "GT17",
+            "oemPartNo": "A6640900080",
+            "baseCode": "759422-5002S"
+        },
+        {
+            "model": "Voyager",
+            "engine": "2.5L D",
+            "engineCode": "425",
+            "power": "",
+            "year": "94-96",
+            "turboModel": "RHB51",
+            "oemPartNo": "35242052F",
+            "baseCode": "VA60A"
+        },
+        {
+            "model": "Voyager",
+            "engine": "2.8L D",
+            "engineCode": "RA 428 Euro 4",
+            "power": "163HP",
+            "year": "04-08",
+            "turboModel": "GT17",
+            "oemPartNo": "35242128F",
+            "baseCode": "771955-5001S"
+        }
+    ]
+}

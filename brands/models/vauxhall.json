@@ -1,0 +1,645 @@
+{
+    "brand": "Vauxhall",
+    "models": [
+        {
+            "model": "Astra 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "Z20LEL 16v",
+            "power": "170/200HP",
+            "year": "04-06",
+            "turboModel": "K04",
+            "oemPartNo": "55559848",
+            "baseCode": "5304-970-0048"
+        },
+        {
+            "model": "Astra 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "Z20LET 16v",
+            "power": "190HP",
+            "year": "00-04",
+            "turboModel": "K04",
+            "oemPartNo": "90423508",
+            "baseCode": "5304-970-0024"
+        },
+        {
+            "model": "Astra CDTi",
+            "engine": "1.7L D",
+            "engineCode": "Z17DTH 16v Ecotec",
+            "power": "100HP",
+            "year": "04-",
+            "turboModel": "TD03",
+            "oemPartNo": "8973000926",
+            "baseCode": "49131-06007"
+        },
+        {
+            "model": "Astra DTi",
+            "engine": "1.7L D",
+            "engineCode": "Y17DT/Y17DTI 16v",
+            "power": "75HP",
+            "year": "00-04",
+            "turboModel": "TD02",
+            "oemPartNo": "897185-2414",
+            "baseCode": "49173-06503"
+        },
+        {
+            "model": "Astra DTi",
+            "engine": "2.0L D",
+            "engineCode": "Y20DTH 16v",
+            "power": "100HP",
+            "year": "00-04",
+            "turboModel": "GT15",
+            "oemPartNo": "24442214",
+            "baseCode": "454216-5003S"
+        },
+        {
+            "model": "Astra Di",
+            "engine": "2.0L D",
+            "engineCode": "X20DTL 16v",
+            "power": "82HP",
+            "year": "98-00",
+            "turboModel": "GT15",
+            "oemPartNo": "24442213",
+            "baseCode": "454098-5003S"
+        },
+        {
+            "model": "Astra TD",
+            "engine": "1.7L D",
+            "engineCode": "X17DT (TC4EE1) 8v",
+            "power": "82HP",
+            "year": "92-98",
+            "turboModel": "RHB4",
+            "oemPartNo": "8971146390",
+            "baseCode": "VI72"
+        },
+        {
+            "model": "Astra TD",
+            "engine": "1.7L D",
+            "engineCode": "X17DT/X17DTL 8v Eco D",
+            "power": "68HP",
+            "year": "98-00",
+            "turboModel": "GT15",
+            "oemPartNo": "90530995",
+            "baseCode": "454187-5001S"
+        },
+        {
+            "model": "Astra TD LPT",
+            "engine": "1.7L D",
+            "engineCode": "X17DTL 8v EcoD",
+            "power": "68HP",
+            "year": "94-98",
+            "turboModel": "GT15",
+            "oemPartNo": "90499271",
+            "baseCode": "454092-5001S"
+        },
+        {
+            "model": "Astra VXR",
+            "engine": "2.0L P",
+            "engineCode": "Z20LEH",
+            "power": "237HP",
+            "year": "04-",
+            "turboModel": "K04",
+            "oemPartNo": "55559850",
+            "baseCode": "5304-970-0049"
+        },
+        {
+            "model": "Astra Van CDTi",
+            "engine": "1.7L D",
+            "engineCode": "Z17DTH 16v Ecotec",
+            "power": "100HP",
+            "year": "06-",
+            "turboModel": "TD03",
+            "oemPartNo": "8973000926",
+            "baseCode": "49131-06007"
+        },
+        {
+            "model": "Astra Van DTi",
+            "engine": "2.0L D",
+            "engineCode": "Y20DTH 16v",
+            "power": "100HP",
+            "year": "02-05",
+            "turboModel": "GT15",
+            "oemPartNo": "24442214",
+            "baseCode": "454216-5003S"
+        },
+        {
+            "model": "Astra Van Di",
+            "engine": "2.0L D",
+            "engineCode": "X20DTL 16v",
+            "power": "82HP",
+            "year": "98-02",
+            "turboModel": "GT15",
+            "oemPartNo": "24442213",
+            "baseCode": "454098-5003S"
+        },
+        {
+            "model": "Astra Van TD",
+            "engine": "1.7L D",
+            "engineCode": "X17DT (TC4EE1) 8v",
+            "power": "82HP",
+            "year": "94-98",
+            "turboModel": "RHB4",
+            "oemPartNo": "8971146390",
+            "baseCode": "VI72"
+        },
+        {
+            "model": "Astra Van TD",
+            "engine": "1.7L D",
+            "engineCode": "X17DT/X17DTL 8v Eco D",
+            "power": "68HP",
+            "year": "98-00",
+            "turboModel": "GT15",
+            "oemPartNo": "90530995",
+            "baseCode": "454187-5001S"
+        },
+        {
+            "model": "Astra Van TD",
+            "engine": "1.7L D",
+            "engineCode": "X17DTL 8v EcoD",
+            "power": "68HP",
+            "year": "94-98",
+            "turboModel": "GT15",
+            "oemPartNo": "90499271",
+            "baseCode": "454092-5001S"
+        },
+        {
+            "model": "Brava TD Pickup",
+            "engine": "2.5L D",
+            "engineCode": "4JA1T",
+            "power": "76HP",
+            "year": "01-02",
+            "turboModel": "RHF5",
+            "oemPartNo": "897185452",
+            "baseCode": "VICL"
+        },
+        {
+            "model": "Brava TD Pickup",
+            "engine": "2.5L D",
+            "engineCode": "4JA1T",
+            "power": "76HP",
+            "year": "94-01",
+            "turboModel": "RHF5",
+            "oemPartNo": "8970958800",
+            "baseCode": "VIAW"
+        },
+        {
+            "model": "Brava TD Pickup",
+            "engine": "3.1L D",
+            "engineCode": "V6",
+            "power": "120HP",
+            "year": "96-02",
+            "turboModel": "RHF5",
+            "oemPartNo": "8970700292",
+            "baseCode": "VIAH"
+        },
+        {
+            "model": "Combo",
+            "engine": "2.5L D",
+            "engineCode": "4JA1T",
+            "power": "",
+            "year": "91-98",
+            "turboModel": "RHF5",
+            "oemPartNo": "8970958805",
+            "baseCode": "VIAW"
+        },
+        {
+            "model": "Combo DTi",
+            "engine": "1.7L D",
+            "engineCode": "Y17DT 16v",
+            "power": "75HP",
+            "year": "01-05",
+            "turboModel": "TD02",
+            "oemPartNo": "893253881",
+            "baseCode": "49173-06603"
+        },
+        {
+            "model": "Combo DTi",
+            "engine": "1.7L D",
+            "engineCode": "Y17DT 16v",
+            "power": "75HP",
+            "year": "01-05",
+            "turboModel": "TD02",
+            "oemPartNo": "8971852414",
+            "baseCode": "49173-06503"
+        },
+        {
+            "model": "Corsa 1.6i VXR",
+            "engine": "1.6L P",
+            "engineCode": "Z16LER 16v",
+            "power": "192HP",
+            "year": "07-",
+            "turboModel": "K03",
+            "oemPartNo": "55355617",
+            "baseCode": "5303-970-0110"
+        },
+        {
+            "model": "Corsa CDTi",
+            "engine": "1.2L D",
+            "engineCode": "Z13DT Ecotec",
+            "power": "69HP",
+            "year": "09-",
+            "turboModel": "KP35",
+            "oemPartNo": "55202638",
+            "baseCode": "5435-970-0019"
+        },
+        {
+            "model": "Corsa CDTi",
+            "engine": "1.2L D",
+            "engineCode": "Z13DT Ecotec",
+            "power": "69HP",
+            "year": "03-06",
+            "turboModel": "KP35",
+            "oemPartNo": "93177409",
+            "baseCode": "5435-970-0006"
+        },
+        {
+            "model": "Corsa CDTi",
+            "engine": "1.2L D",
+            "engineCode": "Z13DTH Ecotec",
+            "power": "90HP",
+            "year": "06-",
+            "turboModel": "BV35",
+            "oemPartNo": "93184183",
+            "baseCode": "5435-970-0015"
+        },
+        {
+            "model": "Corsa CDTi",
+            "engine": "1.7L D",
+            "engineCode": "Z17DTH 16v Ecotec",
+            "power": "101HP",
+            "year": "03-05",
+            "turboModel": "TD03",
+            "oemPartNo": "8973000926",
+            "baseCode": "49131-06007"
+        },
+        {
+            "model": "Corsa DTi",
+            "engine": "1.7L D",
+            "engineCode": "Y17DT 16v",
+            "power": "75HP",
+            "year": "00-03",
+            "turboModel": "TD02",
+            "oemPartNo": "897185-2414",
+            "baseCode": "49173-06503"
+        },
+        {
+            "model": "Corsa TD",
+            "engine": "1.5L D",
+            "engineCode": "15DT (4EC1) 8v",
+            "power": "67HP",
+            "year": "93-00",
+            "turboModel": "RHB3",
+            "oemPartNo": "8970786400",
+            "baseCode": "VIAL"
+        },
+        {
+            "model": "Corsa TD",
+            "engine": "1.5L D",
+            "engineCode": "X15DT(T4EC1) 8v",
+            "power": "67HP",
+            "year": "96-00",
+            "turboModel": "RHB3",
+            "oemPartNo": "8971146380",
+            "baseCode": "VIBG"
+        },
+        {
+            "model": "Corsa Van CDTi",
+            "engine": "1.2L D",
+            "engineCode": "Z13DT Ecotec",
+            "power": "69HP",
+            "year": "04-07",
+            "turboModel": "KP35",
+            "oemPartNo": "93177409",
+            "baseCode": "5435-970-0006"
+        },
+        {
+            "model": "Corsa Van CDTi",
+            "engine": "1.2L D",
+            "engineCode": "Z13DTH Ecotec",
+            "power": "90HP",
+            "year": "06-",
+            "turboModel": "BV35",
+            "oemPartNo": "93184183",
+            "baseCode": "5435-970-0015"
+        },
+        {
+            "model": "Corsa Van DTi",
+            "engine": "1.7L D",
+            "engineCode": "Y17DT 16v",
+            "power": "75HP",
+            "year": "01-04",
+            "turboModel": "TD02",
+            "oemPartNo": "897185-2414",
+            "baseCode": "49173-06503"
+        },
+        {
+            "model": "Frontera DTi",
+            "engine": "2.2L D",
+            "engineCode": "Y22DTH",
+            "power": "120HP",
+            "year": "98-03",
+            "turboModel": "GT15",
+            "oemPartNo": "90573534",
+            "baseCode": "454219-5003S"
+        },
+        {
+            "model": "Frontera DTi",
+            "engine": "2.2L D",
+            "engineCode": "Y22DTR",
+            "power": "125HP",
+            "year": "01-03",
+            "turboModel": "GT18",
+            "oemPartNo": "24404592",
+            "baseCode": "705097-5002S"
+        },
+        {
+            "model": "Frontera TDS",
+            "engine": "2.5L D",
+            "engineCode": "VM 41B",
+            "power": "115HP",
+            "year": "96-98",
+            "turboModel": "RHB5",
+            "oemPartNo": "35242061F",
+            "baseCode": "VA59B"
+        },
+        {
+            "model": "Frontera TDi",
+            "engine": "2.8L D",
+            "engineCode": "4JB1-TC",
+            "power": "113HP",
+            "year": "95-96",
+            "turboModel": "RHB5",
+            "oemPartNo": "8971480762",
+            "baseCode": "VICC"
+        },
+        {
+            "model": "GT",
+            "engine": "2.0L D",
+            "engineCode": "L850",
+            "power": "260HP",
+            "year": "06-10",
+            "turboModel": "K04",
+            "oemPartNo": "12598713",
+            "baseCode": "5304-970-0200"
+        },
+        {
+            "model": "Insignia 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "L850 Ecotec",
+            "power": "217HP",
+            "year": "09-",
+            "turboModel": "K04",
+            "oemPartNo": "12598713",
+            "baseCode": "5304-970-0200"
+        },
+        {
+            "model": "Insignia CDTi",
+            "engine": "2.0L D",
+            "engineCode": "A20DTH Ecotec Euro 5",
+            "power": "158HP",
+            "year": "09-",
+            "turboModel": "GTB1",
+            "oemPartNo": "55570748",
+            "baseCode": "786137-5001S"
+        },
+        {
+            "model": "Meriva 1.6i VXR",
+            "engine": "1.6L P",
+            "engineCode": "Z16LET 16v",
+            "power": "180HP",
+            "year": "06-",
+            "turboModel": "K03",
+            "oemPartNo": "55355617",
+            "baseCode": "5303-970-0110"
+        },
+        {
+            "model": "Meriva DTi",
+            "engine": "1.7L D",
+            "engineCode": "Y17DT 16v",
+            "power": "75HP",
+            "year": "03-05",
+            "turboModel": "TD02",
+            "oemPartNo": "893253881",
+            "baseCode": "49173-06603"
+        },
+        {
+            "model": "Monterey TD",
+            "engine": "3.1L D",
+            "engineCode": "4JG2T/4JG2TC",
+            "power": "114HP",
+            "year": "95-99",
+            "turboModel": "RHB5",
+            "oemPartNo": "8971480762",
+            "baseCode": "VICC"
+        },
+        {
+            "model": "Monterey TD",
+            "engine": "3.1L D",
+            "engineCode": "4JG2T/4JG2TC",
+            "power": "114HP",
+            "year": "94-95",
+            "turboModel": "RHB5",
+            "oemPartNo": "8970385180",
+            "baseCode": "VI95"
+        },
+        {
+            "model": "Movano CDTi",
+            "engine": "1.9L D",
+            "engineCode": "F9Q 774 8v",
+            "power": "82HP",
+            "year": "03-07",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683854",
+            "baseCode": "751768-5004S"
+        },
+        {
+            "model": "Movano DTi",
+            "engine": "2.2L D",
+            "engineCode": "G9T 720/G9TF722 16v",
+            "power": "90HP",
+            "year": "00-04",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683861",
+            "baseCode": "720244-5004S"
+        },
+        {
+            "model": "Movano DTi",
+            "engine": "2.5L D",
+            "engineCode": "G9UA720/G9UA724 16v",
+            "power": "115HP",
+            "year": "02-03",
+            "turboModel": "K03",
+            "oemPartNo": "8200036999",
+            "baseCode": "5303-970-0055"
+        },
+        {
+            "model": "Movano DTi",
+            "engine": "2.8L D",
+            "engineCode": "-",
+            "power": "115HP",
+            "year": "00-",
+            "turboModel": "GT17",
+            "oemPartNo": "99466793",
+            "baseCode": "49135-05010"
+        },
+        {
+            "model": "Omega DTi",
+            "engine": "2.0L D",
+            "engineCode": "X20DTH",
+            "power": "100HP",
+            "year": "98-99",
+            "turboModel": "GT15",
+            "oemPartNo": "90573532",
+            "baseCode": "454219-5004S"
+        },
+        {
+            "model": "Omega DTi",
+            "engine": "2.2L D",
+            "engineCode": "Y22DTR Euro 3",
+            "power": "125HP",
+            "year": "",
+            "turboModel": "GT18",
+            "oemPartNo": "24443096",
+            "baseCode": "717628-5001S"
+        },
+        {
+            "model": "Omega TD",
+            "engine": "2.5L D",
+            "engineCode": "X25DT 12v",
+            "power": "130HP",
+            "year": "94-01",
+            "turboModel": "TD04",
+            "oemPartNo": "2246415",
+            "baseCode": "49177-06492"
+        },
+        {
+            "model": "Vectra",
+            "engine": "1.7L D",
+            "engineCode": "X17DT  Low Blow",
+            "power": "67HP",
+            "year": "95-96",
+            "turboModel": "GT15",
+            "oemPartNo": "90499271",
+            "baseCode": "454092-5001S"
+        },
+        {
+            "model": "Vectra",
+            "engine": "2.2L D",
+            "engineCode": "Euro 3",
+            "power": "100HP",
+            "year": "02-05",
+            "turboModel": "GT15",
+            "oemPartNo": "24461825",
+            "baseCode": "708867-5002S"
+        },
+        {
+            "model": "Vectra",
+            "engine": "2.8L D",
+            "engineCode": "V6",
+            "power": "177HP",
+            "year": "05-08",
+            "turboModel": "TD04",
+            "oemPartNo": "55557012",
+            "baseCode": "49389-01710"
+        },
+        {
+            "model": "Vectra DTi",
+            "engine": "2.0L D",
+            "engineCode": "X20DTH/Y20DTH",
+            "power": "100HP",
+            "year": "97-02",
+            "turboModel": "GT15",
+            "oemPartNo": "24442214",
+            "baseCode": "454216-5003S"
+        },
+        {
+            "model": "Vectra DTi",
+            "engine": "2.0L D",
+            "engineCode": "Y20DTH Euro 3",
+            "power": "100HP",
+            "year": "02-05",
+            "turboModel": "GT15",
+            "oemPartNo": "24461826",
+            "baseCode": "708866-5002S"
+        },
+        {
+            "model": "Vectra DTi",
+            "engine": "2.2L D",
+            "engineCode": "Y22DTR",
+            "power": "125HP",
+            "year": "00-04",
+            "turboModel": "GT18",
+            "oemPartNo": "24442215",
+            "baseCode": "703894-5003S"
+        },
+        {
+            "model": "Vectra DTi",
+            "engine": "2.2L D",
+            "engineCode": "Y22DTR Euro 3",
+            "power": "125HP",
+            "year": "00-04",
+            "turboModel": "GT18",
+            "oemPartNo": "24445062",
+            "baseCode": "717626-5001S"
+        },
+        {
+            "model": "Vectra Di",
+            "engine": "2.0L D",
+            "engineCode": "X20DTL",
+            "power": "82HP",
+            "year": "96-00",
+            "turboModel": "GT15",
+            "oemPartNo": "24442213",
+            "baseCode": "454098-5003S"
+        },
+        {
+            "model": "Vectra TD",
+            "engine": "1.7L D",
+            "engineCode": "X17DT 4EE1-T",
+            "power": "82HP",
+            "year": "95-96",
+            "turboModel": "RHB4",
+            "oemPartNo": "8971146390",
+            "baseCode": "VI72"
+        },
+        {
+            "model": "Zafira",
+            "engine": "2.2L D",
+            "engineCode": "Y22DTR Euro 3",
+            "power": "125HP",
+            "year": "02-",
+            "turboModel": "GT18",
+            "oemPartNo": "24445061",
+            "baseCode": "717625-5001S"
+        },
+        {
+            "model": "Zafira 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "Z20LET",
+            "power": "200HP",
+            "year": "01-05",
+            "turboModel": "K04",
+            "oemPartNo": "90423508",
+            "baseCode": "5304-970-0024"
+        },
+        {
+            "model": "Zafira CDTi",
+            "engine": "1.7L D",
+            "engineCode": "EcoFLEX Euro 5",
+            "power": "108HP",
+            "year": "09-",
+            "turboModel": "GTB15",
+            "oemPartNo": "8980536744",
+            "baseCode": "779591-5004S"
+        },
+        {
+            "model": "Zafira DTi",
+            "engine": "2.0L D",
+            "engineCode": "Y20DTH",
+            "power": "100HP",
+            "year": "00-05",
+            "turboModel": "GT15",
+            "oemPartNo": "24442214",
+            "baseCode": "454216-5003S"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "brand": "Honda",
+    "models": [
+        {
+            "model": "Accord TDi",
+            "engine": "2.0L D",
+            "engineCode": "20T2N",
+            "power": "105HP",
+            "year": "96-98",
+            "turboModel": "GT15",
+            "oemPartNo": "18900P5TG00",
+            "baseCode": "452098-5004S"
+        },
+        {
+            "model": "Accord i-CTDi",
+            "engine": "2.2L D",
+            "engineCode": "N22A RBD",
+            "power": "139HP",
+            "year": "03-08",
+            "turboModel": "GT17",
+            "oemPartNo": "18900RBD3050",
+            "baseCode": "802013-5001S"
+        },
+        {
+            "model": "Accord i-CTDi",
+            "engine": "2.2L D",
+            "engineCode": "N22A1 RBD",
+            "power": "139HP",
+            "year": "03-08",
+            "turboModel": "GT17",
+            "oemPartNo": "18900RBDE03",
+            "baseCode": "761650-5001S"
+        },
+        {
+            "model": "CR-V i-CTDi",
+            "engine": "2.2L D",
+            "engineCode": "N22A2 RMAEuro 4",
+            "power": "139HP",
+            "year": "05-07",
+            "turboModel": "GT17",
+            "oemPartNo": "18900RMAE010M2",
+            "baseCode": "802014-5001S"
+        },
+        {
+            "model": "Civic TDi",
+            "engine": "2.0L D",
+            "engineCode": "20T2H Intercooled",
+            "power": "105HP",
+            "year": "97-99",
+            "turboModel": "GT15",
+            "oemPartNo": "18900P5TG00",
+            "baseCode": "452098-5004S"
+        },
+        {
+            "model": "Civic i-CTDi",
+            "engine": "1.7L D",
+            "engineCode": "P702DH 4EE1Euro 3",
+            "power": "100HP",
+            "year": "02-06",
+            "turboModel": "GT17",
+            "oemPartNo": "8972873794",
+            "baseCode": "721875-5005S"
+        },
+        {
+            "model": "Civic i-CTDi",
+            "engine": "2.2L D",
+            "engineCode": "N22A2 RSR",
+            "power": "140HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "18900RSRE010M2",
+            "baseCode": "753708-5005S"
+        },
+        {
+            "model": "FR-V i-CTDi",
+            "engine": "2.2L D",
+            "engineCode": "N22A1 RMAEuro 4",
+            "power": "139HP",
+            "year": "05-10",
+            "turboModel": "GT17",
+            "oemPartNo": "18900RMAE010M2",
+            "baseCode": "802014-5001S"
+        }
+    ]
+}

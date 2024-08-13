@@ -1,0 +1,35 @@
+{
+    "brand": "Lotus",
+    "models": [
+        {
+            "model": "Elan",
+            "engine": "1.6L P",
+            "engineCode": "-",
+            "power": "162HP",
+            "year": "92-96",
+            "turboModel": "RHB52",
+            "oemPartNo": "A100E6127H",
+            "baseCode": "VI77"
+        },
+        {
+            "model": "Esprit",
+            "engine": "2.2L P",
+            "engineCode": "16v",
+            "power": "215HP",
+            "year": "88-92",
+            "turboModel": "TB03",
+            "oemPartNo": "A910E6889F",
+            "baseCode": "465133-5003S"
+        },
+        {
+            "model": "Esprit V8",
+            "engine": "3.5L P",
+            "engineCode": "P618 V8 (Left & Right)",
+            "power": "349HP",
+            "year": "96-03",
+            "turboModel": "TB25",
+            "oemPartNo": "A918E0060F",
+            "baseCode": "452218-5001S"
+        }
+    ]
+}

@@ -1,0 +1,325 @@
+{
+    "brand": "Alfa-romeo",
+    "models": [
+        {
+            "model": "145 JTD",
+            "engine": "1.9L D",
+            "engineCode": "M724.19",
+            "power": "104HP",
+            "year": "97-01",
+            "turboModel": "GT17",
+            "oemPartNo": "55191596",
+            "baseCode": "712766-5002S"
+        },
+        {
+            "model": "146 2.0i Twinspark",
+            "engine": "2.0L P",
+            "engineCode": "672.04 16v X8/49S",
+            "power": "150HP",
+            "year": "96-01",
+            "turboModel": "RHB5",
+            "oemPartNo": "46432131",
+            "baseCode": "VL8"
+        },
+        {
+            "model": "146 JTD",
+            "engine": "1.9L D",
+            "engineCode": "AR32302",
+            "power": "105HP",
+            "year": "99-01",
+            "turboModel": "GT15",
+            "oemPartNo": "46480117",
+            "baseCode": "701796-5001S"
+        },
+        {
+            "model": "146 JTD",
+            "engine": "1.9L D",
+            "engineCode": "AR37101 / M724.19",
+            "power": "108HP",
+            "year": "97-01",
+            "turboModel": "GT17",
+            "oemPartNo": "55191596",
+            "baseCode": "712766-5002S"
+        },
+        {
+            "model": "147 JTD",
+            "engine": "1.9L D",
+            "engineCode": "1.9JTD (16V)",
+            "power": "150HP",
+            "year": "04-",
+            "turboModel": "GT17",
+            "oemPartNo": "55205370",
+            "baseCode": "777250-5001S"
+        },
+        {
+            "model": "147 JTD",
+            "engine": "1.9L D",
+            "engineCode": "AR192A5/M724.19",
+            "power": "140HP/150HP",
+            "year": "02-",
+            "turboModel": "GT17",
+            "oemPartNo": "55191934",
+            "baseCode": "716665-5002S"
+        },
+        {
+            "model": "147 JTD",
+            "engine": "1.9L D",
+            "engineCode": "AR37101/AR937A2",
+            "power": "110HP/115HP",
+            "year": "02-",
+            "turboModel": "GT17",
+            "oemPartNo": "55191596",
+            "baseCode": "712766-5002S"
+        },
+        {
+            "model": "147 JTD",
+            "engine": "1.9L D",
+            "engineCode": "M724.19 8v Euro 3",
+            "power": "105HP",
+            "year": "00-05",
+            "turboModel": "GT14",
+            "oemPartNo": "55191595",
+            "baseCode": "708847-5002S"
+        },
+        {
+            "model": "147 JTD",
+            "engine": "1.9L D",
+            "engineCode": "M737AT.19Z Euro 4",
+            "power": "120HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "55214061",
+            "baseCode": "777251-5001S"
+        },
+        {
+            "model": "147 JTDM",
+            "engine": "1.9L D",
+            "engineCode": "M741DT.19Z 16v Euro 4",
+            "power": "120HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "55214063",
+            "baseCode": "777250-5001S"
+        },
+        {
+            "model": "155",
+            "engine": "2.0L P",
+            "engineCode": "AR67203 (16V)",
+            "power": "150HP",
+            "year": "92-96",
+            "turboModel": "TB0367",
+            "oemPartNo": "77202760",
+            "baseCode": "465103-5009S"
+        },
+        {
+            "model": "156 JTD",
+            "engine": "1.9L D",
+            "engineCode": "937A2.000 8v Euro 3",
+            "power": "115HP",
+            "year": "00-06",
+            "turboModel": "GT17",
+            "oemPartNo": "55191596",
+            "baseCode": "712766-5002S"
+        },
+        {
+            "model": "156 JTD",
+            "engine": "1.9L D",
+            "engineCode": "AR1952A5/M724.19",
+            "power": "140HP/150HP",
+            "year": "02-",
+            "turboModel": "GT17",
+            "oemPartNo": "55191934",
+            "baseCode": "716665-5002S"
+        },
+        {
+            "model": "156 JTD",
+            "engine": "1.9L D",
+            "engineCode": "M737AT.19Z 8v Euro 4",
+            "power": "120HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "55214061",
+            "baseCode": "777251-5001S"
+        },
+        {
+            "model": "156 JTD",
+            "engine": "2.4L D",
+            "engineCode": "AR32501",
+            "power": "136HP",
+            "year": "97-02",
+            "turboModel": "TD25",
+            "oemPartNo": "46763887",
+            "baseCode": "454150-5005S"
+        },
+        {
+            "model": "156 JTD",
+            "engine": "2.4L D",
+            "engineCode": "AR34202",
+            "power": "136HP",
+            "year": "98-01",
+            "turboModel": "TD25",
+            "oemPartNo": "46763886",
+            "baseCode": "454150-5006S"
+        },
+        {
+            "model": "159 JTD",
+            "engine": "1.9L D",
+            "engineCode": "939A2.000 Euro 4",
+            "power": "150HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "55211064",
+            "baseCode": "773721-5001S"
+        },
+        {
+            "model": "159 JTD",
+            "engine": "1.9L D",
+            "engineCode": "M737AT.19Z 8v Euro 4",
+            "power": "120HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "55205475",
+            "baseCode": "767837-5001S"
+        },
+        {
+            "model": "159 JTD/JTDM",
+            "engine": "2.4L D",
+            "engineCode": "939A3.000 20v Euro 4",
+            "power": "200HP",
+            "year": "06-",
+            "turboModel": "GT20",
+            "oemPartNo": "55208456",
+            "baseCode": "767878-5001S"
+        },
+        {
+            "model": "159 JTDM",
+            "engine": "2.0L D",
+            "engineCode": "16v",
+            "power": "170HP",
+            "year": "08-",
+            "turboModel": "GT15",
+            "oemPartNo": "55221457",
+            "baseCode": "803958-5002S"
+        },
+        {
+            "model": "166",
+            "engine": "2.0L P",
+            "engineCode": "M.656.AT.20 V6",
+            "power": "200HP",
+            "year": "98-02",
+            "turboModel": "TB25",
+            "oemPartNo": "60607750",
+            "baseCode": "454054-5002S"
+        },
+        {
+            "model": "166",
+            "engine": "2.4L D",
+            "engineCode": "M.722.HT.24",
+            "power": "104HP",
+            "year": "99-01",
+            "turboModel": "TD25",
+            "oemPartNo": "46763886",
+            "baseCode": "454150-5006S"
+        },
+        {
+            "model": "166 JTD",
+            "engine": "2.4L D",
+            "engineCode": "20v Euro 4",
+            "power": "149HP",
+            "year": "02-05",
+            "turboModel": "GT22",
+            "oemPartNo": "55205373",
+            "baseCode": "765277-5001S"
+        },
+        {
+            "model": "166 JTD",
+            "engine": "2.4L D",
+            "engineCode": "M722.24",
+            "power": "119HP",
+            "year": "02-05",
+            "turboModel": "GT22",
+            "oemPartNo": "55191600",
+            "baseCode": "717662-5002S"
+        },
+        {
+            "model": "166 JTD",
+            "engine": "2.4L D",
+            "engineCode": "M722.PT.24 10v",
+            "power": "108HP",
+            "year": "01-03",
+            "turboModel": "GT22",
+            "oemPartNo": "55191598",
+            "baseCode": "710812-5002S"
+        },
+        {
+            "model": "Brera JTDM",
+            "engine": "2.4L D",
+            "engineCode": "939A3.000 20v Euro 4",
+            "power": "200HP",
+            "year": "06-08",
+            "turboModel": "GT20",
+            "oemPartNo": "55208456",
+            "baseCode": "767878-5001S"
+        },
+        {
+            "model": "GT JTD",
+            "engine": "1.9L D",
+            "engineCode": "M737AT.19Z 8v Euro 4",
+            "power": "120HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "55214061",
+            "baseCode": "777251-5001S"
+        },
+        {
+            "model": "GT JTDM",
+            "engine": "1.9L D",
+            "engineCode": "937A5.000 16v Euro 4",
+            "power": "150HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "55214063",
+            "baseCode": "777250-5001S"
+        },
+        {
+            "model": "MiTo 1.4i TB",
+            "engine": "1.4L P",
+            "engineCode": "T-Jet",
+            "power": "120HP",
+            "year": "09-",
+            "turboModel": "RHF3",
+            "oemPartNo": "55222015",
+            "baseCode": "VL37"
+        },
+        {
+            "model": "MiTo 1.4i TB",
+            "engine": "1.4L P",
+            "engineCode": "T-Jet",
+            "power": "155HP",
+            "year": "09-",
+            "turboModel": "RHF3",
+            "oemPartNo": "55222014",
+            "baseCode": "VL36"
+        },
+        {
+            "model": "MiTo JTDM",
+            "engine": "1.6L D",
+            "engineCode": "16v",
+            "power": "120HP",
+            "year": "09-",
+            "turboModel": "GT14",
+            "oemPartNo": "55209153",
+            "baseCode": "766924-5001S"
+        },
+        {
+            "model": "MiTo SJTD",
+            "engine": "1.3L D",
+            "engineCode": "Multijet",
+            "power": "90HP",
+            "year": "09-",
+            "turboModel": "BV35",
+            "oemPartNo": "55198317",
+            "baseCode": "5435-970-0014"
+        }
+    ]
+}

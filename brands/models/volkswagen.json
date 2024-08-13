@@ -1,0 +1,995 @@
+{
+    "brand": "Volkswagen",
+    "models": [
+        {
+            "model": "Beetle 1.8T",
+            "engine": "1.8L P",
+            "engineCode": "AVC/AWU",
+            "power": "150HP",
+            "year": "01-09",
+            "turboModel": "K03",
+            "oemPartNo": "06A145704L",
+            "baseCode": "5303-970-0044"
+        },
+        {
+            "model": "Beetle TDi",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "90HP",
+            "year": "97-",
+            "turboModel": "K03",
+            "oemPartNo": "038145701D",
+            "baseCode": "5303-970-0015"
+        },
+        {
+            "model": "Beetle TDi",
+            "engine": "1.9L D",
+            "engineCode": "ASV",
+            "power": "115HP",
+            "year": "97-99",
+            "turboModel": "GT17",
+            "oemPartNo": "038253019DV500",
+            "baseCode": "454232-5011S"
+        },
+        {
+            "model": "Beetle TDi",
+            "engine": "1.9L D",
+            "engineCode": "ATD (E3)",
+            "power": "100HP",
+            "year": "02-",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014F",
+            "baseCode": "5439-970-0021"
+        },
+        {
+            "model": "Beetle TDi",
+            "engine": "1.9L D",
+            "engineCode": "AXR (D4)",
+            "power": "100HP",
+            "year": "02-",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014D",
+            "baseCode": "5439-970-0018"
+        },
+        {
+            "model": "Bora",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "150HP",
+            "year": "01-05",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253016R",
+            "baseCode": "721021-5006S"
+        },
+        {
+            "model": "Bora",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "90HP",
+            "year": "97-",
+            "turboModel": "K03",
+            "oemPartNo": "038145701D",
+            "baseCode": "5303-970-0015"
+        },
+        {
+            "model": "Bora 1.8T",
+            "engine": "1.8L P",
+            "engineCode": "AVC/AWU",
+            "power": "150HP",
+            "year": "01-01",
+            "turboModel": "K03",
+            "oemPartNo": "06A145704L",
+            "baseCode": "5303-970-0044"
+        },
+        {
+            "model": "Bora TDi",
+            "engine": "1.9L D",
+            "engineCode": "ATD (E3)",
+            "power": "100HP",
+            "year": "02-03",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014A",
+            "baseCode": "5439-970-0017"
+        },
+        {
+            "model": "Bora TDi",
+            "engine": "1.9L D",
+            "engineCode": "AXR (D4)",
+            "power": "100HP",
+            "year": "02-03",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014D",
+            "baseCode": "5439-970-0018"
+        },
+        {
+            "model": "Caddy TDi",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "118HP",
+            "year": "04-",
+            "turboModel": "GT17",
+            "oemPartNo": "028145702NV500",
+            "baseCode": "701854-5004S"
+        },
+        {
+            "model": "Caddy TDi",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "103HP",
+            "year": "04-",
+            "turboModel": "BV39",
+            "oemPartNo": "03G253019J",
+            "baseCode": "5439-970-0048"
+        },
+        {
+            "model": "Caddy TDi",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "110HP",
+            "year": "03-",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253016P",
+            "baseCode": "712968-5006S"
+        },
+        {
+            "model": "Caddy TDi",
+            "engine": "1.9L D",
+            "engineCode": "ALH Euro 2",
+            "power": "90HP",
+            "year": "00-04",
+            "turboModel": "GT15",
+            "oemPartNo": "038145701F",
+            "baseCode": "703674-5001S"
+        },
+        {
+            "model": "Caddy TDi",
+            "engine": "1.9L D",
+            "engineCode": "BJB",
+            "power": "105HP",
+            "year": "04-08",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014G",
+            "baseCode": "5439-970-0022"
+        },
+        {
+            "model": "Crafter Blue TDi",
+            "engine": "2.5L D",
+            "engineCode": "BJJ/BJK",
+            "power": "88/109HP",
+            "year": "08-",
+            "turboModel": "TD04",
+            "oemPartNo": "076.145.701.G",
+            "baseCode": "49377-07460"
+        },
+        {
+            "model": "Crafter Blue TDi",
+            "engine": "2.5L D",
+            "engineCode": "BJL/BJM",
+            "power": "136/163HP",
+            "year": "08-",
+            "turboModel": "TD04",
+            "oemPartNo": "076.145.701.F",
+            "baseCode": "49377-07440"
+        },
+        {
+            "model": "Golf  TFSI",
+            "engine": "1.4L P",
+            "engineCode": "-",
+            "power": "125HP",
+            "year": "",
+            "turboModel": "TD02",
+            "oemPartNo": "03C145701J",
+            "baseCode": "49373-01005"
+        },
+        {
+            "model": "Golf 1.8T",
+            "engine": "1.8L P",
+            "engineCode": "AUQ",
+            "power": "180HP",
+            "year": "02-04",
+            "turboModel": "K03",
+            "oemPartNo": "06A145713F",
+            "baseCode": "5303-970-0052"
+        },
+        {
+            "model": "Golf GT TDi",
+            "engine": "2.0L D",
+            "engineCode": "BMN Euro 4 DPF PQ35",
+            "power": "170HP",
+            "year": "06-09",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253010AV100",
+            "baseCode": "757042-5018S"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.6L D",
+            "engineCode": "PQ35",
+            "power": "105HP",
+            "year": "09-",
+            "turboModel": "GT12",
+            "oemPartNo": "03L253016T",
+            "baseCode": "775517-5001S"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "130HP",
+            "year": "00-06",
+            "turboModel": "GT17",
+            "oemPartNo": "038253019F",
+            "baseCode": "712078-5001S"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "90HP",
+            "year": "94-99",
+            "turboModel": "K03",
+            "oemPartNo": "028145701J",
+            "baseCode": "5303-970-0006"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "AAZ",
+            "power": "75HP",
+            "year": "93-99",
+            "turboModel": "K03",
+            "oemPartNo": "028145701R",
+            "baseCode": "5303-970-0003"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "AFN",
+            "power": "110HP",
+            "year": "95-97",
+            "turboModel": "VNT15",
+            "oemPartNo": "028145702D",
+            "baseCode": "454161-5003S"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "AFN Euro 2",
+            "power": "110HP",
+            "year": "99-99",
+            "turboModel": "GT17",
+            "oemPartNo": "028145702T",
+            "baseCode": "706712-5001S"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "AGR",
+            "power": "90HP",
+            "year": "97-01",
+            "turboModel": "K03",
+            "oemPartNo": "038145701D",
+            "baseCode": "5303-970-0015"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "AGR Euro 2",
+            "power": "90HP",
+            "year": "96-99",
+            "turboModel": "GT15",
+            "oemPartNo": "038145701A",
+            "baseCode": "454159-5002S"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "AJM/AUY/AHF Euro 4",
+            "power": "115HP",
+            "year": "00-01",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253014E",
+            "baseCode": "713673-5006S"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "AJM/AUY/AHF/ALH",
+            "power": "115HP",
+            "year": "01-",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253016K",
+            "baseCode": "768329-5003S"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "ARL",
+            "power": "150HP",
+            "year": "02-04",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253016R",
+            "baseCode": "721021-5006S"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "ASZ",
+            "power": "130HP",
+            "year": "01-06",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253016Q",
+            "baseCode": "720855-5006S"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "ASZ",
+            "power": "130HP",
+            "year": "00-01",
+            "turboModel": "GT17",
+            "oemPartNo": "038253016EV500",
+            "baseCode": "716860-5004S"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "ATD (E3)",
+            "power": "100HP",
+            "year": "00-06",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014A",
+            "baseCode": "5439-970-0017"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "AXR (D4)",
+            "power": "100HP",
+            "year": "01-06",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014D",
+            "baseCode": "5439-970-0018"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "BKC",
+            "power": "105HP",
+            "year": "04-09",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014G",
+            "baseCode": "5439-970-0022"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "1.9L D",
+            "engineCode": "BLS/BXE Euro 4",
+            "power": "105HP",
+            "year": "07-10",
+            "turboModel": "GT16",
+            "oemPartNo": "03G253014F",
+            "baseCode": "751851-5003S"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "2.0L D",
+            "engineCode": "BKD Euro 4",
+            "power": "140HP",
+            "year": "05-09",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253010H",
+            "baseCode": "756062-5004S"
+        },
+        {
+            "model": "Golf TDi",
+            "engine": "2.0L D",
+            "engineCode": "BKD Euro 4DPF PQ35/46",
+            "power": "140HP",
+            "year": "04-09",
+            "turboModel": "GT16",
+            "oemPartNo": "03G253010V100",
+            "baseCode": "765261-5007S"
+        },
+        {
+            "model": "Jetta 1.8T",
+            "engine": "1.8L P",
+            "engineCode": "-",
+            "power": "180HP",
+            "year": "06-",
+            "turboModel": "K03",
+            "oemPartNo": "06A145713F",
+            "baseCode": "5303-970-0052"
+        },
+        {
+            "model": "LT",
+            "engine": "2.4L D",
+            "engineCode": "-",
+            "power": "",
+            "year": "92-08",
+            "turboModel": "TB25",
+            "oemPartNo": "075145703A",
+            "baseCode": "454023-5002S"
+        },
+        {
+            "model": "LT II TCA Electronic",
+            "engine": "2.8L D",
+            "engineCode": "AGK Euro 3",
+            "power": "125HP",
+            "year": "02-06",
+            "turboModel": "GT22",
+            "oemPartNo": "90529201007104",
+            "baseCode": "721204-5001S"
+        },
+        {
+            "model": "LT II TDi",
+            "engine": "2.4L D",
+            "engineCode": "-",
+            "power": "102HP",
+            "year": "98-90",
+            "turboModel": "K14",
+            "oemPartNo": "074145701C",
+            "baseCode": "5314-970-7025"
+        },
+        {
+            "model": "LT II TDi",
+            "engine": "2.5L D",
+            "engineCode": "-",
+            "power": "95/109HP",
+            "year": "99-06",
+            "turboModel": "K14",
+            "oemPartNo": "074145701C",
+            "baseCode": "5314-970-7025"
+        },
+        {
+            "model": "LT II TDi",
+            "engine": "2.5L D",
+            "engineCode": "-",
+            "power": "109HP",
+            "year": "99-06",
+            "turboModel": "GT20",
+            "oemPartNo": "074145701DV248",
+            "baseCode": "454205-5006S"
+        },
+        {
+            "model": "LT TCA",
+            "engine": "2.8L D",
+            "engineCode": "AUH Euro 2",
+            "power": "125HP",
+            "year": "97-99",
+            "turboModel": "GT25",
+            "oemPartNo": "90529201004906",
+            "baseCode": "703325-5001S"
+        },
+        {
+            "model": "Lupo",
+            "engine": "1.4L D",
+            "engineCode": "AMF",
+            "power": "75HP",
+            "year": "00-05",
+            "turboModel": "GT15",
+            "oemPartNo": "045253019L",
+            "baseCode": "733783-5008S"
+        },
+        {
+            "model": "Lupo 3L TDi",
+            "engine": "1.2L D",
+            "engineCode": "3L",
+            "power": "61HP",
+            "year": "01-05",
+            "turboModel": "GT15",
+            "oemPartNo": "045145701EV500",
+            "baseCode": "700960-5011S"
+        },
+        {
+            "model": "Passat 1.8T",
+            "engine": "1.8L P",
+            "engineCode": "AEB/ANB/APU/AWT",
+            "power": "150HP",
+            "year": "97-00",
+            "turboModel": "K03",
+            "oemPartNo": "058145703C",
+            "baseCode": "5303-970-0005"
+        },
+        {
+            "model": "Passat TD",
+            "engine": "1.9L D",
+            "engineCode": "AAZ",
+            "power": "75HP",
+            "year": "93-97",
+            "turboModel": "K03",
+            "oemPartNo": "028145701R",
+            "baseCode": "5303-970-0003"
+        },
+        {
+            "model": "Passat TDi",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "130HP",
+            "year": "00-05",
+            "turboModel": "GT17",
+            "oemPartNo": "038145702N",
+            "baseCode": "717858-5009S"
+        },
+        {
+            "model": "Passat TDi",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "90HP",
+            "year": "93-",
+            "turboModel": "K03",
+            "oemPartNo": "028145701J",
+            "baseCode": "5303-970-0006"
+        },
+        {
+            "model": "Passat TDi",
+            "engine": "2.0L D",
+            "engineCode": "4v/Cyl DPF",
+            "power": "140HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "03G145702K",
+            "baseCode": "758219-5003S"
+        },
+        {
+            "model": "Passat TDi",
+            "engine": "2.0L D",
+            "engineCode": "DPF PQ35/46 Euro 4",
+            "power": "140HP",
+            "year": "06-",
+            "turboModel": "GT16",
+            "oemPartNo": "03G253010V100",
+            "baseCode": "765261-5007S"
+        },
+        {
+            "model": "Passat TDi",
+            "engine": "2.0L D",
+            "engineCode": "DPF PQ35Euro 4",
+            "power": "170HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253010AV100",
+            "baseCode": "757042-5018S"
+        },
+        {
+            "model": "Passat TDi",
+            "engine": "2.5L D",
+            "engineCode": "AFB/AKN/AVB/AYM V6",
+            "power": "150HP",
+            "year": "99-03",
+            "turboModel": "GT20",
+            "oemPartNo": "059145702D",
+            "baseCode": "454135-5009S"
+        },
+        {
+            "model": "Passat TDi",
+            "engine": "2.5L D",
+            "engineCode": "AYM/BAU/BDH/BDG V6",
+            "power": "177HP",
+            "year": "03-",
+            "turboModel": "GT20",
+            "oemPartNo": "059145701S",
+            "baseCode": "454135-5010S"
+        },
+        {
+            "model": "Phaeton TDi",
+            "engine": "3.0L D",
+            "engineCode": "V6 Euro 5",
+            "power": "240HP",
+            "year": "08-",
+            "turboModel": "GTB2",
+            "oemPartNo": "059145722R",
+            "baseCode": "776470-5003S"
+        },
+        {
+            "model": "Phaeton TDi",
+            "engine": "5.0L D",
+            "engineCode": "AJS/AYH Euro 3 (Left)",
+            "power": "313HP",
+            "year": "04-07",
+            "turboModel": "GT18",
+            "oemPartNo": "07Z145873GV102",
+            "baseCode": "755297-5005S"
+        },
+        {
+            "model": "Phaeton TDi",
+            "engine": "5.0L D",
+            "engineCode": "AJS/AYH Euro 3 (Right)",
+            "power": "313HP",
+            "year": "04-07",
+            "turboModel": "GT18",
+            "oemPartNo": "07Z145874GV102",
+            "baseCode": "755298-5005S"
+        },
+        {
+            "model": "Polo TDi",
+            "engine": "1.4L D",
+            "engineCode": "-",
+            "power": "75HP",
+            "year": "01-02",
+            "turboModel": "GT15",
+            "oemPartNo": "045145701J",
+            "baseCode": "701729-5010S"
+        },
+        {
+            "model": "Polo TDi",
+            "engine": "1.4L D",
+            "engineCode": "AMF Euro 4",
+            "power": "75HP",
+            "year": "02-05",
+            "turboModel": "GT15",
+            "oemPartNo": "045253019L",
+            "baseCode": "733783-5008S"
+        },
+        {
+            "model": "Polo TDi",
+            "engine": "1.4L D",
+            "engineCode": "BMS/BNV DPF",
+            "power": "80HP",
+            "year": "05-10",
+            "turboModel": "BV39",
+            "oemPartNo": "045253019J",
+            "baseCode": "5439-970-0054"
+        },
+        {
+            "model": "Polo TDi",
+            "engine": "1.9L D",
+            "engineCode": "ASZ (E3)",
+            "power": "130HP",
+            "year": "04-05",
+            "turboModel": "BV39",
+            "oemPartNo": "038253010T",
+            "baseCode": "5439-970-0023"
+        },
+        {
+            "model": "Polo TDi",
+            "engine": "1.9L D",
+            "engineCode": "ATD (E3)",
+            "power": "100HP",
+            "year": "02-05",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014A",
+            "baseCode": "5439-970-0017"
+        },
+        {
+            "model": "Polo TDi",
+            "engine": "1.9L D",
+            "engineCode": "AXR (E4)",
+            "power": "100HP",
+            "year": "02-05",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014B",
+            "baseCode": "5439-970-0019"
+        },
+        {
+            "model": "Sharan 1.8T",
+            "engine": "1.8L P",
+            "engineCode": "AJH",
+            "power": "150HP",
+            "year": "97-00",
+            "turboModel": "K03",
+            "oemPartNo": "06A145703C",
+            "baseCode": "5303-970-0022"
+        },
+        {
+            "model": "Sharan 1.8T",
+            "engine": "1.8L P",
+            "engineCode": "AWC",
+            "power": "150HP",
+            "year": "00-08",
+            "turboModel": "K03",
+            "oemPartNo": "06A145713H",
+            "baseCode": "5303-970-0049"
+        },
+        {
+            "model": "Sharan TDI 140",
+            "engine": "2.0L D",
+            "engineCode": "-",
+            "power": "138HP",
+            "year": "06-",
+            "turboModel": "BV39",
+            "oemPartNo": "03G253016E",
+            "baseCode": "5439-970-0060"
+        },
+        {
+            "model": "Sharan TDi",
+            "engine": "1.9L D",
+            "engineCode": "AFN/AVG",
+            "power": "110HP",
+            "year": "97-00",
+            "turboModel": "GT17",
+            "oemPartNo": "028145702PV500",
+            "baseCode": "701855-5005S"
+        },
+        {
+            "model": "Sharan TDi",
+            "engine": "1.9L D",
+            "engineCode": "AHU/IZ",
+            "power": "90HP",
+            "year": "95-99",
+            "turboModel": "K03",
+            "oemPartNo": "028145701J",
+            "baseCode": "5303-970-0006"
+        },
+        {
+            "model": "Sharan TDi",
+            "engine": "1.9L D",
+            "engineCode": "ANU",
+            "power": "90HP",
+            "year": "99-00",
+            "turboModel": "K03",
+            "oemPartNo": "028253019",
+            "baseCode": "5303-970-0036"
+        },
+        {
+            "model": "Sharan TDi",
+            "engine": "1.9L D",
+            "engineCode": "ASZ/BTB",
+            "power": "130HP",
+            "year": "02-06",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014R",
+            "baseCode": "5439-970-0047"
+        },
+        {
+            "model": "Sharan TDi",
+            "engine": "1.9L D",
+            "engineCode": "AUY Euro 4",
+            "power": "115HP",
+            "year": "04-06",
+            "turboModel": "GT17",
+            "oemPartNo": "03G253014E",
+            "baseCode": "713673-5006S"
+        },
+        {
+            "model": "Sharan TDi",
+            "engine": "1.9L D",
+            "engineCode": "BTB",
+            "power": "150HP",
+            "year": "05-",
+            "turboModel": "BV39",
+            "oemPartNo": "03G253014C",
+            "baseCode": "5439-970-0047"
+        },
+        {
+            "model": "T3 Transporter",
+            "engine": "1.6L D",
+            "engineCode": "JX",
+            "power": "68HP",
+            "year": "84-90",
+            "turboModel": "K14",
+            "oemPartNo": "068145703H",
+            "baseCode": "5314-970-6000"
+        },
+        {
+            "model": "T4 Bus",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "75HP",
+            "year": "96-02",
+            "turboModel": "GT15",
+            "oemPartNo": "028145701L",
+            "baseCode": "454064-5001S"
+        },
+        {
+            "model": "T4 Bus",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "75HP",
+            "year": "93-96",
+            "turboModel": "TB02",
+            "oemPartNo": "028145701E",
+            "baseCode": "454002-5001S"
+        },
+        {
+            "model": "T4 Bus",
+            "engine": "2.5L D",
+            "engineCode": "-",
+            "power": "150HP",
+            "year": "98-03",
+            "turboModel": "GT22",
+            "oemPartNo": "074145703EV248",
+            "baseCode": "454192-5005S"
+        },
+        {
+            "model": "T4 Bus Synchro 4x4",
+            "engine": "2.5L D",
+            "engineCode": "Euro 3",
+            "power": "102HP",
+            "year": "01-03",
+            "turboModel": "GT22",
+            "oemPartNo": "074145703G246",
+            "baseCode": "454192-5006S"
+        },
+        {
+            "model": "T4 Transporter TDi",
+            "engine": "2.5L D",
+            "engineCode": "ACV",
+            "power": "100HP",
+            "year": "95-01",
+            "turboModel": "K14",
+            "oemPartNo": "074145701A",
+            "baseCode": "5314-970-7018"
+        },
+        {
+            "model": "T5 Bus",
+            "engine": "2.5L D",
+            "engineCode": "R5K (AXD)Euro 3",
+            "power": "130HP",
+            "year": "04-06",
+            "turboModel": "GT17",
+            "oemPartNo": "070145701KV302",
+            "baseCode": "729325-5003S"
+        },
+        {
+            "model": "T5 Bus TDi",
+            "engine": "2.5L D",
+            "engineCode": "Euro 4",
+            "power": "173HP",
+            "year": "06-10",
+            "turboModel": "GT17",
+            "oemPartNo": "070145701N",
+            "baseCode": "760699-5004S"
+        },
+        {
+            "model": "T5 Bus TDi",
+            "engine": "2.5L D",
+            "engineCode": "Euro 4",
+            "power": "130HP",
+            "year": "06-10",
+            "turboModel": "GT17",
+            "oemPartNo": "070145701RV220",
+            "baseCode": "760698-5005S"
+        },
+        {
+            "model": "T5 Transporter TDi",
+            "engine": "2.5L D",
+            "engineCode": "AXD",
+            "power": "130HP",
+            "year": "02-10",
+            "turboModel": "K04",
+            "oemPartNo": "070145701E",
+            "baseCode": "5304-970-0032"
+        },
+        {
+            "model": "T5 Transporter/Bus TDi",
+            "engine": "2.5L D",
+            "engineCode": "2v/Cyl Euro 3",
+            "power": "173HP",
+            "year": "03-06",
+            "turboModel": "GT20",
+            "oemPartNo": "070145702AV100",
+            "baseCode": "720931-5004S"
+        },
+        {
+            "model": "Touareg TDi",
+            "engine": "2.5L D",
+            "engineCode": "BAC/BPE",
+            "power": "174HP",
+            "year": "03-",
+            "turboModel": "GT20",
+            "oemPartNo": "070145702BV100",
+            "baseCode": "716885-5004S"
+        },
+        {
+            "model": "Touareg TDi",
+            "engine": "2.5L D",
+            "engineCode": "BAC/BPE",
+            "power": "173HP",
+            "year": "03-",
+            "turboModel": "GT17",
+            "oemPartNo": "070145701QV210",
+            "baseCode": "760700-5004S"
+        },
+        {
+            "model": "Touareg TDi",
+            "engine": "3.0L D",
+            "engineCode": "BKS V6Euro 5",
+            "power": "240HP",
+            "year": "08-",
+            "turboModel": "GTB2",
+            "oemPartNo": "059145722R",
+            "baseCode": "776470-5003S"
+        },
+        {
+            "model": "Touareg TDi",
+            "engine": "5.0L D",
+            "engineCode": "BLE/AYH Euro 3 (Right)",
+            "power": "313HP",
+            "year": "03-",
+            "turboModel": "GT18",
+            "oemPartNo": "07Z145874H",
+            "baseCode": "755300-5007S"
+        },
+        {
+            "model": "Touareg TDi",
+            "engine": "5.0L D",
+            "engineCode": "BLE/AYH Euro 4 DPF (Left)",
+            "power": "313HP",
+            "year": "03-",
+            "turboModel": "GT18",
+            "oemPartNo": "07Z145873J",
+            "baseCode": "755963-5007S"
+        },
+        {
+            "model": "Touareg TDi",
+            "engine": "5.0L D",
+            "engineCode": "BLE/AYH Euro 4 DPF (Right)",
+            "power": "313HP",
+            "year": "03-",
+            "turboModel": "GT18",
+            "oemPartNo": "07Z145874J",
+            "baseCode": "755964-5007S"
+        },
+        {
+            "model": "Touran TDi",
+            "engine": "1.6L D",
+            "engineCode": "-",
+            "power": "105HP",
+            "year": "09-",
+            "turboModel": "GT12",
+            "oemPartNo": "03L253016T",
+            "baseCode": "775517-5001S"
+        },
+        {
+            "model": "Touran TDi",
+            "engine": "1.9L D",
+            "engineCode": "-",
+            "power": "103HP",
+            "year": "04-",
+            "turboModel": "BV39",
+            "oemPartNo": "03G253019J",
+            "baseCode": "5439-970-0048"
+        },
+        {
+            "model": "Touran TDi",
+            "engine": "1.9L D",
+            "engineCode": "AVQBTB/BXE/BKC/BLS",
+            "power": "100/105HP",
+            "year": "03-",
+            "turboModel": "BV39",
+            "oemPartNo": "038253014G",
+            "baseCode": "5439-970-0022"
+        },
+        {
+            "model": "Touran TDi",
+            "engine": "1.9L D",
+            "engineCode": "BTB/BXE/BKC/BLS Euro 4",
+            "power": "105HP",
+            "year": "03-",
+            "turboModel": "GT16",
+            "oemPartNo": "03G253014F",
+            "baseCode": "751851-5003S"
+        },
+        {
+            "model": "Touran TFSi",
+            "engine": "1.4L P",
+            "engineCode": "-",
+            "power": "123HP",
+            "year": "06-",
+            "turboModel": "TD02",
+            "oemPartNo": "03C145701J",
+            "baseCode": "49373-01005"
+        },
+        {
+            "model": "Vento TD",
+            "engine": "1.9L D",
+            "engineCode": "AAZ",
+            "power": "75HP",
+            "year": "93-08",
+            "turboModel": "K03",
+            "oemPartNo": "028145701R",
+            "baseCode": "5303-970-0003"
+        },
+        {
+            "model": "Vento TDi",
+            "engine": "1.9L D",
+            "engineCode": "AFN/AVG",
+            "power": "110HP",
+            "year": "95-98",
+            "turboModel": "VNT15",
+            "oemPartNo": "028145702D",
+            "baseCode": "454161-5003S"
+        }
+    ]
+}

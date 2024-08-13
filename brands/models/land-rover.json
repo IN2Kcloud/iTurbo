@@ -1,0 +1,275 @@
+{
+    "brand": "Land-rover",
+    "models": [
+        {
+            "model": "Defender",
+            "engine": "2.4L D",
+            "engineCode": "ZSD-424 TDCi Puma",
+            "power": "122HP",
+            "year": "07-",
+            "turboModel": "GT20",
+            "oemPartNo": "6C1Q6K682EN",
+            "baseCode": "752610-5032S"
+        },
+        {
+            "model": "Defender",
+            "engine": "2.5L D",
+            "engineCode": "11L 200TDI(Gemini)",
+            "power": "111HP",
+            "year": "90-94",
+            "turboModel": "TB02",
+            "oemPartNo": "ETC7461/E",
+            "baseCode": "465175-5001S"
+        },
+        {
+            "model": "Defender",
+            "engine": "2.5L D",
+            "engineCode": "16L 300TDI(Gemini III)",
+            "power": "111HP",
+            "year": "94-98",
+            "turboModel": "T25",
+            "oemPartNo": "ERR4893",
+            "baseCode": "452055-5004S"
+        },
+        {
+            "model": "Defender TD5",
+            "engine": "2.5L D",
+            "engineCode": "MDI 525 15P",
+            "power": "122HP",
+            "year": "98-07",
+            "turboModel": "GT20",
+            "oemPartNo": "PMF500040",
+            "baseCode": "452239-5009S"
+        },
+        {
+            "model": "Defender Turbo D",
+            "engine": "2.5L D",
+            "engineCode": "19J",
+            "power": "114HP",
+            "year": "88-89",
+            "turboModel": "TB02",
+            "oemPartNo": "ERR332D/ED",
+            "baseCode": "452005-5001S"
+        },
+        {
+            "model": "Defender Turbo D",
+            "engine": "2.5L D",
+            "engineCode": "19J",
+            "power": "114HP",
+            "year": "86-88",
+            "turboModel": "TB02",
+            "oemPartNo": "ETC6878",
+            "baseCode": "466842-5002S"
+        },
+        {
+            "model": "Discovery TDI",
+            "engine": "2.5L D",
+            "engineCode": "11L 200TDI(Gemini)",
+            "power": "111HP",
+            "year": "89-94",
+            "turboModel": "TB02",
+            "oemPartNo": "ETC7461/E",
+            "baseCode": "465175-5001S"
+        },
+        {
+            "model": "Discovery TDI / Auto",
+            "engine": "2.5L D",
+            "engineCode": "16L 300TDI(Gemini III)",
+            "power": "111/122HP",
+            "year": "94-98",
+            "turboModel": "T25",
+            "oemPartNo": "ERR4893",
+            "baseCode": "452055-5004S"
+        },
+        {
+            "model": "Discovery2 TD5 / Auto",
+            "engine": "2.5L D",
+            "engineCode": "MDI 525 15P",
+            "power": "122/136HP",
+            "year": "98-04",
+            "turboModel": "GT20",
+            "oemPartNo": "PMF500040",
+            "baseCode": "452239-5009S"
+        },
+        {
+            "model": "Discovery3 TDV6",
+            "engine": "2.7L D",
+            "engineCode": "Lion",
+            "power": "188HP",
+            "year": "07-",
+            "turboModel": "BV50",
+            "oemPartNo": "4H2Q6K682DB",
+            "baseCode": "5304-970-0116"
+        },
+        {
+            "model": "Discovery3 TDV6",
+            "engine": "2.7L D",
+            "engineCode": "Lion",
+            "power": "188HP",
+            "year": "04-10",
+            "turboModel": "BV50",
+            "oemPartNo": "4H2Q6K682CH",
+            "baseCode": "5304-970-0116"
+        },
+        {
+            "model": "Freelander 2 TD4",
+            "engine": "2.2L D",
+            "engineCode": "DW12B",
+            "power": "158HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "6G9Q6K682CA",
+            "baseCode": "753546-5023S"
+        },
+        {
+            "model": "Freelander Di",
+            "engine": "2.0L D",
+            "engineCode": "20LTC",
+            "power": "126HP",
+            "year": "97-00",
+            "turboModel": "GT15",
+            "oemPartNo": "PMF100490",
+            "baseCode": "452202-5004S"
+        },
+        {
+            "model": "Freelander TD4",
+            "engine": "2.0L D",
+            "engineCode": "M47",
+            "power": "110HP",
+            "year": "00-07",
+            "turboModel": "GT17",
+            "oemPartNo": "7781476C03",
+            "baseCode": "708366-5007S"
+        },
+        {
+            "model": "Range Rover",
+            "engine": "2.5L D",
+            "engineCode": "M51 (9000)",
+            "power": "110HP",
+            "year": "94-02",
+            "turboModel": "TD04",
+            "oemPartNo": "22458381",
+            "baseCode": "49177-06432"
+        },
+        {
+            "model": "Range Rover",
+            "engine": "3.6L D",
+            "engineCode": "TDV8",
+            "power": "272HP",
+            "year": "05-",
+            "turboModel": "BV39",
+            "oemPartNo": "6H4Q6K682GH",
+            "baseCode": "5439-970-0111"
+        },
+        {
+            "model": "Range Rover",
+            "engine": "3.6L D",
+            "engineCode": "TDV8",
+            "power": "272HP",
+            "year": "05-",
+            "turboModel": "BV39",
+            "oemPartNo": "6H4Q6K682HF",
+            "baseCode": "5439-970-0110"
+        },
+        {
+            "model": "Range Rover",
+            "engine": "3.6L D",
+            "engineCode": "TDV8 Lion DPF (Left)",
+            "power": "268HP",
+            "year": "05-",
+            "turboModel": "BV39",
+            "oemPartNo": "6H3Q6K682FE",
+            "baseCode": "5439-970-0112"
+        },
+        {
+            "model": "Range Rover",
+            "engine": "3.6L D",
+            "engineCode": "TDV8 Lion DPF (Right)",
+            "power": "268HP",
+            "year": "05-",
+            "turboModel": "BV39",
+            "oemPartNo": "6H4Q6K682EE",
+            "baseCode": "5439-970-0113"
+        },
+        {
+            "model": "Range Rover Sport",
+            "engine": "2.7L D",
+            "engineCode": "TDV6 Lion",
+            "power": "188HP",
+            "year": "05-09",
+            "turboModel": "BV50",
+            "oemPartNo": "4H2Q6K682DB",
+            "baseCode": "5304-970-0116"
+        },
+        {
+            "model": "Range Rover Sport",
+            "engine": "2.7L D",
+            "engineCode": "TDV6 Lion",
+            "power": "188HP",
+            "year": "05-09",
+            "turboModel": "BV50",
+            "oemPartNo": "4H2Q6K682CH",
+            "baseCode": "5304-970-0116"
+        },
+        {
+            "model": "Range Rover Sport",
+            "engine": "3.6L D",
+            "engineCode": "TDV8 Lion DPF (Left)",
+            "power": "268HP",
+            "year": "05-",
+            "turboModel": "BV39",
+            "oemPartNo": "6H3Q6K682FE",
+            "baseCode": "5439-970-0112"
+        },
+        {
+            "model": "Range Rover Sport",
+            "engine": "3.6L D",
+            "engineCode": "TDV8 Lion DPF (Right)",
+            "power": "268HP",
+            "year": "05-",
+            "turboModel": "BV39",
+            "oemPartNo": "6H4Q6K682EE",
+            "baseCode": "5439-970-0113"
+        },
+        {
+            "model": "Range Rover TD6",
+            "engine": "2.9L D",
+            "engineCode": "M57D L30 LL",
+            "power": "174HP",
+            "year": "02-06",
+            "turboModel": "GT22",
+            "oemPartNo": "7785840G04",
+            "baseCode": "712541-5005S"
+        },
+        {
+            "model": "Range Rover TDI",
+            "engine": "2.5L D",
+            "engineCode": "16L 300TDI(Gemini III)",
+            "power": "111HP",
+            "year": "94-98",
+            "turboModel": "T25",
+            "oemPartNo": "ERR4893",
+            "baseCode": "452055-5004S"
+        },
+        {
+            "model": "Range Rover Turbo",
+            "engine": "2.5L D",
+            "engineCode": "81A HR425HLTO",
+            "power": "119HP",
+            "year": "89-92",
+            "turboModel": "K16",
+            "oemPartNo": "35242041F",
+            "baseCode": "316148"
+        },
+        {
+            "model": "RangeRover TDI",
+            "engine": "2.5L D",
+            "engineCode": "11L 200TDI(Gemini)",
+            "power": "107HP",
+            "year": "92-95",
+            "turboModel": "TB02",
+            "oemPartNo": "ETC7461/E",
+            "baseCode": "465175-5001S"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "brand": "Smart",
+    "models": [
+        {
+            "model": "Roadster / BRABUS",
+            "engine": "0.7L P",
+            "engineCode": "160.920 R3",
+            "power": "61/100HP",
+            "year": "03-06",
+            "turboModel": "GT12",
+            "oemPartNo": "A1600960999",
+            "baseCode": "727211-5001S"
+        },
+        {
+            "model": "Roadster BRABUS",
+            "engine": "0.6L D",
+            "engineCode": "R3",
+            "power": "100HP",
+            "year": "03-06",
+            "turboModel": "GT12",
+            "oemPartNo": "A1600961199",
+            "baseCode": "743317-5001S"
+        },
+        {
+            "model": "forfour CDi",
+            "engine": "1.5L D",
+            "engineCode": "639.939 12v",
+            "power": "95HP",
+            "year": "04-06",
+            "turboModel": "RHF3",
+            "oemPartNo": "A6390960880",
+            "baseCode": "VV15"
+        },
+        {
+            "model": "fortwo",
+            "engine": "0.7L P",
+            "engineCode": "160.920 R3",
+            "power": "50/60HP",
+            "year": "04-08",
+            "turboModel": "GT12",
+            "oemPartNo": "A1600960999",
+            "baseCode": "727211-5001S"
+        },
+        {
+            "model": "fortwo",
+            "engine": "0.8L D",
+            "engineCode": "OM660DE08LA",
+            "power": "61HP",
+            "year": "99-03",
+            "turboModel": "KP31",
+            "oemPartNo": "6600960199",
+            "baseCode": "5431-970-0002"
+        },
+        {
+            "model": "fortwo 0.6i",
+            "engine": "0.6L P",
+            "engineCode": "160.910",
+            "power": "55HP",
+            "year": "02-03",
+            "turboModel": "GT12",
+            "oemPartNo": "A1600960699",
+            "baseCode": "724961-5002S"
+        },
+        {
+            "model": "fortwo 0.6i",
+            "engine": "0.6L P",
+            "engineCode": "160.910",
+            "power": "55HP",
+            "year": "00-02",
+            "turboModel": "GT12",
+            "oemPartNo": "A1600960499",
+            "baseCode": "708837-5001S"
+        },
+        {
+            "model": "fortwo 0.6i",
+            "engine": "0.6L P",
+            "engineCode": "160.910",
+            "power": "55HP",
+            "year": "99-00",
+            "turboModel": "GT12",
+            "oemPartNo": "A1600960399",
+            "baseCode": "708116-5001S"
+        },
+        {
+            "model": "fortwo CDi",
+            "engine": "0.8L D",
+            "engineCode": "OM660DE08LA DPF",
+            "power": "45HP",
+            "year": "09-",
+            "turboModel": "KP31",
+            "oemPartNo": "6600900980",
+            "baseCode": "5431-970-0010"
+        }
+    ]
+}

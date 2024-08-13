@@ -1,0 +1,115 @@
+{
+    "brand": "Fiat-iveco",
+    "models": [
+        {
+            "model": "Daily",
+            "engine": "2.3L D",
+            "engineCode": "F1A Euro 4",
+            "power": "135HP",
+            "year": "06-10",
+            "turboModel": "GT17",
+            "oemPartNo": "504203413",
+            "baseCode": "769040-5001S"
+        },
+        {
+            "model": "Daily",
+            "engine": "2.5L D",
+            "engineCode": "8140.47.2700/2785/3711",
+            "power": "115HP",
+            "year": "90-96",
+            "turboModel": "TB25",
+            "oemPartNo": "99431084",
+            "baseCode": "466974-5009S"
+        },
+        {
+            "model": "Daily",
+            "engine": "3.0L D",
+            "engineCode": "F1C Euro 3",
+            "power": "",
+            "year": "05-06",
+            "turboModel": "GT22",
+            "oemPartNo": "504093025C",
+            "baseCode": "753959-5005S"
+        },
+        {
+            "model": "Daily  III",
+            "engine": "2.8L D",
+            "engineCode": "8140.43K.4000",
+            "power": "140HP",
+            "year": "03-05",
+            "turboModel": "GT22",
+            "oemPartNo": "500379251",
+            "baseCode": "751758-5001S"
+        },
+        {
+            "model": "Daily II TC",
+            "engine": "2.8L D",
+            "engineCode": "8140.43.2600",
+            "power": "105HP",
+            "year": "96-99",
+            "turboModel": "TF035",
+            "oemPartNo": "99450704",
+            "baseCode": "49135-05010"
+        },
+        {
+            "model": "Daily II TD",
+            "engine": "2.3L D",
+            "engineCode": "F1A Euro 3",
+            "power": "110HP",
+            "year": "02-",
+            "turboModel": "K03",
+            "oemPartNo": "504014911",
+            "baseCode": "5303-970-0066"
+        },
+        {
+            "model": "Daily III",
+            "engine": "2.8L D",
+            "engineCode": "8140.23 Unijet",
+            "power": "105/125HP",
+            "year": "03-06",
+            "turboModel": "GT20",
+            "oemPartNo": "504071573",
+            "baseCode": "751578-5002S"
+        },
+        {
+            "model": "Daily III TD",
+            "engine": "2.3L D",
+            "engineCode": "F1A Euro 4",
+            "power": "115HP",
+            "year": "06-10",
+            "turboModel": "K03",
+            "oemPartNo": "504136783",
+            "baseCode": "5303-970-0114"
+        },
+        {
+            "model": "Daily III TD",
+            "engine": "2.8L D",
+            "engineCode": "8140.43S.4000 Euro 3",
+            "power": "104HP",
+            "year": "96-99",
+            "turboModel": "K03",
+            "oemPartNo": "500358190",
+            "baseCode": "5303-970-0076"
+        },
+        {
+            "model": "Daily TC",
+            "engine": "2.5L D",
+            "engineCode": "8140.27.2700/2870",
+            "power": "103HP",
+            "year": "89-96",
+            "turboModel": "TB25",
+            "oemPartNo": "99431083",
+            "baseCode": "466974-5010S"
+        },
+        {
+            "model": "Daily TD",
+            "engine": "2.3L D",
+            "engineCode": "F1A",
+            "power": "135HP",
+            "year": "05-06",
+            "turboModel": "K03",
+            "oemPartNo": "504154739",
+            "baseCode": "5303-970-0102"
+        }
+    ]
+}

@@ -1,0 +1,625 @@
+{
+    "brand": "Volvo",
+    "models": [
+        {
+            "model": "850 T5 R",
+            "engine": "2.3L P",
+            "engineCode": "B5234 T3/T5/T6N2P23HT",
+            "power": "225HP",
+            "year": "96-97",
+            "turboModel": "TD04",
+            "oemPartNo": "8601238",
+            "baseCode": "49189-01355"
+        },
+        {
+            "model": "940",
+            "engine": "2.3L P",
+            "engineCode": "B230FK",
+            "power": "",
+            "year": "94-95",
+            "turboModel": "TD04",
+            "oemPartNo": "8601063",
+            "baseCode": "49189-01270"
+        },
+        {
+            "model": "C30 2.0 D Coupe",
+            "engine": "2.0L D",
+            "engineCode": "D4204T Euro 4",
+            "power": "136HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "9662464980",
+            "baseCode": "760774-5003S"
+        },
+        {
+            "model": "C70 2.3i T5",
+            "engine": "2.3L P",
+            "engineCode": "B5234T3/B5234T6",
+            "power": "240HP",
+            "year": "97-05",
+            "turboModel": "TD04",
+            "oemPartNo": "8601238",
+            "baseCode": "49189-01355"
+        },
+        {
+            "model": "S40",
+            "engine": "1.9L D",
+            "engineCode": "D4192T2",
+            "power": "90HP",
+            "year": "98-01",
+            "turboModel": "GT15",
+            "oemPartNo": "7700111747",
+            "baseCode": "703753-5001S"
+        },
+        {
+            "model": "S40",
+            "engine": "1.9L P",
+            "engineCode": "N1P20LT",
+            "power": "118HP",
+            "year": "",
+            "turboModel": "TD04",
+            "oemPartNo": "8602931",
+            "baseCode": "49377-06063"
+        },
+        {
+            "model": "S40",
+            "engine": "2.5L P",
+            "engineCode": "B5254T3",
+            "power": "220HP",
+            "year": "04-",
+            "turboModel": "K04",
+            "oemPartNo": "30757112",
+            "baseCode": "5304-970-0033"
+        },
+        {
+            "model": "S40 1.9 Di",
+            "engine": "1.9L D",
+            "engineCode": "D4192T3",
+            "power": "115HP",
+            "year": "01-04",
+            "turboModel": "GT17",
+            "oemPartNo": "8200683855",
+            "baseCode": "708639-5010S"
+        },
+        {
+            "model": "S40 1.9 Di",
+            "engine": "1.9L D",
+            "engineCode": "D4192T4",
+            "power": "102HP",
+            "year": "01-04",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683853",
+            "baseCode": "738123-5004S"
+        },
+        {
+            "model": "S40 2.0 D",
+            "engine": "2.0L D",
+            "engineCode": "D4204T Euro 4",
+            "power": "136HP",
+            "year": "04-",
+            "turboModel": "GT17",
+            "oemPartNo": "9662464980",
+            "baseCode": "760774-5003S"
+        },
+        {
+            "model": "S40 D5",
+            "engine": "2.4L D",
+            "engineCode": "D5244T8 Euro 5",
+            "power": "177HP",
+            "year": "06-10",
+            "turboModel": "GT20",
+            "oemPartNo": "50493434",
+            "baseCode": "762060-5016S"
+        },
+        {
+            "model": "S40 D5",
+            "engine": "2.4L D",
+            "engineCode": "D5244T8 Euro 5",
+            "power": "177HP",
+            "year": "06-10",
+            "turboModel": "GT20",
+            "oemPartNo": "5048265",
+            "baseCode": "762060-5008S"
+        },
+        {
+            "model": "S40 HDi",
+            "engine": "1.6L D",
+            "engineCode": "D4164T",
+            "power": "110HP",
+            "year": "05-09",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "S40 HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6UTED4",
+            "power": "90HP",
+            "year": "05-09",
+            "turboModel": "TD02",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "S40 TD",
+            "engine": "1.9L D",
+            "engineCode": "D4192T",
+            "power": "90HP",
+            "year": "96-99",
+            "turboModel": "TB02",
+            "oemPartNo": "7700868124",
+            "baseCode": "454112-5004S"
+        },
+        {
+            "model": "S60",
+            "engine": "2.4L D",
+            "engineCode": "I5D Euro 5",
+            "power": "185HP",
+            "year": "06-",
+            "turboModel": "GT20",
+            "oemPartNo": "50493434",
+            "baseCode": "762060-5016S"
+        },
+        {
+            "model": "S60",
+            "engine": "2.4L D",
+            "engineCode": "I5D Euro 6",
+            "power": "185HP",
+            "year": "06-",
+            "turboModel": "GT20",
+            "oemPartNo": "5048265",
+            "baseCode": "762060-5008S"
+        },
+        {
+            "model": "S60 2.0i T",
+            "engine": "2.0L P",
+            "engineCode": "B5204T5",
+            "power": "180HP",
+            "year": "00-08",
+            "turboModel": "TD04",
+            "oemPartNo": "8602394",
+            "baseCode": "49377-06114"
+        },
+        {
+            "model": "S60 2.3i T5 AWD",
+            "engine": "2.3L P",
+            "engineCode": "B5234T3",
+            "power": "250HP",
+            "year": "00-04",
+            "turboModel": "TD04",
+            "oemPartNo": "8601456",
+            "baseCode": "49189-01375"
+        },
+        {
+            "model": "S60 2.4i T5",
+            "engine": "2.4L P",
+            "engineCode": "B5244T5",
+            "power": "260HP",
+            "year": "04-07",
+            "turboModel": "K24",
+            "oemPartNo": "30757114",
+            "baseCode": "5324-970-7401"
+        },
+        {
+            "model": "S60 2.5i R AWD",
+            "engine": "2.5L P",
+            "engineCode": "B5254T4",
+            "power": "300HP",
+            "year": "03-07",
+            "turboModel": "K24",
+            "oemPartNo": "30713137",
+            "baseCode": "5324-970-7400"
+        },
+        {
+            "model": "S60 D5",
+            "engine": "2.4L D",
+            "engineCode": "D5244T Euro 3",
+            "power": "163HP",
+            "year": "01-05",
+            "turboModel": "GT20",
+            "oemPartNo": "3847392",
+            "baseCode": "723167-5004S"
+        },
+        {
+            "model": "S60 D5",
+            "engine": "2.4L D",
+            "engineCode": "D5244T3",
+            "power": "185HP",
+            "year": "08-08",
+            "turboModel": "GT20",
+            "oemPartNo": "31293030",
+            "baseCode": "757779-5022S"
+        },
+        {
+            "model": "S70 R",
+            "engine": "2.3L P",
+            "engineCode": "B5234 T2AWD",
+            "power": "247HP",
+            "year": "00-03",
+            "turboModel": "TD04",
+            "oemPartNo": "8601461",
+            "baseCode": "49189-05310"
+        },
+        {
+            "model": "S70 R",
+            "engine": "2.3L P",
+            "engineCode": "B5234 T3AWD",
+            "power": "247HP",
+            "year": "98-00",
+            "turboModel": "TD04",
+            "oemPartNo": "8601456",
+            "baseCode": "49189-01375"
+        },
+        {
+            "model": "S70 TDi",
+            "engine": "2.5L D",
+            "engineCode": "D5252T",
+            "power": "140HP",
+            "year": "96-99",
+            "turboModel": "K14",
+            "oemPartNo": "074145701J",
+            "baseCode": "5314-970-6709"
+        },
+        {
+            "model": "S70R T5",
+            "engine": "2.3L P",
+            "engineCode": "B5234 T3",
+            "power": "237HP",
+            "year": "96-00",
+            "turboModel": "TD04",
+            "oemPartNo": "8601238",
+            "baseCode": "49189-01355"
+        },
+        {
+            "model": "S80",
+            "engine": "2.3L P",
+            "engineCode": "B2234T / B5244 T3",
+            "power": "",
+            "year": "00-06",
+            "turboModel": "TD04",
+            "oemPartNo": "8601692",
+            "baseCode": "49189-05211"
+        },
+        {
+            "model": "S80",
+            "engine": "2.4L D",
+            "engineCode": "I5D",
+            "power": "185HP",
+            "year": "06-09",
+            "turboModel": "GT20",
+            "oemPartNo": "50493434",
+            "baseCode": "762060-5016S"
+        },
+        {
+            "model": "S80",
+            "engine": "2.4L D",
+            "engineCode": "I5D Euro 5",
+            "power": "185HP",
+            "year": "06-09",
+            "turboModel": "GT20",
+            "oemPartNo": "5048265",
+            "baseCode": "762060-5008S"
+        },
+        {
+            "model": "S80 2.8i T6",
+            "engine": "2.8L P",
+            "engineCode": "B6284T/B6284T2 (Left)",
+            "power": "272HP",
+            "year": "98-01",
+            "turboModel": "TD03",
+            "oemPartNo": "8602932",
+            "baseCode": "49131-05060"
+        },
+        {
+            "model": "S80 D5",
+            "engine": "2.4L D",
+            "engineCode": "D5244T",
+            "power": "161HP",
+            "year": "01-06",
+            "turboModel": "GT20",
+            "oemPartNo": "3847392",
+            "baseCode": "723167-5004S"
+        },
+        {
+            "model": "S80 D5",
+            "engine": "2.4L D",
+            "engineCode": "I5D P2",
+            "power": "185HP",
+            "year": "07-08",
+            "turboModel": "GT20",
+            "oemPartNo": "31293030",
+            "baseCode": "757779-5022S"
+        },
+        {
+            "model": "S90",
+            "engine": "3.0L P",
+            "engineCode": "SI6T",
+            "power": "285HP",
+            "year": "08-",
+            "turboModel": "K16",
+            "oemPartNo": "7G9N6K682AE",
+            "baseCode": "5316-970-0015"
+        },
+        {
+            "model": "V40",
+            "engine": "1.9L D",
+            "engineCode": "D4192T2",
+            "power": "90HP",
+            "year": "98-01",
+            "turboModel": "GT15",
+            "oemPartNo": "7700111747",
+            "baseCode": "703753-5001S"
+        },
+        {
+            "model": "V40",
+            "engine": "1.9L D",
+            "engineCode": "F9Q",
+            "power": "105HP",
+            "year": "00-03",
+            "turboModel": "GT15",
+            "oemPartNo": "8200683853",
+            "baseCode": "738123-5004S"
+        },
+        {
+            "model": "V40 2.0i T",
+            "engine": "1.9L P",
+            "engineCode": "B4204T/B4204T2/B4204T3",
+            "power": "160HP",
+            "year": "97-03",
+            "turboModel": "TD04",
+            "oemPartNo": "8602931",
+            "baseCode": "49377-06063"
+        },
+        {
+            "model": "V50",
+            "engine": "1.6L D",
+            "engineCode": "DV6UTED4",
+            "power": "90HP",
+            "year": "07-",
+            "turboModel": "TD02",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "V50",
+            "engine": "2.4L D",
+            "engineCode": "I5D Euro 5",
+            "power": "185HP",
+            "year": "06-",
+            "turboModel": "GT20",
+            "oemPartNo": "50493434",
+            "baseCode": "762060-5016S"
+        },
+        {
+            "model": "V50 1.6 D",
+            "engine": "1.6L D",
+            "engineCode": "D4164T",
+            "power": "107HP",
+            "year": "07-09",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "V50 2.0 D",
+            "engine": "2.0L D",
+            "engineCode": "D4204T Euro 4",
+            "power": "136HP",
+            "year": "04-",
+            "turboModel": "GT17",
+            "oemPartNo": "9662464980",
+            "baseCode": "760774-5003S"
+        },
+        {
+            "model": "V50 D5",
+            "engine": "2.4L D",
+            "engineCode": "D5244T8 Euro 5",
+            "power": "177HP",
+            "year": "06-09",
+            "turboModel": "GT20",
+            "oemPartNo": "5048265",
+            "baseCode": "762060-5008S"
+        },
+        {
+            "model": "V70",
+            "engine": "2.4L D",
+            "engineCode": "I5D Euro 5",
+            "power": "185HP",
+            "year": "06-",
+            "turboModel": "GT20",
+            "oemPartNo": "50493434",
+            "baseCode": "762060-5016S"
+        },
+        {
+            "model": "V70",
+            "engine": "2.4L D",
+            "engineCode": "I5D Euro 5",
+            "power": "185HP",
+            "year": "06-",
+            "turboModel": "GT20",
+            "oemPartNo": "5048265",
+            "baseCode": "762060-5008S"
+        },
+        {
+            "model": "V70",
+            "engine": "2.4L D",
+            "engineCode": "NED5 Euro 3",
+            "power": "161HP",
+            "year": "01-07",
+            "turboModel": "GT20",
+            "oemPartNo": "3847392",
+            "baseCode": "723167-5004S"
+        },
+        {
+            "model": "V70",
+            "engine": "2.5L D",
+            "engineCode": "D5252T",
+            "power": "140HP",
+            "year": "96-00",
+            "turboModel": "K14",
+            "oemPartNo": "074145701J",
+            "baseCode": "5314-970-6709"
+        },
+        {
+            "model": "V70 2.4i T5",
+            "engine": "2.4L P",
+            "engineCode": "B5244T5",
+            "power": "260HP",
+            "year": "04-07",
+            "turboModel": "K24",
+            "oemPartNo": "30757114",
+            "baseCode": "5324-970-7401"
+        },
+        {
+            "model": "V70 2.5i R",
+            "engine": "2.5L P",
+            "engineCode": "B5254T4",
+            "power": "300HP",
+            "year": "03-07",
+            "turboModel": "K24",
+            "oemPartNo": "30713137",
+            "baseCode": "5324-970-7400"
+        },
+        {
+            "model": "V70 3.0i T6 AWD",
+            "engine": "3.0L P",
+            "engineCode": "B6304T2",
+            "power": "281HP",
+            "year": "07-",
+            "turboModel": "K16",
+            "oemPartNo": "7G9N6K682AE",
+            "baseCode": "5316-970-0015"
+        },
+        {
+            "model": "V70 D5",
+            "engine": "2.4L D",
+            "engineCode": "I5D P2",
+            "power": "185HP",
+            "year": "05-",
+            "turboModel": "GT20",
+            "oemPartNo": "31293030",
+            "baseCode": "757779-5022S"
+        },
+        {
+            "model": "V70 R",
+            "engine": "2.3L P",
+            "engineCode": "B2534 HTR/ N2PHTRAWD",
+            "power": "250HP",
+            "year": "97-99",
+            "turboModel": "TD04",
+            "oemPartNo": "8601456",
+            "baseCode": "49189-01375"
+        },
+        {
+            "model": "XC70",
+            "engine": "2.3L P",
+            "engineCode": "B2234T / B5244 T3",
+            "power": "",
+            "year": "00-00",
+            "turboModel": "TD04",
+            "oemPartNo": "8601692",
+            "baseCode": "49189-05211"
+        },
+        {
+            "model": "XC70 2.5i T",
+            "engine": "2.5L P",
+            "engineCode": "B2234T / B5244T3",
+            "power": "210HP",
+            "year": "03-07",
+            "turboModel": "TD04",
+            "oemPartNo": "8601692",
+            "baseCode": "49189-05211"
+        },
+        {
+            "model": "XC70 3.0i T6 AWD",
+            "engine": "3.0L P",
+            "engineCode": "SI6T",
+            "power": "281HP",
+            "year": "09-",
+            "turboModel": "K16",
+            "oemPartNo": "7G9N6K682AE",
+            "baseCode": "5316-970-0015"
+        },
+        {
+            "model": "XC70 D5",
+            "engine": "2.4L D",
+            "engineCode": "D5244",
+            "power": "185HP",
+            "year": "05-07",
+            "turboModel": "GT20",
+            "oemPartNo": "31293030",
+            "baseCode": "757779-5022S"
+        },
+        {
+            "model": "XC90",
+            "engine": "2.4L D",
+            "engineCode": "I5D Euro 5",
+            "power": "185HP",
+            "year": "06-",
+            "turboModel": "GT20",
+            "oemPartNo": "50493434",
+            "baseCode": "762060-5016S"
+        },
+        {
+            "model": "XC90",
+            "engine": "2.4L D",
+            "engineCode": "I5D Euro 5",
+            "power": "185HP",
+            "year": "06-",
+            "turboModel": "GT20",
+            "oemPartNo": "5048265",
+            "baseCode": "762060-5008S"
+        },
+        {
+            "model": "XC90",
+            "engine": "3.0L P",
+            "engineCode": "SI6T",
+            "power": "285HP",
+            "year": "08-",
+            "turboModel": "K16",
+            "oemPartNo": "7G9N6K682AE",
+            "baseCode": "5316-970-0015"
+        },
+        {
+            "model": "XC90 D5",
+            "engine": "2.4L D",
+            "engineCode": "I5D P2",
+            "power": "185HP",
+            "year": "05-06",
+            "turboModel": "GT20",
+            "oemPartNo": "31293030",
+            "baseCode": "757779-5022S"
+        },
+        {
+            "model": "XC90 D5",
+            "engine": "2.4L D",
+            "engineCode": "NED5 Euro 3",
+            "power": "163HP",
+            "year": "02-05",
+            "turboModel": "GT20",
+            "oemPartNo": "3847392",
+            "baseCode": "723167-5004S"
+        },
+        {
+            "model": "XC90 T",
+            "engine": "2.5L P",
+            "engineCode": "B2234T / B5244T3",
+            "power": "210HP",
+            "year": "04-06",
+            "turboModel": "TD04",
+            "oemPartNo": "8601692",
+            "baseCode": "49189-05211"
+        },
+        {
+            "model": "XC90 T6",
+            "engine": "2.8L P",
+            "engineCode": "N3P28FT (Left)",
+            "power": "272HP",
+            "year": "02-",
+            "turboModel": "TD03",
+            "oemPartNo": "8602932",
+            "baseCode": "49131-05060"
+        }
+    ]
+}

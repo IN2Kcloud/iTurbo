@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vehicle Models</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: 'LEMONMILK-Regular', Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 2.5rem;
+            margin-bottom: 30px;
+        }
+
+        .model-item {
+            background-color: #0e0e0e;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .model-item h2 {
+            font-size: 1.5rem;
+            font-weight: 800;
+            margin-bottom: 10px;
+            color: #f1f1f1;
+            /*-webkit-text-stroke: 1px #f1f1f1;*/
+            filter: drop-shadow(0px 0px 1px #FFB703)
+        }
+
+        .model-items p {
+            margin: 5px 0 0;
+            font-size: 1.1rem;
+        }
+
+        .m span {position: relative; display: flex; justify-content: center; text-align: center; z-index: 1; color: #111; filter: drop-shadow(0px 0px 10px #111)} .m span::before {content: ''; position: absolute; z-index: -1; top: 0; bottom: 0; left: -0.25em; right: -0.25em; background-color: #FFB703; transform: scaleX(1); transform-origin: center left;}
+        .tm span {font-size: 1.5rem; position: relative; display: flex; justify-content: center; text-align: center; z-index: 1; color: #111; filter: drop-shadow(0px 0px 10px #111)} .tm span::before {content: ''; position: absolute; z-index: -1; top: 0; bottom: 0; left: -0.25em; right: -0.25em; background-color: #f1faee; transform: scaleX(1); transform-origin: center left;}
+        .tm {filter: drop-shadow(0px 0px 1px #f1faee)}
+
+        @font-face{font-family:'LEMONMILK-Regular';src:url('../../LEMONMILK-Regular.otf') format('opentype');font-display:swap;}
+
+    </style>
+</head>
+<body>
+    <h1 id="brand-title"></h1>
+    <div id="models-list"></div>
+
+    <script>
+        // Function to get the query parameter
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        // Load the JSON file based on the brand query parameter
+        const brand = getQueryParam('brand');
+        if (brand) {
+            fetch(`${brand}.json`)
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('brand-title').textContent = data.brand;
+                    const modelsList = document.getElementById('models-list');
+                    data.models.forEach(model => {
+                        const modelDiv = document.createElement('div');
+                        modelDiv.classList.add('model-item');
+                        modelDiv.innerHTML = `
+                            <h2 class="m"><span>${model.model}</span></h2>
+                            <p>Engine: ${model.engine}</p>
+                            <p>Engine Code: ${model.engineCode}</p>
+                            <p>Power: ${model.power}</p>
+                            <p>Year: ${model.year}</p>
+                            <p class="tm"><span>Turbo Model: ${model.turboModel}</span></p>
+                            <p>OEM Part No.: ${model.oemPartNo}</p>
+                            <p>Base Code: ${model.baseCode}</p>
+                        `;
+                        modelsList.appendChild(modelDiv);
+                    });
+                })
+                .catch(error => {
+                    document.getElementById('models-list').textContent = 'Error loading models.';
+                    console.error('Error:', error);
+                });
+        } else {
+            document.getElementById('models-list').textContent = 'No brand selected.';
+        }
+    </script>
+</body>
+</html>

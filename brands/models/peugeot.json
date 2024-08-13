@@ -1,0 +1,565 @@
+{
+    "brand": "Peugeot",
+    "models": [
+        {
+            "model": "107 HDi",
+            "engine": "1.4L D",
+            "engineCode": "DV4TED 8v",
+            "power": "54HP",
+            "year": "05-",
+            "turboModel": "KP35",
+            "oemPartNo": "9661557480",
+            "baseCode": "5435-970-0021"
+        },
+        {
+            "model": "206 HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HX/9HY/9HZ",
+            "power": "110HP",
+            "year": "04-06",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "206 HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 Euro 4",
+            "power": "110HP",
+            "year": "06-",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199080",
+            "baseCode": "762328-5002S"
+        },
+        {
+            "model": "206 HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6UTED4",
+            "power": "90HP",
+            "year": "07-",
+            "turboModel": "TD02",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "206 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10ATED FAP",
+            "power": "110HP",
+            "year": "00-",
+            "turboModel": "K03",
+            "oemPartNo": "9640355080",
+            "baseCode": "5303-970-0057"
+        },
+        {
+            "model": "206 HDi / SW HDi",
+            "engine": "1.4L D",
+            "engineCode": "DV4TD 8HX/8HZ",
+            "power": "68HP",
+            "year": "02-",
+            "turboModel": "KP35",
+            "oemPartNo": "9648759980",
+            "baseCode": "5435-970-0009"
+        },
+        {
+            "model": "206 HDi / SW HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "99-05",
+            "turboModel": "GT15",
+            "oemPartNo": "9622526980",
+            "baseCode": "706977-5002S"
+        },
+        {
+            "model": "206 Van HDi",
+            "engine": "1.4L D",
+            "engineCode": "DV4TD 8HX/8HZ",
+            "power": "68HP",
+            "year": "02-07",
+            "turboModel": "KP35",
+            "oemPartNo": "9648759980",
+            "baseCode": "5435-970-0009"
+        },
+        {
+            "model": "207 CC HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HY Euro 4",
+            "power": "109HP",
+            "year": "07-",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199080",
+            "baseCode": "762328-5002S"
+        },
+        {
+            "model": "207 HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 Euro 4DPF",
+            "power": "110HP",
+            "year": "06-",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "207 HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6UTED4 9HX",
+            "power": "90HP",
+            "year": "06-",
+            "turboModel": "TD02",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "207 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10BTED4S",
+            "power": "136HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "9682778680",
+            "baseCode": "756047-5005S"
+        },
+        {
+            "model": "207 HDi / SW HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HY Euro 4",
+            "power": "109HP",
+            "year": "06-",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199080",
+            "baseCode": "762328-5002S"
+        },
+        {
+            "model": "306 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "99-02",
+            "turboModel": "GT17",
+            "oemPartNo": "9632406680",
+            "baseCode": "706976-5002S"
+        },
+        {
+            "model": "306 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "99-02",
+            "turboModel": "K03",
+            "oemPartNo": "9632406680",
+            "baseCode": "5303-970-0023"
+        },
+        {
+            "model": "306 TD",
+            "engine": "1.9L D",
+            "engineCode": "XUD9TE / XUD9L3 DHY ECO",
+            "power": "90HP",
+            "year": "97-99",
+            "turboModel": "K03",
+            "oemPartNo": "9635220680",
+            "baseCode": "5303-970-0028"
+        },
+        {
+            "model": "307 CC HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10BTED4 RHR16v",
+            "power": "136HP",
+            "year": "05-08",
+            "turboModel": "GT17",
+            "oemPartNo": "9682778680",
+            "baseCode": "756047-5005S"
+        },
+        {
+            "model": "307 HDi / SW HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6ATED4 (9HX)",
+            "power": "90HP",
+            "year": "04-07",
+            "turboModel": "TD02",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "307 HDi / SW HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HY/9HZ Euro 3/4",
+            "power": "110HP",
+            "year": "04-06",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "307 HDi / SW HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HZ Euro 4",
+            "power": "110HP",
+            "year": "06-07",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199080",
+            "baseCode": "762328-5002S"
+        },
+        {
+            "model": "307 HDi / SW HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10ATED RHZ8v",
+            "power": "110HP",
+            "year": "01-05",
+            "turboModel": "K03",
+            "oemPartNo": "9640355080",
+            "baseCode": "5303-970-0057"
+        },
+        {
+            "model": "307 HDi / SW HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10BTED4 RHR16v",
+            "power": "136HP",
+            "year": "04-07",
+            "turboModel": "GT17",
+            "oemPartNo": "9682778680",
+            "baseCode": "756047-5005S"
+        },
+        {
+            "model": "307 HDi / SW HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY8v",
+            "power": "90HP",
+            "year": "01-05",
+            "turboModel": "GT15",
+            "oemPartNo": "9633382380",
+            "baseCode": "706977-5002S"
+        },
+        {
+            "model": "406 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "XU10J2CTE RGX 8v",
+            "power": "150HP",
+            "year": "96-99",
+            "turboModel": "TB25",
+            "oemPartNo": "9624296380",
+            "baseCode": "454162-5001S"
+        },
+        {
+            "model": "406 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10ATED RHS",
+            "power": "110HP",
+            "year": "99-04",
+            "turboModel": "K03",
+            "oemPartNo": "9640168280",
+            "baseCode": "5303-970-0050"
+        },
+        {
+            "model": "406 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10ATED RHZ",
+            "power": "110HP",
+            "year": "98-99",
+            "turboModel": "K03",
+            "oemPartNo": "9632427880",
+            "baseCode": "5303-970-0018"
+        },
+        {
+            "model": "406 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "99-04",
+            "turboModel": "GT15",
+            "oemPartNo": "9622526980",
+            "baseCode": "706977-5002S"
+        },
+        {
+            "model": "406 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "99-04",
+            "turboModel": "K03",
+            "oemPartNo": "9622526980",
+            "baseCode": "5303-970-0009"
+        },
+        {
+            "model": "406 HDi",
+            "engine": "2.2L D",
+            "engineCode": "DW12TED4S",
+            "power": "136HP",
+            "year": "00-04",
+            "turboModel": "GT15",
+            "oemPartNo": "9662465380",
+            "baseCode": "726683-5003S"
+        },
+        {
+            "model": "406 TD",
+            "engine": "1.9L D",
+            "engineCode": "XUD9BTF DHX",
+            "power": "90HP",
+            "year": "96-98",
+            "turboModel": "TB02",
+            "oemPartNo": "9621569080",
+            "baseCode": "454131-5003S"
+        },
+        {
+            "model": "406 TD",
+            "engine": "1.9L D",
+            "engineCode": "XUD9TF D8B",
+            "power": "92HP",
+            "year": "98-99",
+            "turboModel": "GT15",
+            "oemPartNo": "9633785480",
+            "baseCode": "454171-5005S"
+        },
+        {
+            "model": "407 HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HY/9HZ Euro 3/4",
+            "power": "110HP",
+            "year": "04-",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "407 HDi",
+            "engine": "2.2L D",
+            "engineCode": "DW12B",
+            "power": "170HP",
+            "year": "06-",
+            "turboModel": "DSGT12",
+            "oemPartNo": "9685400108002",
+            "baseCode": "769901-5003S"
+        },
+        {
+            "model": "407 HDi",
+            "engine": "2.2L D",
+            "engineCode": "DW12BTED4 4HT",
+            "power": "170HP",
+            "year": "06-",
+            "turboModel": "DSGT12",
+            "oemPartNo": "9684337780",
+            "baseCode": "778088-5001S"
+        },
+        {
+            "model": "407 HDi / SW HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10BTED4 RHR",
+            "power": "136HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "9682778680",
+            "baseCode": "756047-5005S"
+        },
+        {
+            "model": "605 2.0i",
+            "engine": "2.0L P",
+            "engineCode": "XU10J2CTE RGX",
+            "power": "150HP",
+            "year": "93-99",
+            "turboModel": "TB25",
+            "oemPartNo": "9624296380",
+            "baseCode": "454162-5001S"
+        },
+        {
+            "model": "607 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10ATED RHZ8v",
+            "power": "109HP",
+            "year": "01-05",
+            "turboModel": "K03",
+            "oemPartNo": "9640168280",
+            "baseCode": "5303-970-0050"
+        },
+        {
+            "model": "607 HDi",
+            "engine": "2.2L D",
+            "engineCode": "DW12ATED 4HX",
+            "power": "136HP",
+            "year": "00-05",
+            "turboModel": "GT15",
+            "oemPartNo": "9662465380",
+            "baseCode": "726683-5003S"
+        },
+        {
+            "model": "607 HDi",
+            "engine": "2.2L D",
+            "engineCode": "DW12BTED4 4HT",
+            "power": "170HP",
+            "year": "06-09",
+            "turboModel": "DSGT12",
+            "oemPartNo": "9684337780",
+            "baseCode": "778088-5001S"
+        },
+        {
+            "model": "806 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10ATED (RHZ)8v",
+            "power": "110HP",
+            "year": "99-00",
+            "turboModel": "GT15",
+            "oemPartNo": "9634521180",
+            "baseCode": "706978-5001S"
+        },
+        {
+            "model": "806 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10JATED4 (RHW)16v",
+            "power": "110HP",
+            "year": "00-02",
+            "turboModel": "GT15",
+            "oemPartNo": "9644384280",
+            "baseCode": "713667-5003S"
+        },
+        {
+            "model": "806 TD",
+            "engine": "1.9L D",
+            "engineCode": "XUD9TF/L D8B",
+            "power": "92HP",
+            "year": "95-01",
+            "turboModel": "TB02",
+            "oemPartNo": "9623320880",
+            "baseCode": "454086-5001S"
+        },
+        {
+            "model": "807 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10BTED4 RHR",
+            "power": "136HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "9682778880",
+            "baseCode": "760220-5003S"
+        },
+        {
+            "model": "807 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10JATED4 RHW",
+            "power": "109HP",
+            "year": "02-06",
+            "turboModel": "GT15",
+            "oemPartNo": "9644384280",
+            "baseCode": "713667-5003S"
+        },
+        {
+            "model": "Boxer HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10 UTD RHV",
+            "power": "85HP",
+            "year": "01-02",
+            "turboModel": "K03",
+            "oemPartNo": "9636473280",
+            "baseCode": "5303-970-0061"
+        },
+        {
+            "model": "Boxer HDi",
+            "engine": "2.2L D",
+            "engineCode": "P22DTE 4HV",
+            "power": "100HP",
+            "year": "02-06",
+            "turboModel": "K03",
+            "oemPartNo": "9643350480",
+            "baseCode": "5303-970-0062"
+        },
+        {
+            "model": "Boxer HDi",
+            "engine": "2.8L D",
+            "engineCode": "8140.43S Euro 3",
+            "power": "128HP",
+            "year": "00-06",
+            "turboModel": "K03",
+            "oemPartNo": "500364493",
+            "baseCode": "5303-970-0081"
+        },
+        {
+            "model": "Boxer HDi",
+            "engine": "2.8L D",
+            "engineCode": "Euro 3",
+            "power": "123HP",
+            "year": "",
+            "turboModel": "TD04",
+            "oemPartNo": "500344801",
+            "baseCode": "49377-07052"
+        },
+        {
+            "model": "Boxer TD",
+            "engine": "1.9L D",
+            "engineCode": "XUD9UTF D8C",
+            "power": "92HP",
+            "year": "94-02",
+            "turboModel": "K14",
+            "oemPartNo": "1463015080",
+            "baseCode": "5314-970-7015"
+        },
+        {
+            "model": "Cabstar dCi",
+            "engine": "3.0L D",
+            "engineCode": "ZD30DDTi",
+            "power": "150HP",
+            "year": "06-07",
+            "turboModel": "GT23",
+            "oemPartNo": "14411MA70A",
+            "baseCode": "767851-5003S"
+        },
+        {
+            "model": "Expert HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10 JATED4 / ATED",
+            "power": "109HP",
+            "year": "00-06",
+            "turboModel": "GT15",
+            "oemPartNo": "9644384180",
+            "baseCode": "713667-5003S"
+        },
+        {
+            "model": "Expert HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10 UTED4",
+            "power": "120HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "9661306080",
+            "baseCode": "764609-5001S"
+        },
+        {
+            "model": "Partner HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6 UTED4",
+            "power": "90HP",
+            "year": "06-08",
+            "turboModel": "TD02",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "Partner HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6D",
+            "power": "90HP",
+            "year": "",
+            "turboModel": "TD02",
+            "oemPartNo": "9673283680",
+            "baseCode": "49373-02013"
+        },
+        {
+            "model": "Partner HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "00-07",
+            "turboModel": "GT17",
+            "oemPartNo": "9633614180",
+            "baseCode": "706976-5002S"
+        },
+        {
+            "model": "Partner HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "00-07",
+            "turboModel": "GT15",
+            "oemPartNo": "9622526980",
+            "baseCode": "706977-5002S"
+        }
+    ]
+}

@@ -1,0 +1,505 @@
+{
+    "brand": "Bmw",
+    "models": [
+        {
+            "model": "118d",
+            "engine": "2.0L D",
+            "engineCode": "N47 Euro 4",
+            "power": "141HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "7800595E04",
+            "baseCode": "767378-5014S"
+        },
+        {
+            "model": "118d",
+            "engine": "2.0L D",
+            "engineCode": "N47 Euro 5",
+            "power": "141HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "7810190C02",
+            "baseCode": "767378-5010S"
+        },
+        {
+            "model": "120d",
+            "engine": "2.0L D",
+            "engineCode": "M47 TU2",
+            "power": "161HP",
+            "year": "04-05",
+            "turboModel": "GT17",
+            "oemPartNo": "77980551",
+            "baseCode": "750952-5014S"
+        },
+        {
+            "model": "120d",
+            "engine": "2.0L D",
+            "engineCode": "M47 TU2 E-OL",
+            "power": "161HP",
+            "year": "04-07",
+            "turboModel": "TF035",
+            "oemPartNo": "7795499K10",
+            "baseCode": "49135-05671"
+        },
+        {
+            "model": "120d",
+            "engine": "2.0L D",
+            "engineCode": "M47 TU2 Euro 4",
+            "power": "161HP",
+            "year": "04-07",
+            "turboModel": "GT17",
+            "oemPartNo": "7792413",
+            "baseCode": "741785-5014S"
+        },
+        {
+            "model": "120d",
+            "engine": "2.0L D",
+            "engineCode": "N47 OL / N47",
+            "power": "174HP",
+            "year": "07-",
+            "turboModel": "TF035",
+            "oemPartNo": "7797781",
+            "baseCode": "49135-05895"
+        },
+        {
+            "model": "318 TDS",
+            "engine": "1.7L D",
+            "engineCode": "M41",
+            "power": "91HP",
+            "year": "04-",
+            "turboModel": "GT15",
+            "oemPartNo": "2245901",
+            "baseCode": "454093-5004S"
+        },
+        {
+            "model": "318d",
+            "engine": "2.0L D",
+            "engineCode": "M47 TU2 E-OL",
+            "power": "121HP",
+            "year": "04-",
+            "turboModel": "TF035",
+            "oemPartNo": "7795496K",
+            "baseCode": "49135-05671"
+        },
+        {
+            "model": "318d",
+            "engine": "2.0L D",
+            "engineCode": "N47 UL Euro 4",
+            "power": "141HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "7800595E04",
+            "baseCode": "767378-5014S"
+        },
+        {
+            "model": "318d",
+            "engine": "2.0L D",
+            "engineCode": "N47 UL Euro 5",
+            "power": "141HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "7810190C02",
+            "baseCode": "767378-5010S"
+        },
+        {
+            "model": "320d",
+            "engine": "2.0L D",
+            "engineCode": "M47 TU E-OL",
+            "power": "161HP",
+            "year": "05-07",
+            "turboModel": "TF035",
+            "oemPartNo": "7795499K10",
+            "baseCode": "49135-05671"
+        },
+        {
+            "model": "320d",
+            "engine": "2.0L D",
+            "engineCode": "M47 TU Euro 4",
+            "power": "121HP",
+            "year": "05-07",
+            "turboModel": "GT17",
+            "oemPartNo": "7790314F",
+            "baseCode": "733701-5010S"
+        },
+        {
+            "model": "320d",
+            "engine": "2.0L D",
+            "engineCode": "M47 TU Euro 4",
+            "power": "147HP",
+            "year": "01-07",
+            "turboModel": "GT17",
+            "oemPartNo": "7790994I",
+            "baseCode": "731877-5010S"
+        },
+        {
+            "model": "320d",
+            "engine": "2.0L D",
+            "engineCode": "M47 TU2 Euro 4",
+            "power": "161HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "7792413",
+            "baseCode": "741785-5014S"
+        },
+        {
+            "model": "320d",
+            "engine": "2.0L D",
+            "engineCode": "N47 OL / N47",
+            "power": "174HP",
+            "year": "07-09",
+            "turboModel": "TF035",
+            "oemPartNo": "7797781",
+            "baseCode": "49135-05895"
+        },
+        {
+            "model": "325d",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU2 Euro 4",
+            "power": "194HP",
+            "year": "05-09",
+            "turboModel": "GT22",
+            "oemPartNo": "7796311M12",
+            "baseCode": "758352-5026S"
+        },
+        {
+            "model": "330d",
+            "engine": "2.9L D",
+            "engineCode": "M57",
+            "power": "181HP",
+            "year": "99-03",
+            "turboModel": "GT22",
+            "oemPartNo": "22499509",
+            "baseCode": "704361-5006S"
+        },
+        {
+            "model": "330d",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU",
+            "power": "201HP",
+            "year": "01-03",
+            "turboModel": "GT22",
+            "oemPartNo": "7790328K08",
+            "baseCode": "728989-5018S"
+        },
+        {
+            "model": "330d",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU2 Euro 4",
+            "power": "228HP",
+            "year": "05-09",
+            "turboModel": "GT22",
+            "oemPartNo": "7796312P15",
+            "baseCode": "758352-5026S"
+        },
+        {
+            "model": "335i",
+            "engine": "3.0L P",
+            "engineCode": "N54 (Left)",
+            "power": "302HP",
+            "year": "06-",
+            "turboModel": "TD03",
+            "oemPartNo": "756368603",
+            "baseCode": "49131-07040"
+        },
+        {
+            "model": "520d",
+            "engine": "2.0L D",
+            "engineCode": "M47 TU / TU2",
+            "power": "147HP",
+            "year": "05-",
+            "turboModel": "GT17",
+            "oemPartNo": "7794021K10",
+            "baseCode": "762965-5020S"
+        },
+        {
+            "model": "520d",
+            "engine": "2.0L D",
+            "engineCode": "N47 OL / N47",
+            "power": "174HP",
+            "year": "07-09",
+            "turboModel": "TF035",
+            "oemPartNo": "7797781",
+            "baseCode": "49135-05895"
+        },
+        {
+            "model": "525d",
+            "engine": "2.5L D",
+            "engineCode": "M57",
+            "power": "161HP",
+            "year": "00-03",
+            "turboModel": "GT20",
+            "oemPartNo": "77814359",
+            "baseCode": "710415-5003S"
+        },
+        {
+            "model": "525d",
+            "engine": "2.5L D",
+            "engineCode": "M57 TU Euro 3",
+            "power": "174HP",
+            "year": "04-07",
+            "turboModel": "GT20",
+            "oemPartNo": "7791758K",
+            "baseCode": "750080-5018S"
+        },
+        {
+            "model": "530d",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU / TU2",
+            "power": "214HP",
+            "year": "06-",
+            "turboModel": "GT22",
+            "oemPartNo": "7789083L09",
+            "baseCode": "725364-5021S"
+        },
+        {
+            "model": "530d",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU Euro 4(REA)",
+            "power": "214HP",
+            "year": "04-05",
+            "turboModel": "GT22",
+            "oemPartNo": "7790308N",
+            "baseCode": "742730-5018S"
+        },
+        {
+            "model": "530d",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU2 Euro 4(REA)",
+            "power": "228HP",
+            "year": "05-07",
+            "turboModel": "GT22",
+            "oemPartNo": "7794260Q16",
+            "baseCode": "758351-5024S"
+        },
+        {
+            "model": "535d",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU2 DPF",
+            "power": "261HP",
+            "year": "08-",
+            "turboModel": "R2S",
+            "oemPartNo": "7807059",
+            "baseCode": "1000-970-0013"
+        },
+        {
+            "model": "535d",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU2 DPF",
+            "power": "261HP",
+            "year": "08-",
+            "turboModel": "R2S",
+            "oemPartNo": "7807060",
+            "baseCode": "1000-970-0012"
+        },
+        {
+            "model": "535d",
+            "engine": "3.0L D",
+            "engineCode": "M57 Top",
+            "power": "268HP",
+            "year": "04-",
+            "turboModel": "R2S",
+            "oemPartNo": "7793402AI03",
+            "baseCode": "1264-970-0000"
+        },
+        {
+            "model": "535d",
+            "engine": "3.0L D",
+            "engineCode": "M57 Top DPF",
+            "power": "281HP",
+            "year": "06-",
+            "turboModel": "R2S",
+            "oemPartNo": "779635502",
+            "baseCode": "1000-970-0013"
+        },
+        {
+            "model": "535i / GT",
+            "engine": "3.0L P",
+            "engineCode": "N55 DPF",
+            "power": "302HP",
+            "year": "08-",
+            "turboModel": "B03",
+            "oemPartNo": "7588995",
+            "baseCode": "1853-970-0007"
+        },
+        {
+            "model": "535i / GT",
+            "engine": "3.0L P",
+            "engineCode": "N55 DPF",
+            "power": "302HP",
+            "year": "08-",
+            "turboModel": "B03",
+            "oemPartNo": "4579845",
+            "baseCode": "1853-970-0006"
+        },
+        {
+            "model": "535i / GT",
+            "engine": "3.0L P",
+            "engineCode": "N55 DPF",
+            "power": "302HP",
+            "year": "08-",
+            "turboModel": "B03",
+            "oemPartNo": "4575479",
+            "baseCode": "1853-970-0005"
+        },
+        {
+            "model": "535i / GT",
+            "engine": "3.0L P",
+            "engineCode": "N55 DPF",
+            "power": "302HP",
+            "year": "08-",
+            "turboModel": "B03",
+            "oemPartNo": "4575478",
+            "baseCode": "1853-970-0004"
+        },
+        {
+            "model": "730d",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU / TU2",
+            "power": "214HP",
+            "year": "02-08",
+            "turboModel": "GT22",
+            "oemPartNo": "7789083L09",
+            "baseCode": "725364-5021S"
+        },
+        {
+            "model": "730d",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU2 Euro 4",
+            "power": "228HP",
+            "year": "06-08",
+            "turboModel": "GT22",
+            "oemPartNo": "7794260Q16",
+            "baseCode": "758351-5024S"
+        },
+        {
+            "model": "740d",
+            "engine": "3.9L D",
+            "engineCode": "M67 (Left)",
+            "power": "235HP",
+            "year": "98-00",
+            "turboModel": "GT17",
+            "oemPartNo": "77854099C",
+            "baseCode": "703672-5004S"
+        },
+        {
+            "model": "740d",
+            "engine": "3.9L D",
+            "engineCode": "M67 (Left)",
+            "power": "240HP",
+            "year": "00-03",
+            "turboModel": "GT17",
+            "oemPartNo": "7786800C",
+            "baseCode": "714485-5006S"
+        },
+        {
+            "model": "740d",
+            "engine": "3.9L D",
+            "engineCode": "M67 (Right)",
+            "power": "235HP",
+            "year": "98-00",
+            "turboModel": "GT17",
+            "oemPartNo": "77854099C",
+            "baseCode": "703673-5004S"
+        },
+        {
+            "model": "740d",
+            "engine": "3.9L D",
+            "engineCode": "M67 (Right)",
+            "power": "240HP",
+            "year": "00-03",
+            "turboModel": "GT17",
+            "oemPartNo": "7786801C",
+            "baseCode": "714486-5006S"
+        },
+        {
+            "model": "745d",
+            "engine": "4.4L D",
+            "engineCode": "M67 TU (Left)",
+            "power": "324HP",
+            "year": "05-09",
+            "turboModel": "GT17",
+            "oemPartNo": "7794251F",
+            "baseCode": "755173-5006S"
+        },
+        {
+            "model": "745d",
+            "engine": "4.4L D",
+            "engineCode": "M67 TU (Right)",
+            "power": "324HP",
+            "year": "05-09",
+            "turboModel": "GT17",
+            "oemPartNo": "7794253F",
+            "baseCode": "755862-5004S"
+        },
+        {
+            "model": "X3 2.0d",
+            "engine": "2.0L D",
+            "engineCode": "M47 TU",
+            "power": "147HP",
+            "year": "05-06",
+            "turboModel": "GT17",
+            "oemPartNo": "7794021K10",
+            "baseCode": "762965-5020S"
+        },
+        {
+            "model": "X3 3.0d",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU",
+            "power": "201HP",
+            "year": "01-",
+            "turboModel": "GT22",
+            "oemPartNo": "7790328K08",
+            "baseCode": "728989-5018S"
+        },
+        {
+            "model": "X3 xDrive18d",
+            "engine": "2.0L D",
+            "engineCode": "N47 OL / N47",
+            "power": "174HP",
+            "year": "09-",
+            "turboModel": "TF035",
+            "oemPartNo": "7797781",
+            "baseCode": "49135-05895"
+        },
+        {
+            "model": "X3 xDrive30d",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU2 Euro 4",
+            "power": "214HP",
+            "year": "05-",
+            "turboModel": "GT22",
+            "oemPartNo": "7796315L11",
+            "baseCode": "758353-5024S"
+        },
+        {
+            "model": "X5",
+            "engine": "2.9L D",
+            "engineCode": "M57 RL",
+            "power": "181HP",
+            "year": "01-03",
+            "turboModel": "GT22",
+            "oemPartNo": "7785993C03",
+            "baseCode": "700935-5003S"
+        },
+        {
+            "model": "X5",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU Euro 3",
+            "power": "214HP",
+            "year": "06-",
+            "turboModel": "GT22",
+            "oemPartNo": "7791046M09",
+            "baseCode": "753392-5018S"
+        },
+        {
+            "model": "X5 3.0d",
+            "engine": "3.0L D",
+            "engineCode": "M57 TU2",
+            "power": "228HP",
+            "year": "06-",
+            "turboModel": "GT22",
+            "oemPartNo": "7796314L12",
+            "baseCode": "765985-5010S"
+        }
+    ]
+}

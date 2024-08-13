@@ -1,0 +1,15 @@
+{
+    "brand": "Daihatsu",
+    "models": [
+        {
+            "model": "Fourtrak",
+            "engine": "2.8L D",
+            "engineCode": "X880",
+            "power": "",
+            "year": "",
+            "turboModel": "RHF3",
+            "oemPartNo": "17200-97216",
+            "baseCode": "VQ50"
+        }
+    ]
+}

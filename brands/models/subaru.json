@@ -1,0 +1,75 @@
+{
+    "brand": "Subaru",
+    "models": [
+        {
+            "model": "Forester",
+            "engine": "2.0L P",
+            "engineCode": "58T",
+            "power": "177HP",
+            "year": "99-",
+            "turboModel": "TF035",
+            "oemPartNo": "14411-AA270",
+            "baseCode": "49135-04690"
+        },
+        {
+            "model": "Forester",
+            "engine": "2.0L P",
+            "engineCode": "EJ20",
+            "power": "",
+            "year": "04-",
+            "turboModel": "TF035",
+            "oemPartNo": "14412-AA420",
+            "baseCode": "49135-04581"
+        },
+        {
+            "model": "Impreza 2.5i WRX",
+            "engine": "2.5L P",
+            "engineCode": "-",
+            "power": "280HP",
+            "year": "00-",
+            "turboModel": "RHF5",
+            "oemPartNo": "14411-AA373",
+            "baseCode": "VF30"
+        },
+        {
+            "model": "Impreza WRX",
+            "engine": "2.0L P",
+            "engineCode": "-",
+            "power": "",
+            "year": "03-",
+            "turboModel": "RHF5",
+            "oemPartNo": "14411-AA493",
+            "baseCode": "VF36"
+        },
+        {
+            "model": "Impreza WRX",
+            "engine": "2.5L P",
+            "engineCode": "-",
+            "power": "280HP",
+            "year": "01-",
+            "turboModel": "RHF55",
+            "oemPartNo": "14411-AA440",
+            "baseCode": "VF35"
+        },
+        {
+            "model": "Impreza WRX",
+            "engine": "2.5L P",
+            "engineCode": "-",
+            "power": "",
+            "year": "01-",
+            "turboModel": "RHF5",
+            "oemPartNo": "14411-AA321",
+            "baseCode": "VF34"
+        },
+        {
+            "model": "Impreza WRX R8",
+            "engine": "2.0L P",
+            "engineCode": "-",
+            "power": "280HP",
+            "year": "96-",
+            "turboModel": "RHF5HB",
+            "oemPartNo": "14411-AA220",
+            "baseCode": "VF22"
+        }
+    ]
+}

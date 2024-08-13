@@ -1,0 +1,95 @@
+{
+    "brand": "Jaguar",
+    "models": [
+        {
+            "model": "S Type TD",
+            "engine": "2.7L D",
+            "engineCode": "AJ V6 Euro 3Lion (Left)",
+            "power": "205HP",
+            "year": "04-06",
+            "turboModel": "GT15",
+            "oemPartNo": "4R8Q6K682BL",
+            "baseCode": "726422-5013S"
+        },
+        {
+            "model": "S Type TD",
+            "engine": "2.7L D",
+            "engineCode": "AJ V6Euro 3Lion (Right)",
+            "power": "205HP",
+            "year": "04-06",
+            "turboModel": "GT15",
+            "oemPartNo": "4R8Q6K682AL",
+            "baseCode": "726423-5013S"
+        },
+        {
+            "model": "S Type TD",
+            "engine": "2.7L D",
+            "engineCode": "AJ V6Euro 4Lion (Left)",
+            "power": "205HP",
+            "year": "06-08",
+            "turboModel": "GT15",
+            "oemPartNo": "6R8Q6K682BB",
+            "baseCode": "752341-5006S"
+        },
+        {
+            "model": "S Type TD",
+            "engine": "2.7L D",
+            "engineCode": "AJ V6Euro 4Lion (Right)",
+            "power": "205HP",
+            "year": "06-08",
+            "turboModel": "GT15",
+            "oemPartNo": "6R8Q6K682BB",
+            "baseCode": "752343-5006S"
+        },
+        {
+            "model": "X Type",
+            "engine": "2.0L D",
+            "engineCode": "FMBA Duratorq DI",
+            "power": "130HP",
+            "year": "03-03",
+            "turboModel": "GT17",
+            "oemPartNo": "3S7Q6K682AF",
+            "baseCode": "714467-5014S"
+        },
+        {
+            "model": "X Type",
+            "engine": "2.0L D",
+            "engineCode": "Puma",
+            "power": "130HP",
+            "year": "03-10",
+            "turboModel": "GT17",
+            "oemPartNo": "4S7Q6K682EN",
+            "baseCode": "728680-5020S"
+        },
+        {
+            "model": "X Type",
+            "engine": "2.2L D",
+            "engineCode": "Puma",
+            "power": "153HP",
+            "year": "05-10",
+            "turboModel": "GT17",
+            "oemPartNo": "6S7Q6K682AG",
+            "baseCode": "758226-5014S"
+        },
+        {
+            "model": "XJTDVi",
+            "engine": "2.7L D",
+            "engineCode": "AJ V6Euro 4Lion (Left)",
+            "power": "205HP",
+            "year": "05-10",
+            "turboModel": "GT15",
+            "oemPartNo": "6R8Q6K682BB",
+            "baseCode": "752341-5006S"
+        },
+        {
+            "model": "XJTDVi",
+            "engine": "2.7L D",
+            "engineCode": "AJ V6Euro 4Lion (Right)",
+            "power": "205HP",
+            "year": "05-10",
+            "turboModel": "GT15",
+            "oemPartNo": "6R8Q6K682BB",
+            "baseCode": "752343-5006S"
+        }
+    ]
+}

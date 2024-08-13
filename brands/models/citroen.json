@@ -1,0 +1,675 @@
+{
+    "brand": "Citroen",
+    "models": [
+        {
+            "model": "Berlingo HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6UTED",
+            "power": "90HP",
+            "year": "95-",
+            "turboModel": "TD02",
+            "oemPartNo": "9682881380",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "Berlingo HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "00-08",
+            "turboModel": "GT15",
+            "oemPartNo": "9622526980",
+            "baseCode": "706977-5002S"
+        },
+        {
+            "model": "Berlingo HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "00-08",
+            "turboModel": "GT17",
+            "oemPartNo": "9633614180",
+            "baseCode": "706976-5002S"
+        },
+        {
+            "model": "C1 HDi",
+            "engine": "1.4L D",
+            "engineCode": "DV4TED 8v",
+            "power": "54HP",
+            "year": "05-",
+            "turboModel": "KP35",
+            "oemPartNo": "9661557480",
+            "baseCode": "5435-970-0021"
+        },
+        {
+            "model": "C2 HDi",
+            "engine": "1.4L D",
+            "engineCode": "DV4TD/8HX",
+            "power": "70HP",
+            "year": "03-",
+            "turboModel": "KP35",
+            "oemPartNo": "9648759980",
+            "baseCode": "5435-970-0009"
+        },
+        {
+            "model": "C2 HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HZ 16v",
+            "power": "109HP",
+            "year": "05-06",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "C3 Hdi",
+            "engine": "1.4L D",
+            "engineCode": "DV4TD/8HX",
+            "power": "70HP",
+            "year": "03-",
+            "turboModel": "KP35",
+            "oemPartNo": "9648759980",
+            "baseCode": "5435-970-0009"
+        },
+        {
+            "model": "C3 Hdi",
+            "engine": "1.4L D",
+            "engineCode": "DV4TED4/8HY",
+            "power": "92HP",
+            "year": "02-",
+            "turboModel": "RHF3",
+            "oemPartNo": "9646830980",
+            "baseCode": "VVP2"
+        },
+        {
+            "model": "C3 Hdi",
+            "engine": "1.6L D",
+            "engineCode": "DV6ATED4 9HX",
+            "power": "90HP",
+            "year": "05-09",
+            "turboModel": "TD02",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "C3 Hdi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HZ",
+            "power": "110HP",
+            "year": "05-06",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "C3 Hdi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HZ Euro 4",
+            "power": "110HP",
+            "year": "06-09",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199080",
+            "baseCode": "762328-5002S"
+        },
+        {
+            "model": "C3 Picasso HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HX/Y/Z Euro 3/4",
+            "power": "110HP",
+            "year": "04-06",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "C3 Picasso HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6UTED4",
+            "power": "90HP",
+            "year": "07-",
+            "turboModel": "TD02",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "C4 HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6ATED4 9HX",
+            "power": "92HP",
+            "year": "04-",
+            "turboModel": "TD02",
+            "oemPartNo": "9673283680",
+            "baseCode": "49373-02013"
+        },
+        {
+            "model": "C4 HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HV / 9HX",
+            "power": "90HP",
+            "year": "04-",
+            "turboModel": "TD02",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "C4 HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HX/Y/Z Euro 3/4",
+            "power": "109HP",
+            "year": "04-06",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "C4 HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HX/Y/Z Euro 4",
+            "power": "109HP",
+            "year": "06-",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199080",
+            "baseCode": "762328-5002S"
+        },
+        {
+            "model": "C4 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10BTED4 RHR16v",
+            "power": "136HP",
+            "year": "04-09",
+            "turboModel": "GT17",
+            "oemPartNo": "9682778680",
+            "baseCode": "756047-5005S"
+        },
+        {
+            "model": "C4 Picasso HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HX/Y/Z Euro 3/4",
+            "power": "110HP",
+            "year": "04-06",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "C4 Picasso HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6UTED4",
+            "power": "90HP",
+            "year": "07-",
+            "turboModel": "TD02",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "C4 Picasso HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10BTED4 RHR/RHJ 16v",
+            "power": "136HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "9682778680",
+            "baseCode": "756047-5005S"
+        },
+        {
+            "model": "C4Grand Picasso HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HX/Y/Z Euro 3/4",
+            "power": "110HP",
+            "year": "06-",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "C4Grand Picasso HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10BTED4 RHR/RHJ 16v",
+            "power": "136HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "9682778680",
+            "baseCode": "756047-5005S"
+        },
+        {
+            "model": "C5 HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4 9HX/Y/Z Euro 3/4",
+            "power": "109HP",
+            "year": "04-07",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "C5 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10ATED RHZ8v",
+            "power": "109HP",
+            "year": "01-04",
+            "turboModel": "K03",
+            "oemPartNo": "9640168280",
+            "baseCode": "5303-970-0050"
+        },
+        {
+            "model": "C5 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10BTED4 RHR16v",
+            "power": "136HP",
+            "year": "01-",
+            "turboModel": "GT17",
+            "oemPartNo": "9682778680",
+            "baseCode": "756047-5005S"
+        },
+        {
+            "model": "C5 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY8v",
+            "power": "90HP",
+            "year": "01-04",
+            "turboModel": "GT15",
+            "oemPartNo": "9622526980",
+            "baseCode": "706977-5002S"
+        },
+        {
+            "model": "C5 HDi",
+            "engine": "2.2L D",
+            "engineCode": "DW12BTED4 4HT",
+            "power": "170HP",
+            "year": "06-",
+            "turboModel": "DSGT12",
+            "oemPartNo": "9684337780",
+            "baseCode": "778088-5001S"
+        },
+        {
+            "model": "C5 HDi",
+            "engine": "2.2L D",
+            "engineCode": "DW12TED4S",
+            "power": "136HP",
+            "year": "00-04",
+            "turboModel": "GT15",
+            "oemPartNo": "9662465380",
+            "baseCode": "726683-5003S"
+        },
+        {
+            "model": "C6 HDi",
+            "engine": "2.2L D",
+            "engineCode": "DW12BTED4 4HT16v",
+            "power": "173HP",
+            "year": "06-",
+            "turboModel": "DSGT12",
+            "oemPartNo": "9684337780",
+            "baseCode": "778088-5001S"
+        },
+        {
+            "model": "C8 HDi",
+            "engine": "2.0L D",
+            "engineCode": "D10WATED FAP",
+            "power": "110HP",
+            "year": "01-",
+            "turboModel": "K03",
+            "oemPartNo": "9640168280",
+            "baseCode": "5303-970-0050"
+        },
+        {
+            "model": "C8 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10ATED4 RHZ",
+            "power": "110HP",
+            "year": "03-",
+            "turboModel": "GT15",
+            "oemPartNo": "9644384280",
+            "baseCode": "713667-5003S"
+        },
+        {
+            "model": "C8 HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10BTED4 RHR",
+            "power": "136HP",
+            "year": "06-",
+            "turboModel": "GT17",
+            "oemPartNo": "9682778880",
+            "baseCode": "760220-5003S"
+        },
+        {
+            "model": "Dispatch HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10 JATED4 / ATED",
+            "power": "109HP",
+            "year": "00-06",
+            "turboModel": "GT15",
+            "oemPartNo": "9644384180",
+            "baseCode": "713667-5003S"
+        },
+        {
+            "model": "Dispatch HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10UTED4",
+            "power": "120HP",
+            "year": "07-",
+            "turboModel": "GT17",
+            "oemPartNo": "9661306080",
+            "baseCode": "764609-5001S"
+        },
+        {
+            "model": "Nemo HDi",
+            "engine": "1.4L D",
+            "engineCode": "DV4TED 8v",
+            "power": "72HP",
+            "year": "08-",
+            "turboModel": "KP35",
+            "oemPartNo": "9661557480",
+            "baseCode": "5435-970-0021"
+        },
+        {
+            "model": "Relay HDi",
+            "engine": "1.6L D",
+            "engineCode": "DV6UTED4",
+            "power": "90HP",
+            "year": "07-",
+            "turboModel": "TD02",
+            "oemPartNo": "9682881780",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "Relay HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10UTD RHV",
+            "power": "85HP",
+            "year": "01-02",
+            "turboModel": "K03",
+            "oemPartNo": "9636473280",
+            "baseCode": "5303-970-0061"
+        },
+        {
+            "model": "Relay HDi",
+            "engine": "2.2L D",
+            "engineCode": "P22DTE 4HV",
+            "power": "100HP",
+            "year": "02-06",
+            "turboModel": "K03",
+            "oemPartNo": "9643350480",
+            "baseCode": "5303-970-0062"
+        },
+        {
+            "model": "Relay HDi",
+            "engine": "2.8L D",
+            "engineCode": "8140.43S Euro 3",
+            "power": "128HP",
+            "year": "00-06",
+            "turboModel": "K03",
+            "oemPartNo": "500364493",
+            "baseCode": "5303-970-0081"
+        },
+        {
+            "model": "Relay HDi",
+            "engine": "3.0L D",
+            "engineCode": "F1CE (F30DT)",
+            "power": "157HP",
+            "year": "06-",
+            "turboModel": "TD04",
+            "oemPartNo": "504110697",
+            "baseCode": "49189-02950"
+        },
+        {
+            "model": "Relay TD",
+            "engine": "1.9L D",
+            "engineCode": "XUD9UTF D8C",
+            "power": "92HP",
+            "year": "94-02",
+            "turboModel": "K14",
+            "oemPartNo": "1463015080",
+            "baseCode": "5314-970-7015"
+        },
+        {
+            "model": "Synergie HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10 ATED/ATED4 RHZ8v",
+            "power": "110HP",
+            "year": "99-00",
+            "turboModel": "GT15",
+            "oemPartNo": "9634521180",
+            "baseCode": "706978-5001S"
+        },
+        {
+            "model": "Synergie HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10JATED4 (RHW)16v",
+            "power": "110HP",
+            "year": "00-02",
+            "turboModel": "GT15",
+            "oemPartNo": "9644384280",
+            "baseCode": "713667-5003S"
+        },
+        {
+            "model": "Synergie TD",
+            "engine": "1.9L D",
+            "engineCode": "XUD9TF/L D8B",
+            "power": "92HP",
+            "year": "95-00",
+            "turboModel": "TB02",
+            "oemPartNo": "9623320880",
+            "baseCode": "454086-5001S"
+        },
+        {
+            "model": "XM2.0i",
+            "engine": "2.0L P",
+            "engineCode": "XU10J2CTE RGX",
+            "power": "150HP",
+            "year": "93-00",
+            "turboModel": "TB25",
+            "oemPartNo": "9624296380",
+            "baseCode": "454162-5001S"
+        },
+        {
+            "model": "Xantia",
+            "engine": "1.9L D",
+            "engineCode": "XUD9TTF/X1",
+            "power": "71HP",
+            "year": "93-96",
+            "turboModel": "K14",
+            "oemPartNo": "9615718980",
+            "baseCode": "5314-970-7013"
+        },
+        {
+            "model": "Xantia Activa2.0i",
+            "engine": "2.0L P",
+            "engineCode": "XU10J2CTE RGX",
+            "power": "150HP",
+            "year": "93-99",
+            "turboModel": "TB25",
+            "oemPartNo": "9624296380",
+            "baseCode": "454162-5001S"
+        },
+        {
+            "model": "Xantia HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10ATD RHY",
+            "power": "90HP",
+            "year": "99-01",
+            "turboModel": "GT17",
+            "oemPartNo": "9633614180",
+            "baseCode": "706976-5002S"
+        },
+        {
+            "model": "Xantia HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10ATED RHZ",
+            "power": "110HP",
+            "year": "98-01",
+            "turboModel": "K03",
+            "oemPartNo": "9640168280",
+            "baseCode": "5303-970-0050"
+        },
+        {
+            "model": "Xantia HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10ATED RHZ",
+            "power": "110HP",
+            "year": "98-99",
+            "turboModel": "K03",
+            "oemPartNo": "9632427880",
+            "baseCode": "5303-970-0018"
+        },
+        {
+            "model": "Xantia HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "99-01",
+            "turboModel": "GT15",
+            "oemPartNo": "9622526980",
+            "baseCode": "706977-5002S"
+        },
+        {
+            "model": "Xantia HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "98-01",
+            "turboModel": "K03",
+            "oemPartNo": "9632406680",
+            "baseCode": "5303-970-0023"
+        },
+        {
+            "model": "Xantia HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "98-01",
+            "turboModel": "K03",
+            "oemPartNo": "9622526980",
+            "baseCode": "5303-970-0009"
+        },
+        {
+            "model": "Xantia HDi",
+            "engine": "2.1L D",
+            "engineCode": "XUD11BTE/P8C",
+            "power": "110HP",
+            "year": "97-98",
+            "turboModel": "GT15",
+            "oemPartNo": "9624858780",
+            "baseCode": "454155-5002S"
+        },
+        {
+            "model": "Xantia TD",
+            "engine": "1.9L D",
+            "engineCode": "XUD9BTF DHX",
+            "power": "90HP",
+            "year": "96-98",
+            "turboModel": "TB02",
+            "oemPartNo": "9621569080",
+            "baseCode": "454131-5003S"
+        },
+        {
+            "model": "Xantia TD",
+            "engine": "1.9L D",
+            "engineCode": "XUD9BTF/D8",
+            "power": "92HP",
+            "year": "95-00",
+            "turboModel": "K14",
+            "oemPartNo": "9625820280",
+            "baseCode": "5314-970-7024"
+        },
+        {
+            "model": "Xantia TD",
+            "engine": "1.9L D",
+            "engineCode": "XUD9TF/L D8B",
+            "power": "92HP",
+            "year": "98-00",
+            "turboModel": "GT15",
+            "oemPartNo": "9633785480",
+            "baseCode": "454171-5005S"
+        },
+        {
+            "model": "Xsara",
+            "engine": "1.9L D",
+            "engineCode": "XUD9TE DHY",
+            "power": "90HP",
+            "year": "98-99",
+            "turboModel": "GT15",
+            "oemPartNo": "9635220680",
+            "baseCode": "454176-5006S"
+        },
+        {
+            "model": "Xsara",
+            "engine": "1.9LD",
+            "engineCode": "XUD9TE",
+            "power": "90HP",
+            "year": "98-99",
+            "turboModel": "K03",
+            "oemPartNo": "9635220680",
+            "baseCode": "5303-970-0028"
+        },
+        {
+            "model": "Xsara HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10ATED RHZ",
+            "power": "110HP",
+            "year": "99-05",
+            "turboModel": "K03",
+            "oemPartNo": "9640355080",
+            "baseCode": "5303-970-0057"
+        },
+        {
+            "model": "Xsara HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "99-05",
+            "turboModel": "GT15",
+            "oemPartNo": "9622526980",
+            "baseCode": "706977-5002S"
+        },
+        {
+            "model": "Xsara HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "99-05",
+            "turboModel": "GT17",
+            "oemPartNo": "9632406680",
+            "baseCode": "706976-5002S"
+        },
+        {
+            "model": "Xsara HDi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "99-05",
+            "turboModel": "K03",
+            "oemPartNo": "9632406680",
+            "baseCode": "5303-970-0023"
+        },
+        {
+            "model": "Xsara Picasso Hdi",
+            "engine": "1.6L D",
+            "engineCode": "DV6TED4",
+            "power": "110HP",
+            "year": "04-",
+            "turboModel": "GT15",
+            "oemPartNo": "9663199280",
+            "baseCode": "753420-5005S"
+        },
+        {
+            "model": "Xsara Picasso Hdi",
+            "engine": "1.6L D",
+            "engineCode": "DV6UTED4",
+            "power": "90HP",
+            "year": "95-",
+            "turboModel": "TD02",
+            "oemPartNo": "9662371080",
+            "baseCode": "49173-07508"
+        },
+        {
+            "model": "Xsara Picasso Hdi",
+            "engine": "2.0L D",
+            "engineCode": "DW10TD RHY",
+            "power": "90HP",
+            "year": "00-07",
+            "turboModel": "GT15",
+            "oemPartNo": "9622526980",
+            "baseCode": "706977-5002S"
+        }
+    ]
+}
