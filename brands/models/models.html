@@ -86,13 +86,13 @@
                         modelDiv.classList.add('model-item');
                         modelDiv.innerHTML = `
                             <h2 class="m"><span>${model.model}</span></h2>
-                            <p>Engine: ${model.engine}</p>
-                            <p>Engine Code: ${model.engineCode}</p>
-                            <p>Power: ${model.power}</p>
-                            <p>Year: ${model.year}</p>
+                            <p>${model.engine}</p>
+                            <p>EC: ${model.engineCode}</p>
+                            <p>${model.power}</p>
+                            <p>${model.year}</p>
                             <p class="tm"><span>Turbo Model: ${model.turboModel}</span></p>
-                            <p>OEM Part No.: ${model.oemPartNo}</p>
-                            <p>Base Code: ${model.baseCode}</p>
+                            <p>OEM: ${model.oemPartNo}</p>
+                            <p>BC: ${model.baseCode}</p>
                         `;
                         modelsList.appendChild(modelDiv);
                     });
